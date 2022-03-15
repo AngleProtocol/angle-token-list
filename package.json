@@ -1,0 +1,12 @@
+{
+  "name": "angle-token-list",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/AngleProtocol/angle-token-list.git",
+  "author": "greedythib <thibaud.bruyelle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angleprotocol/sdk": "^1.0.63",
+    "ts-node": "^10.7.0"
+  }
+}
