@@ -7,6 +7,7 @@ export interface TokenInfo {
   readonly symbol: string;
   readonly isSanToken: boolean;
   readonly hasPermit?: boolean;
+  readonly permitVersion?: string;
   readonly logoURI?: string;
   readonly tags?: string[];
 }
