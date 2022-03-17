@@ -1,5 +1,23 @@
 [
     {
+        "agEUR":{
+            "name": "Angle Euro", 
+            "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+            "decimals": 18,
+            "symbol": "agEUR",
+            "isSanToken": false,
+            "hasPermit": true, 
+            "permitVersion": "1"
+        },
+        "ANGLE":{
+            "name": "Angle Governance Token", 
+            "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+            "decimals": 18,
+            "symbol": "ANGLE",
+            "isSanToken": false,
+            "hasPermit": true, 
+            "permitVersion": "1"
+        },
         "DAI": {
             "name": "Dai Stablecoin",
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -18,10 +36,26 @@
             "permitVersion": "1"
           },
           "FRAX": {
-            "name": "FRAX USD",
+            "name": "FRAX",
             "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
             "decimals": 18,
             "symbol": "FRAX",
+            "isSanToken": false,
+            "hasPermit": false
+          },
+          "G-Uni_agEUR_USDC": {
+            "name": "Gelato Uniswap agEUR/USDC LP",
+            "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
+            "decimals": 18,
+            "symbol": "G-Uni agEUR/USDC",
+            "isSanToken": false,
+            "hasPermit": false
+          },
+          "G-Uni_agEUR_wETH": {
+            "name": "Gelato Uniswap agEUR/wETH LP",
+            "address": "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f",
+            "decimals": 18,
+            "symbol": "G-Uni agEUR/wETH",
             "isSanToken": false,
             "hasPermit": false
           },
