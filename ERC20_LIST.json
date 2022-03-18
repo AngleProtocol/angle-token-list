@@ -2,7 +2,7 @@
     {
         "mainnet":{
             "agEUR":{
-                "name": "Angle", 
+                "name": "Angle Euro", 
                 "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
                 "decimals": 18,
                 "symbol": "agEUR",
@@ -60,6 +60,15 @@
                 "isSanToken": false,
                 "hasPermit": false
               },
+              "sanUSDC_EUR": {
+                "name": "sanToken USDC_EUR",
+                "address": "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad",
+                "decimals": 6,
+                "symbol": "sanUSDC_EUR",
+                "isSanToken": false,
+                "hasPermit": true,
+                "permitVersion": "1"
+              },
               "USDC": {
                 "name": "USD Coin",
                 "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -69,19 +78,19 @@
                 "hasPermit": true,
                 "permitVersion": "2"
               },
-              "sanUSDC_EUR": {
-                "name": "sanToken USDC_EUR",
-                "address": "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad",
-                "decimals": 6,
-                "symbol": "sanUSDC_EUR",
+              "veANGLE":{
+                "name": "voting-escrow Angle", 
+                "address": "0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5",
+                "decimals": 18,
+                "symbol": "veANGLE",
                 "isSanToken": false,
-                "hasPermit": true,
+                "hasPermit": true, 
                 "permitVersion": "1"
-              }
+            }
         },
         "rinkeby":{
             "agEUR":{
-                "name": "Angle", 
+                "name": "Angle Euro", 
                 "address": "0xFA97D340a7a3EaF231148465bd5C142BE0E3CEd6",
                 "decimals": 18,
                 "symbol": "agEUR",
@@ -125,6 +134,15 @@
                 "hasPermit": true,
                 "permitVersion": "1"
               },
+              "sanUSDC_EUR": {
+                "name": "sanToken USDC_EUR",
+                "address": "0xACeCe481c7EdE9D34d7587Bd93a867964DC8236C",
+                "decimals": 6,
+                "symbol": "sanUSDC_EUR",
+                "isSanToken": false,
+                "hasPermit": true,
+                "permitVersion": "1"
+              },
               "USDC": {
                 "name": "USD Coin",
                 "address": "0x490Fb85babC4601Da0A6D7dd549082e7CF9745B0",
@@ -134,15 +152,15 @@
                 "hasPermit": true,
                 "permitVersion": "1"
               },
-              "sanUSDC_EUR": {
-                "name": "sanToken USDC_EUR",
-                "address": "0xACeCe481c7EdE9D34d7587Bd93a867964DC8236C",
-                "decimals": 6,
-                "symbol": "sanUSDC_EUR",
+              "veANGLE":{
+                "name": "voting-escrow Angle", 
+                "address": "0xB914C979Af4392f69EA25A8b8b2C30a424A0A541",
+                "decimals": 18,
+                "symbol": "veANGLE",
                 "isSanToken": false,
-                "hasPermit": true,
+                "hasPermit": true, 
                 "permitVersion": "1"
-              }
+            }
         }
     }
 
