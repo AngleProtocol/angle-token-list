@@ -3,7 +3,6 @@
         "mainnet":{
             "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8":{
                 "name": "Angle Euro", 
-                "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
                 "decimals": 18,
                 "symbol": "agEUR",
                 "isSanToken": false,
@@ -12,7 +11,6 @@
             },
             "0x31429d1856aD1377A8A0079410B297e1a9e214c2":{
                 "name": "Angle Governance Token", 
-                "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
                 "decimals": 18,
                 "symbol": "ANGLE",
                 "isSanToken": false,
@@ -21,7 +19,6 @@
             },
             "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
                 "name": "Dai Stablecoin",
-                "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
                 "decimals": 18,
                 "symbol": "DAI",
                 "isSanToken": false,
@@ -29,7 +26,6 @@
               },
               "0x956F47F50A910163D8BF957Cf5846D573E7f87CA": {
                 "name": "Fei USD",
-                "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
                 "decimals": 18,
                 "symbol": "FEI",
                 "isSanToken": false,
@@ -38,7 +34,6 @@
               },
               "0x853d955aCEf822Db058eb8505911ED77F175b99e": {
                 "name": "FRAX",
-                "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
                 "decimals": 18,
                 "symbol": "FRAX",
                 "isSanToken": false,
@@ -46,7 +41,6 @@
               },
               "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add": {
                 "name": "Gelato Uniswap agEUR/USDC LP",
-                "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
                 "decimals": 18,
                 "symbol": "G-Uni agEUR/USDC",
                 "isSanToken": false,
@@ -54,7 +48,6 @@
               },
               "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f": {
                 "name": "Gelato Uniswap agEUR/wETH LP",
-                "address": "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f",
                 "decimals": 18,
                 "symbol": "G-Uni agEUR/wETH",
                 "isSanToken": false,
@@ -62,7 +55,6 @@
               },
               "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad": {
                 "name": "sanToken USDC_EUR",
-                "address": "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad",
                 "decimals": 6,
                 "symbol": "sanUSDC_EUR",
                 "isSanToken": false,
@@ -71,7 +63,6 @@
               },
               "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
                 "name": "USD Coin",
-                "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                 "decimals": 6,
                 "symbol": "USDC",
                 "isSanToken": false,
@@ -80,7 +71,6 @@
               },
               "0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5":{
                 "name": "voting-escrow Angle", 
-                "address": "0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5",
                 "decimals": 18,
                 "symbol": "veANGLE",
                 "isSanToken": false,
@@ -91,7 +81,6 @@
         "rinkeby":{
             "0xFA97D340a7a3EaF231148465bd5C142BE0E3CEd6":{
                 "name": "Angle Euro", 
-                "address": "0xFA97D340a7a3EaF231148465bd5C142BE0E3CEd6",
                 "decimals": 18,
                 "symbol": "agEUR",
                 "isSanToken": false,
@@ -100,7 +89,6 @@
             },
             "0x348f985B6c031686f274401E98E135137f8a4f88":{
                 "name": "Angle Governance Token", 
-                "address": "0x348f985B6c031686f274401E98E135137f8a4f88",
                 "decimals": 18,
                 "symbol": "ANGLE",
                 "isSanToken": false,
@@ -109,7 +97,6 @@
             },
             "0xFafc4C0318F8758A17585767890Da43db1a560A5": {
                 "name": "Dai Stablecoin",
-                "address": "0xFafc4C0318F8758A17585767890Da43db1a560A5",
                 "decimals": 18,
                 "symbol": "DAI",
                 "isSanToken": false,
@@ -118,7 +105,6 @@
               },
               "0x0e23236781A99ab9c9f1D6e4c1853597f3510768": {
                 "name": "Wrapped Bitcoin",
-                "address": "0x0e23236781A99ab9c9f1D6e4c1853597f3510768",
                 "decimals": 18,
                 "symbol": "FRAX",
                 "isSanToken": false,
@@ -127,7 +113,6 @@
               },
               "0x36831B2cc0371436A361fFC0EFd34bC0eCC33e2b": {
                 "name": "Wrapped Ether",
-                "address": "0x36831B2cc0371436A361fFC0EFd34bC0eCC33e2b",
                 "decimals": 18,
                 "symbol": "WETH",
                 "isSanToken": false,
@@ -136,7 +121,6 @@
               },
               "0xACeCe481c7EdE9D34d7587Bd93a867964DC8236C": {
                 "name": "sanToken USDC_EUR",
-                "address": "0xACeCe481c7EdE9D34d7587Bd93a867964DC8236C",
                 "decimals": 6,
                 "symbol": "sanUSDC_EUR",
                 "isSanToken": false,
@@ -145,7 +129,6 @@
               },
               "0x490Fb85babC4601Da0A6D7dd549082e7CF9745B0": {
                 "name": "USD Coin",
-                "address": "0x490Fb85babC4601Da0A6D7dd549082e7CF9745B0",
                 "decimals": 6,
                 "symbol": "USDC",
                 "isSanToken": false,
@@ -153,8 +136,7 @@
                 "permitVersion": "1"
               },
               "0xB914C979Af4392f69EA25A8b8b2C30a424A0A541":{
-                "name": "voting-escrow Angle", 
-                "address": "0xB914C979Af4392f69EA25A8b8b2C30a424A0A541",
+                "name": "voting-escrowed Angle", 
                 "decimals": 18,
                 "symbol": "veANGLE",
                 "isSanToken": false,
