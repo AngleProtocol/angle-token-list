@@ -6,6 +6,7 @@ export interface TokenInfo {
   readonly decimals: number;
   readonly symbol: string;
   readonly isSanToken: boolean;
+  readonly useInSwap?: boolean;
   readonly hasPermit?: boolean;
   readonly permitVersion?: string;
   readonly logoURI?: string;
