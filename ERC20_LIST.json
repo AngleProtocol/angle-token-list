@@ -59,7 +59,7 @@
                 "symbol": "G-Uni agEUR/wETH",
                 "isSanToken": false,
                 "hasPermit": false,
-                "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR/wETH.svg"
+                "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_wETH.svg"
               },
               "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad": {
                 "name": "sanToken USDC_EUR",
