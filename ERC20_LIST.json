@@ -185,7 +185,15 @@
                 "hasPermit": true, 
                 "permitVersion": "1",
                 "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veANGLE.svg"
-            }
+            },
+            "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee":{
+              "name": "Ether", 
+              "decimals": 18,
+              "symbol": "ETH",
+              "isSanToken": false,
+              "hasPermit": false, 
+              "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+          }
         }
     }
 
