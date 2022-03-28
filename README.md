@@ -4,9 +4,21 @@
 
 ## `.json` Token List
 
-All tokens are listed in `ERC20_LIST.json` and can be used as follows: 
+All tokens are listed in `ERC20_LIST.json` and should be typed as follows: 
 
 ```
+interface TokenInfo {
+  readonly name: string;
+  readonly address: string;
+  readonly decimals: number;
+  readonly symbol: string;
+  readonly isSanToken: boolean;
+  readonly useInSwap?: boolean;
+  readonly hasPermit?: boolean;
+  readonly permitVersion?: string;
+  readonly logoURI?: string;
+  readonly tags?: string[];
+}
 ```
 
 ## [WIP] Angle ERC20 list
