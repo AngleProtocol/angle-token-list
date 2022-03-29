@@ -111,7 +111,15 @@
               "isSanToken": false,
               "hasPermit": false,
               "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
-          }
+           },
+           "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee":{
+             "name": "Ether", 
+             "decimals": 18,
+             "symbol": "ETH",
+             "isSanToken": false,
+             "hasPermit": false, 
+             "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+        }
         },
         "rinkeby":{
             "0xFA97D340a7a3EaF231148465bd5C142BE0E3CEd6":{
