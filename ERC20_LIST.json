@@ -118,7 +118,7 @@
              "symbol": "ETH",
              "isSanToken": false,
              "hasPermit": false, 
-             "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+             "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
         }
         },
         "rinkeby":{
