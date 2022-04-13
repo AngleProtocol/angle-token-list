@@ -145,6 +145,14 @@
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanDAI_EUR.svg"
+      },
+      "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
+        "name": "Aave Token",
+        "decimals": 18,
+        "symbol": "AAVE",
+        "isSanToken": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AAVE.svg"
       }
     },
     "rinkeby": {
