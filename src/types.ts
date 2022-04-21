@@ -5,7 +5,7 @@ export interface TokenInfo {
   readonly address: string;
   readonly decimals: number;
   readonly symbol: string;
-  readonly isSanToken: boolean;
+  readonly isSanToken?: boolean;
   readonly useInSwap?: boolean;
   readonly hasPermit?: boolean;
   readonly permitVersion?: string;
