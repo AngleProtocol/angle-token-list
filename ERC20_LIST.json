@@ -137,7 +137,7 @@
         "name": "sanToken FEI_EUR",
         "decimals": 18,
         "symbol": "sanFEI_EUR",
-        "useInSwap": true,
+        "useInSwap": false,
         "isSanToken": true,
         "hasPermit": true,
         "permitVersion": "1",
@@ -216,6 +216,15 @@
         "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YFI.svg"
+      },
+      "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
+        "name": "Graph Token",
+        "decimals": 18,
+        "symbol": "GRT",
+        "useInSwap": true,
+        "isSanToken": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRT.svg"
       }
     },
     "rinkeby": {
