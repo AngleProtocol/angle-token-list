@@ -226,7 +226,7 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRT.svg"
       },
-      "0xa5409ec958c83c3f309868babaca7c86dcb077c1": {
+      "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
         "name": "Sushi Token",
         "decimals": 18,
         "symbol": "SUSHI",
