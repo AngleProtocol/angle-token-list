@@ -113,7 +113,7 @@
         "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veANGLE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
       },
       "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
         "name": "Wrapped Bitcoin",
@@ -316,7 +316,7 @@
         "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veANGLE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
       },
       "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
         "name": "Ether",
