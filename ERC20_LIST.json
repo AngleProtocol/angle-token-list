@@ -263,6 +263,24 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wstETH.svg"
       }
     },
+    "polygon": {
+      "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4": {
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "isSanToken": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+      },
+      "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
+        "name": "Angle Governance Token",
+        "decimals": 18,
+        "symbol": "ANGLE",
+        "isSanToken": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+      }
+    },
     "rinkeby": {
       "0xFA97D340a7a3EaF231148465bd5C142BE0E3CEd6": {
         "name": "Angle Euro",
