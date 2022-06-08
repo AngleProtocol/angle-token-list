@@ -6,7 +6,9 @@ export const TOKEN_LIST: TokenList[] = erc20s;
 
 const result = joiSchema.validate(TOKEN_LIST);
 if (result.error) {
-  console.log(inspect(result.error, { showHidden: false, depth: null, colors: true }));
+  console.log(
+    inspect(result.error, { showHidden: false, depth: null, colors: true })
+  );
   throw new Error("wrong JSON format");
 } else {
   console.log("all good");
