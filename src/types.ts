@@ -21,12 +21,13 @@ const tokenInfo = Joi.object().keys({
   isSanToken: Joi.bool(),
   hasPermit: Joi.bool(),
   permitVersion: Joi.string(),
-  logoURI: Joi.string()
+  logoURI: Joi.string(),
 });
 
 export const joiSchema = Joi.array().items({
   mainnet: Joi.object().pattern(/^/, tokenInfo),
-  rinkeby: Joi.object().pattern(/^/, tokenInfo)
+  polygon: Joi.object().pattern(/^/, tokenInfo),
+  rinkeby: Joi.object().pattern(/^/, tokenInfo),
 });
 
 export interface TokenInfoListType {
