@@ -69,6 +69,15 @@
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanUSDC_EUR.svg"
       },
+      "0x30c955906735e48D73080fD20CB488518A6333C8": {
+        "name": "sanToken WETH_EUR",
+        "decimals": 18,
+        "symbol": "sanWETH_EUR",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanWETH_EUR.svg"
+      },
       "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F": {
         "name": "Stake DAO Token",
         "decimals": 8,
@@ -306,14 +315,6 @@
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanUSDC_EUR.svg"
-      },
-      "0x30c955906735e48D73080fD20CB488518A6333C8": {
-        "name": "sanToken WETH_EUR",
-        "decimals": 18,
-        "symbol": "sanWETH_EUR",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanWETH_EUR.svg"
       },
       "0x490Fb85babC4601Da0A6D7dd549082e7CF9745B0": {
         "name": "USD Coin",
