@@ -6,7 +6,6 @@
         "decimals": 18,
         "symbol": "agEUR",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
@@ -16,7 +15,6 @@
         "decimals": 18,
         "symbol": "ANGLE",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
@@ -26,7 +24,6 @@
         "decimals": 18,
         "symbol": "DAI",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
       },
@@ -35,7 +32,6 @@
         "decimals": 18,
         "symbol": "FEI",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FEI.svg"
@@ -44,7 +40,6 @@
         "name": "FRAX",
         "decimals": 18,
         "symbol": "FRAX",
-        "isSanToken": false,
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
@@ -54,7 +49,6 @@
         "decimals": 18,
         "symbol": "G-Uni agEUR/USDC",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_USDC.svg"
       },
@@ -63,7 +57,6 @@
         "decimals": 18,
         "symbol": "G-Uni agEUR/wETH",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_wETH.svg"
       },
@@ -72,7 +65,6 @@
         "decimals": 6,
         "symbol": "sanUSDC_EUR",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanUSDC_EUR.svg"
@@ -82,7 +74,6 @@
         "decimals": 8,
         "symbol": "SDT",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SDT.svg"
       },
@@ -91,7 +82,6 @@
         "decimals": 18,
         "symbol": "UNI",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
       },
@@ -100,7 +90,6 @@
         "decimals": 6,
         "symbol": "USDC",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "2",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
@@ -110,7 +99,6 @@
         "decimals": 6,
         "symbol": "USDT",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       },
@@ -119,7 +107,6 @@
         "decimals": 18,
         "symbol": "veANGLE",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veANGLE.svg"
@@ -129,7 +116,6 @@
         "decimals": 8,
         "symbol": "WBTC",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
       },
@@ -138,7 +124,6 @@
         "decimals": 18,
         "symbol": "ETH",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
       },
@@ -147,7 +132,6 @@
         "decimals": 18,
         "symbol": "sanFEI_EUR",
         "useInSwap": false,
-        "isSanToken": true,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanFEI_EUR.svg"
@@ -157,7 +141,6 @@
         "decimals": 18,
         "symbol": "sanFRAX_EUR",
         "useInSwap": false,
-        "isSanToken": true,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanFRAX_EUR.svg"
@@ -167,7 +150,6 @@
         "decimals": 18,
         "symbol": "sanDAI_EUR",
         "useInSwap": false,
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanDAI_EUR.svg"
@@ -177,7 +159,6 @@
         "decimals": 18,
         "symbol": "AAVE",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AAVE.svg"
       },
@@ -186,7 +167,6 @@
         "decimals": 18,
         "symbol": "WETH",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
@@ -195,7 +175,6 @@
         "decimals": 18,
         "symbol": "BUSD",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BUSD.svg"
       },
@@ -204,7 +183,6 @@
         "decimals": 18,
         "symbol": "LINK",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LINK.svg"
       },
@@ -213,7 +191,6 @@
         "decimals": 18,
         "symbol": "COMP",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/COMP.svg"
       },
@@ -222,7 +199,6 @@
         "decimals": 18,
         "symbol": "YFI",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YFI.svg"
       },
@@ -231,7 +207,6 @@
         "decimals": 18,
         "symbol": "GRT",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRT.svg"
       },
@@ -240,7 +215,6 @@
         "decimals": 18,
         "symbol": "SUSHI",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg"
       },
@@ -249,7 +223,6 @@
         "decimals": 18,
         "symbol": "CRV",
         "useInSwap": true,
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg"
       },
@@ -257,7 +230,6 @@
         "name": "stETH",
         "decimals": 18,
         "symbol": "stETH",
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stETH.svg"
       },
@@ -265,7 +237,6 @@
         "name": "Wrapped liquid staked Ether 2.0",
         "decimals": 18,
         "symbol": "wstETH",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wstETH.svg"
@@ -276,7 +247,6 @@
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
       },
@@ -284,7 +254,6 @@
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
       }
@@ -294,7 +263,6 @@
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
@@ -303,7 +271,6 @@
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
@@ -312,7 +279,6 @@
         "name": "Dai Stablecoin",
         "decimals": 18,
         "symbol": "DAI",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
@@ -321,7 +287,6 @@
         "name": "Wrapped Bitcoin",
         "decimals": 18,
         "symbol": "FRAX",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
@@ -330,7 +295,6 @@
         "name": "Wrapped Ether",
         "decimals": 18,
         "symbol": "WETH",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
@@ -339,16 +303,22 @@
         "name": "sanToken USDC_EUR",
         "decimals": 6,
         "symbol": "sanUSDC_EUR",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanUSDC_EUR.svg"
+      },
+      "0x30c955906735e48D73080fD20CB488518A6333C8": {
+        "name": "sanToken WETH_EUR",
+        "decimals": 18,
+        "symbol": "sanWETH_EUR",
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanWETH_EUR.svg"
       },
       "0x490Fb85babC4601Da0A6D7dd549082e7CF9745B0": {
         "name": "USD Coin",
         "decimals": 6,
         "symbol": "USDC",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
@@ -357,7 +327,6 @@
         "name": "voting-escrowed Angle",
         "decimals": 18,
         "symbol": "veANGLE",
-        "isSanToken": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veANGLE.svg"
@@ -366,7 +335,6 @@
         "name": "Ether",
         "decimals": 18,
         "symbol": "ETH",
-        "isSanToken": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
       }
