@@ -265,79 +265,20 @@
         "symbol": "ANGLE",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
-      }
-    },
-    "rinkeby": {
-      "0xFA97D340a7a3EaF231148465bd5C142BE0E3CEd6": {
-        "name": "Angle Euro",
-        "decimals": 18,
-        "symbol": "agEUR",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
       },
-      "0x348f985B6c031686f274401E98E135137f8a4f88": {
-        "name": "Angle Governance Token",
-        "decimals": 18,
-        "symbol": "ANGLE",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
-      },
-      "0xFafc4C0318F8758A17585767890Da43db1a560A5": {
-        "name": "Dai Stablecoin",
-        "decimals": 18,
-        "symbol": "DAI",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
-      },
-      "0x0e23236781A99ab9c9f1D6e4c1853597f3510768": {
-        "name": "Wrapped Bitcoin",
-        "decimals": 18,
-        "symbol": "FRAX",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
-      },
-      "0x36831B2cc0371436A361fFC0EFd34bC0eCC33e2b": {
+      "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": {
         "name": "Wrapped Ether",
         "decimals": 18,
         "symbol": "WETH",
-        "hasPermit": true,
-        "permitVersion": "1",
+        "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
-      "0xACeCe481c7EdE9D34d7587Bd93a867964DC8236C": {
-        "name": "sanToken USDC_EUR",
-        "decimals": 6,
-        "symbol": "sanUSDC_EUR",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanUSDC_EUR.svg"
-      },
-      "0x490Fb85babC4601Da0A6D7dd549082e7CF9745B0": {
-        "name": "USD Coin",
-        "decimals": 6,
-        "symbol": "USDC",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
-      },
-      "0xB914C979Af4392f69EA25A8b8b2C30a424A0A541": {
-        "name": "voting-escrowed Angle",
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
+        "name": "Wrapped Matic",
         "decimals": 18,
-        "symbol": "veANGLE",
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veANGLE.svg"
-      },
-      "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
-        "name": "Ether",
-        "decimals": 18,
-        "symbol": "ETH",
+        "symbol": "WMATIC",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WMATIC.svg"
       }
     }
   }
