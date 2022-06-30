@@ -252,7 +252,7 @@
       }
     },
     "polygon": {
-      "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4": {
+      "0xFE0E499fBb529214ce9744a66FCE8B05413aBB18": {
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
@@ -279,6 +279,13 @@
         "symbol": "WMATIC",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WMATIC.svg"
+      },
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
+        "name": "USD Coin (PoS)",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     }
   }
