@@ -257,7 +257,7 @@
         "decimals": 18,
         "symbol": "agEUR",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/polygon/agEUR.svg"
       },
       "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
         "name": "Angle Governance Token",
