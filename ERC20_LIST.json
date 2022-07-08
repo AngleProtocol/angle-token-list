@@ -285,7 +285,7 @@
         "decimals": 18,
         "symbol": "WMATIC",
         "hasPermit": false,
-        "logoURI": "https://assets.coingecko.com/coins/images/14073/large/matic.png"
+        "logoURI": "https://polygonscan.com/token/images/wMatic_32.png"
       },
       "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
         "name": "USD Coin (PoS)",
