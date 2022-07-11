@@ -294,6 +294,52 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
+    },
+    "optimism": {
+      "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad": {
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+      },
+      "0x4200000000000000000000000000000000000006": {
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x7F5c764cBc14f9669B88837ca1490cCa17c31607": {
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      }
+    },
+    "arbitrum": {
+      "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+      },
+      "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      }
     }
   }
 ]
