@@ -25,9 +25,11 @@ const tokenInfo = Joi.object().keys({
 });
 
 export const joiSchema = Joi.array().items({
-  mainnet: Joi.object().pattern(/^/, tokenInfo),
-  polygon: Joi.object().pattern(/^/, tokenInfo),
-  rinkeby: Joi.object().pattern(/^/, tokenInfo),
+  mainnet: Joi.object().pattern(Joi.string(), tokenInfo),
+  polygon: Joi.object().pattern(Joi.string(), tokenInfo),
+  rinkeby: Joi.object().pattern(Joi.string(), tokenInfo),
+  arbitrum: Joi.object().pattern(Joi.string(), tokenInfo),
+  optimism: Joi.object().pattern(Joi.string(), tokenInfo),
 });
 
 export interface TokenInfoListType {
