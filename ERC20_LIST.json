@@ -296,7 +296,7 @@
       }
     },
     "optimism": {
-      "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad": {
+      "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
@@ -319,7 +319,7 @@
       }
     },
     "arbitrum": {
-      "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
+      "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7": {
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
