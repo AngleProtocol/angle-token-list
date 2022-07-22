@@ -324,6 +324,14 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+      },
+      "0x68f180fcce6836688e9084f035309e29bf0a2095": {
+        "name": "Wrapped Bitcoin",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
       }
     },
     "arbitrum": {
