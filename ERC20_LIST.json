@@ -300,7 +300,7 @@
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
-        "hasPermit": false,
+        "hasPermit": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/optimism/agEUR.svg"
       },
       "0x4200000000000000000000000000000000000006": {
@@ -347,7 +347,7 @@
         "name": "Angle Euro",
         "decimals": 18,
         "symbol": "agEUR",
-        "hasPermit": false,
+        "hasPermit": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/arbitrum/agEUR.svg"
       },
       "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
