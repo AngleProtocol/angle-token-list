@@ -340,6 +340,13 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/optimism/OP.svg"
+      },
+      "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05": {
+        "name": "Velodrome",
+        "decimals": 18,
+        "symbol": "VELO",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/optimism/VELO.svg"
       }
     },
     "arbitrum": {
