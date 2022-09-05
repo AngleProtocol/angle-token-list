@@ -347,6 +347,14 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
       },
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
+        "name": "Wrapped Bitcoin",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+      },
       "0x4200000000000000000000000000000000000042": {
         "name": "Optimism",
         "decimals": 18,
