@@ -292,6 +292,14 @@
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg"
       },
+       "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
+        "name": "Wrapped Bitcoin",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+      },
       "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
         "name": "Wrapped Matic",
         "decimals": 18,
