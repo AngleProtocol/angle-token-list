@@ -389,6 +389,7 @@
         "decimals": 18,
         "symbol": "WETH",
         "hasPermit": false,
+        "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
       "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": {
