@@ -242,7 +242,7 @@
         "useInSwap": true,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://thegivingblock.com/wp-content/uploads/2022/04/LiquityUSD-LUSD-logo.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LUSD.svg"
       },
       "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
         "name": "stETH",
