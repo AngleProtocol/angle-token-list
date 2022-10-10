@@ -1,6 +1,6 @@
 [
   {
-    "mainnet": {
+    "1": {
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "name": "Angle Euro",
         "decimals": 18,
@@ -260,7 +260,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg"
       }
     },
-    "polygon": {
+    "137": {
       "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4": {
         "name": "Angle Euro",
         "decimals": 18,
@@ -292,7 +292,7 @@
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg"
       },
-       "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
+      "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
         "name": "Wrapped Bitcoin",
         "decimals": 8,
         "symbol": "WBTC",
@@ -317,7 +317,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
-    "optimism": {
+    "10": {
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
         "name": "Angle Euro",
         "decimals": 18,
@@ -364,7 +364,7 @@
         "symbol": "OP",
         "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/optimism/OP.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OP.svg"
       },
       "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05": {
         "name": "Velodrome",
@@ -372,10 +372,10 @@
         "symbol": "VELO",
         "hasPermit": false,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/optimism/VELO.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/VELO.svg"
       }
     },
-    "arbitrum": {
+    "42161": {
       "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7": {
         "name": "Angle Euro",
         "decimals": 18,
@@ -415,6 +415,26 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+      }
+    },
+    "56": {
+      "0x59153e939c5b4721543251ff3049Ea04c755373B": {
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": true,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bsc/agEUR.svg"
+      }
+    },
+    "43114": {
+      "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57": {
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": true,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/avalanche/agEUR.svg"
       }
     }
   }
