@@ -24,13 +24,11 @@ const tokenInfo = Joi.object().keys({
   logoURI: Joi.string(),
 });
 
-export const joiSchema = Joi.array().items({
-  mainnet: Joi.object().pattern(Joi.string(), tokenInfo),
-  polygon: Joi.object().pattern(Joi.string(), tokenInfo),
-  rinkeby: Joi.object().pattern(Joi.string(), tokenInfo),
-  arbitrum: Joi.object().pattern(Joi.string(), tokenInfo),
-  optimism: Joi.object().pattern(Joi.string(), tokenInfo),
-});
+const items: any = {};
+for (const chain of Object.keys(ChainId)) {
+  items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
+}
+export const joiSchema = Joi.array().items();
 
 export interface TokenInfoListType {
   [address: string]: TokenInfo;
