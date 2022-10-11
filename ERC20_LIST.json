@@ -8,7 +8,7 @@
         "useInSwap": true,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR-new1.svg"
       },
       "0x31429d1856aD1377A8A0079410B297e1a9e214c2": {
         "name": "Angle Governance Token",
@@ -17,7 +17,7 @@
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
       },
       "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
         "name": "Dai Stablecoin",
@@ -118,7 +118,7 @@
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
       },
       "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
         "name": "Wrapped Bitcoin",
@@ -267,14 +267,14 @@
         "symbol": "agEUR",
         "hasPermit": false,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/polygon/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg"
       },
       "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
       },
       "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": {
         "name": "Wrapped Ether",
@@ -324,7 +324,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/optimism/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-optimism.svg"
       },
       "0x4200000000000000000000000000000000000006": {
         "name": "Wrapped Ether",
@@ -382,7 +382,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/arbitrum/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-arbitrum.svg"
       },
       "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
         "name": "Wrapped Ether",
@@ -424,7 +424,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bsc/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-bsc.svg"
       }
     },
     "43114": {
@@ -434,7 +434,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/avalanche/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-avax.svg"
       }
     }
   }
