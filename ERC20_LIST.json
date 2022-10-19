@@ -366,7 +366,7 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OP.svg"
       },
-      "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05": {
+      "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05": {
         "name": "Velodrome",
         "decimals": 18,
         "symbol": "VELO",
