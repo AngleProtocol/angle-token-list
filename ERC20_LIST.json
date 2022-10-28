@@ -72,7 +72,7 @@
       "0x51fE22abAF4a26631b2913E417c0560D547797a7": {
         "name": "Angle sanUSDC_EUR Gauge",
         "decimals": 6,
-        "symbol": "sanUSDC_EUR-gauge",
+        "symbol": "staked sanUSDC_EUR",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanUSDC_EUR.svg"
@@ -156,7 +156,7 @@
       "0x7c0fF11bfbFA3cC2134Ce62034329a4505408924": {
         "name": "Angle sanFEI_EUR Gauge",
         "decimals": 18,
-        "symbol": "sanFEI_EUR-gauge",
+        "symbol": "staked sanFEI_EUR",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanFEI_EUR.svg"
@@ -173,7 +173,7 @@
       "0xb40432243E4F317cE287398e72Ab8f0312fc2FE8": {
         "name": "Angle sanFRAX_EUR Gauge",
         "decimals": 18,
-        "symbol": "sanFRAX_EUR-gauge",
+        "symbol": "staked sanFRAX_EUR",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanFRAX_EUR.svg"
@@ -190,7 +190,7 @@
       "0x8E2c0CbDa6bA7B65dbcA333798A3949B07638026": {
         "name": "Angle sanDAI_EUR Gauge",
         "decimals": 18,
-        "symbol": "sanDAI_EUR-gauge",
+        "symbol": "staked sanDAI_EUR",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanDAI_EUR.svg"
