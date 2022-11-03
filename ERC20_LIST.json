@@ -352,8 +352,7 @@
         "name": "USD Coin (PoS)",
         "decimals": 6,
         "symbol": "USDC",
-        "hasPermit": true,
-        "permitVersion": "1",
+        "hasPermit": false,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
