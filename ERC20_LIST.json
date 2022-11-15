@@ -352,7 +352,7 @@
         "decimals": 18,
         "hasPermit": false,
         "isLP": true,
-        "logoURI": "",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
         "name": "Curve.fi amDAI/amUSDC/amUSDT",
         "symbol": "am3CRV",
         "underlyingTokens": [
