@@ -41,11 +41,11 @@ const tokenInfo = Joi.object().keys({
 // for (const chain of Object.keys(ChainId)) {
 //   items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
 // }
-export const joiSchema = Joi.array().items(
-{  1: Joi.object().pattern(/^/, tokenInfo),
-  10: Joi.object().pattern(/^/, tokenInfo),
-  42161: Joi.object().pattern(/^/, tokenInfo),
-  56: Joi.object().pattern(/^/, tokenInfo),
-  43114: Joi.object().pattern(/^/, tokenInfo),}
+export const joiSchema = Joi.object().keys(
+{  "1": Joi.object().pattern(/^/, tokenInfo),
+  "10": Joi.object().pattern(/^/, tokenInfo),
+  "42161": Joi.object().pattern(/^/, tokenInfo),
+  "56": Joi.object().pattern(/^/, tokenInfo),
+  "43114": Joi.object().pattern(/^/, tokenInfo),}
 );
 

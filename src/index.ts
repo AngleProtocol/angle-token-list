@@ -6,7 +6,7 @@ import { ChainId } from "@angleprotocol/sdk";
 
 export const TOKEN_LIST: TokenList = ERC20_LIST[0];
 
-const result = joiSchema.validate(ERC20_LIST);
+const result = joiSchema.validate(TOKEN_LIST);
 for (const chainId of Object.keys(TOKEN_LIST)) {
   for (const key of Object.keys(TOKEN_LIST[parseFloat(chainId)])) {
     if (utils.getAddress(key) !== key) {
