@@ -1,10 +1,10 @@
 import { ChainId } from "@angleprotocol/sdk";
 import Joi from "joi";
 
-export interface TokenInfo {
+export type TokenType = {
   readonly decimals: number;
   readonly hasPermit?: boolean;
-  readonly isLP?: string[];
+  readonly isLP?: boolean;
   readonly isSanToken?: boolean;
   readonly logoURI?: string;
   readonly name: string;
@@ -15,6 +15,15 @@ export interface TokenInfo {
   readonly useInSwap?: boolean;
 }
 
+export type TokenListPerChainId = {
+  [address: string]: TokenType;
+}
+
+export type TokenList = {
+  [chainId: string]: TokenListPerChainId;
+}
+
+/** Joi schema */
 const tokenInfo = Joi.object().keys({
   decimals: Joi.number(),
   hasPermit: Joi.bool(),
@@ -28,16 +37,15 @@ const tokenInfo = Joi.object().keys({
   useInSwap: Joi.bool(),
 });
 
-const items: any = {};
-for (const chain of Object.keys(ChainId)) {
-  items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
-}
-export const joiSchema = Joi.array().items();
+// const items: any = {};
+// for (const chain of Object.keys(ChainId)) {
+//   items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
+// }
+export const joiSchema = Joi.array().items(
+{  1: Joi.object().pattern(/^/, tokenInfo),
+  10: Joi.object().pattern(/^/, tokenInfo),
+  42161: Joi.object().pattern(/^/, tokenInfo),
+  56: Joi.object().pattern(/^/, tokenInfo),
+  43114: Joi.object().pattern(/^/, tokenInfo),}
+);
 
-export interface TokenInfoListType {
-  [address: string]: TokenInfo;
-}
-
-export interface TokenList {
-  [chainName: number]: TokenInfoListType;
-}
