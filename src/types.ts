@@ -27,7 +27,7 @@ export type TokenList = {
 const tokenInfo = Joi.object().keys({
   decimals: Joi.number(),
   hasPermit: Joi.bool(),
-  isCRVLP: Joi.bool(),
+  isAngleBorrowStaker: Joi.bool(),
   isSanToken: Joi.bool(),
   logoURI: Joi.string(),
   name: Joi.string(),
