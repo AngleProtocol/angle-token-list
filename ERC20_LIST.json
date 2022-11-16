@@ -236,53 +236,53 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/COMP.svg"
       },
       "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
-        "name": "yearn.finance",
         "decimals": 18,
-        "symbol": "YFI",
-        "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YFI.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YFI.svg",
+        "name": "yearn.finance",
+        "symbol": "YFI",
+        "useInSwap": true
       },
       "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
-        "name": "Graph Token",
         "decimals": 18,
-        "symbol": "GRT",
-        "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRT.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRT.svg",
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "useInSwap": true
       },
       "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2": {
-        "name": "Sushi Token",
         "decimals": 18,
-        "symbol": "SUSHI",
-        "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       },
       "0xD533a949740bb3306d119CC777fa900bA034cd52": {
-        "name": "Curve DAO Token",
         "decimals": 18,
-        "symbol": "CRV",
-        "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg",
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "useInSwap": true
       },
       "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B": {
-        "name": "Convex Token",
         "decimals": 18,
-        "symbol": "CVX",
-        "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CVX.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CVX.svg",
+        "name": "Convex Token",
+        "symbol": "CVX",
+        "useInSwap": true
       },
       "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0": {
-        "name": "LUSD Stablecoin",
         "decimals": 18,
-        "symbol": "LUSD",
-        "useInSwap": true,
         "hasPermit": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LUSD.svg",
+        "name": "LUSD Stablecoin",
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LUSD.svg"
+        "symbol": "LUSD",
+        "useInSwap": true
       },
       "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
         "name": "stETH",
@@ -292,69 +292,83 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STETH.svg"
       },
       "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
-        "name": "Wrapped liquid staked Ether 2.0",
         "decimals": 18,
-        "symbol": "wstETH",
         "hasPermit": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg",
+        "name": "Wrapped liquid staked Ether 2.0",
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg"
+        "symbol": "wstETH"
       }
     },
     "137": {
       "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4": {
-        "name": "Angle Euro",
         "decimals": 18,
-        "symbol": "agEUR",
         "hasPermit": false,
-        "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg",
+        "name": "Angle Euro",
+        "symbol": "agEUR",
+        "useInSwap": true
       },
       "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
-        "name": "Angle Governance Token",
         "decimals": 18,
-        "symbol": "ANGLE",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg",
+        "name": "Angle Governance Token",
+        "symbol": "ANGLE"
       },
       "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619": {
-        "name": "Wrapped Ether",
         "decimals": 18,
-        "symbol": "WETH",
         "hasPermit": false,
-        "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "useInSwap": true
       },
       "0x0000000000000000000000000000000000001010": {
-        "name": "Matic Token",
         "decimals": 18,
-        "symbol": "MATIC",
         "hasPermit": false,
-        "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg",
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "useInSwap": true
       },
       "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
-        "name": "Wrapped Bitcoin",
         "decimals": 8,
-        "symbol": "WBTC",
-        "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "useInSwap": true
       },
       "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
-        "name": "Wrapped Matic",
         "decimals": 18,
-        "symbol": "WMATIC",
         "hasPermit": false,
-        "useInSwap": true,
-        "logoURI": "https://polygonscan.com/token/images/wMatic_32.png"
+        "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "useInSwap": true
+      },
+      "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171": {
+        "decimals": 18,
+        "hasPermit": false,
+        "isLP": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
+        "name": "Curve.fi amDAI/amUSDC/amUSDT",
+        "symbol": "am3CRV",
+        "underlyingTokens": [
+          "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+          "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
+          "0x60D55F02A771d515e077c9C2403a1ef324885CeC"
+        ],
+        "useInSwap": true
       },
       "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
-        "name": "USD Coin (PoS)",
         "decimals": 6,
-        "symbol": "USDC",
         "hasPermit": false,
-        "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "useInSwap": true
       }
     },
     "10": {

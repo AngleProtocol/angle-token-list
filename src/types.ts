@@ -1,39 +1,54 @@
 import { ChainId } from "@angleprotocol/sdk";
 import Joi from "joi";
 
-export interface TokenInfo {
-  readonly name: string;
+export type TokenType = {
   readonly decimals: number;
-  readonly symbol: string;
-  readonly isSanToken?: boolean;
-  readonly useInSwap?: boolean;
   readonly hasPermit?: boolean;
-  readonly permitVersion?: string;
+  readonly isLP?: boolean;
+  readonly isSanToken?: boolean;
   readonly logoURI?: string;
+  readonly name: string;
+  readonly permitVersion?: string;
+  readonly symbol: string;
   readonly tags?: string[];
+  readonly underlyingTokens?: string[];
+  readonly useInSwap?: boolean;
 }
 
+export type TokenListPerChainId = {
+  [address: string]: TokenType;
+}
+
+export type TokenList = {
+  [chainId: string]: TokenListPerChainId;
+}
+
+/** Joi schema */
 const tokenInfo = Joi.object().keys({
-  name: Joi.string(),
   decimals: Joi.number(),
-  symbol: Joi.string(),
-  useInSwap: Joi.bool(),
-  isSanToken: Joi.bool(),
   hasPermit: Joi.bool(),
-  permitVersion: Joi.string(),
+  isLP: Joi.bool(),
+  isSanToken: Joi.bool(),
   logoURI: Joi.string(),
+  name: Joi.string(),
+  permitVersion: Joi.string(),
+  symbol: Joi.string(),
+  underlyingTokens: Joi.array().items(Joi.string()),
+  useInSwap: Joi.bool(),
 });
 
-const items: any = {};
-for (const chain of Object.keys(ChainId)) {
-  items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
-}
-export const joiSchema = Joi.array().items();
+// const items: any = {};
+// for (const chain of Object.keys(ChainId)) {
+//   items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
+// }
+export const joiSchema = Joi.object().keys(
+  {
+    "1": Joi.object().pattern(/^/, tokenInfo),
+    "137": Joi.object().pattern(/^/, tokenInfo),
+    "43114": Joi.object().pattern(/^/, tokenInfo),
+    "10": Joi.object().pattern(/^/, tokenInfo),
+    "42161": Joi.object().pattern(/^/, tokenInfo),
+    "56": Joi.object().pattern(/^/, tokenInfo),
+  }
+);
 
-export interface TokenInfoListType {
-  [address: string]: TokenInfo;
-}
-
-export interface TokenList {
-  [chainName: number]: TokenInfoListType;
-}
