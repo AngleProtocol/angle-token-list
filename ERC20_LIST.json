@@ -324,6 +324,13 @@
         "symbol": "WETH",
         "useInSwap": true
       },
+      "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1": {
+        "decimals": 18,
+        "hasPermit": false,
+        "name": "miMATIC",
+        "symbol": "MAI",
+        "useInSwap": true
+      },
       "0x0000000000000000000000000000000000001010": {
         "decimals": 18,
         "hasPermit": false,
