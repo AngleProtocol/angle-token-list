@@ -4,7 +4,7 @@ import Joi from "joi";
 export type TokenType = {
   readonly decimals: number;
   readonly hasPermit?: boolean;
-  readonly isLP?: boolean;
+  readonly isCRVLP?: boolean;
   readonly isSanToken?: boolean;
   readonly logoURI?: string;
   readonly name: string;
@@ -27,7 +27,7 @@ export type TokenList = {
 const tokenInfo = Joi.object().keys({
   decimals: Joi.number(),
   hasPermit: Joi.bool(),
-  isLP: Joi.bool(),
+  isCRVLP: Joi.bool(),
   isSanToken: Joi.bool(),
   logoURI: Joi.string(),
   name: Joi.string(),
