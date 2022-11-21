@@ -369,7 +369,7 @@
         ],
         "useInSwap": false
       },
-      "0x583EE5b0b2999679d1DdE7aa178B225ad57c481b": {
+      "0xe1Bc17f85d54a81068FC510d5A94E95800D342d9": {
         "decimals": 18,
         "hasPermit": false,
         "isAngleBorrowStaker": true,
