@@ -358,7 +358,7 @@
       "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171": {
         "decimals": 18,
         "hasPermit": false,
-        "isAngleBorrowStaker": false,
+        "wrappingMethod": "Curve",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/am3CRV.svg",
         "name": "Curve.fi amDAI/amUSDC/amUSDT",
         "symbol": "am3CRV",
@@ -372,8 +372,8 @@
       "0xe1Bc17f85d54a81068FC510d5A94E95800D342d9": {
         "decimals": 18,
         "hasPermit": false,
-        "isAngleBorrowStaker": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/am3CRV.svg",
+        "wrappingMethod": "BorrowStaker",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvxam3CRV.svg",
         "name": "Angle Curve.fi amDAI/amUSDC/amUSDT Staker",
         "symbol": "agstk-am3CRV",
         "underlyingTokens": ["0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"],
