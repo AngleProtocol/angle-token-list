@@ -9,6 +9,10 @@ export const TOKEN_LIST: TokenList = ERC20_LIST[0];
 const result = joiSchema.validate(TOKEN_LIST);
 for (const chainId of Object.keys(TOKEN_LIST)) {
   for (const key of Object.keys(TOKEN_LIST[parseFloat(chainId)])) {
+    const address = TOKEN_LIST[parseFloat(chainId)][key].address;
+    if (address !== key) {
+      throw new Error(`wrong JSON format. Key ${key} doesn't match address ${address}`);
+    }
     if (utils.getAddress(key) !== key) {
       console.log(key, utils.getAddress(key));
       throw new Error("wrong JSON format");
@@ -16,9 +20,7 @@ for (const chainId of Object.keys(TOKEN_LIST)) {
   }
 }
 if (result.error) {
-  console.log(
-    inspect(result.error, { showHidden: false, depth: null, colors: true })
-  );
+  console.log(inspect(result.error, { showHidden: false, depth: null, colors: true }));
   throw new Error("wrong JSON format");
 } else {
   console.log("all good");
