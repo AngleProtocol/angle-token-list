@@ -469,6 +469,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-optimism.svg"
       },
       "0x58441E37255b09F9f545e9Dc957F1C41658ff665": {
+        "address": "0x58441E37255b09F9f545e9Dc957F1C41658ff665",
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
@@ -542,6 +543,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-arbitrum.svg"
       },
       "0x656B80B667a46869144047E6e6C0000C81610253": {
+        "address": "0x656B80B667a46869144047E6e6C0000C81610253",
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
@@ -597,6 +599,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-bsc.svg"
       },
       "0x97B6897AAd7aBa3861c04C0e6388Fc02AF1F227f": {
+        "address": "0x97B6897AAd7aBa3861c04C0e6388Fc02AF1F227f",
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
@@ -616,6 +619,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-avax.svg"
       },
       "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217": {
+        "address": "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217",
         "name": "Angle Governance Token",
         "decimals": 18,
         "symbol": "ANGLE",
