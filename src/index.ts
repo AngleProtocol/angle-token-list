@@ -2,7 +2,6 @@ import { TokenList, joiSchema } from "./types";
 import ERC20_LIST from "../ERC20_LIST.json";
 import { inspect } from "util";
 import { utils } from "ethers";
-import { ChainId } from "@angleprotocol/sdk";
 
 export const TOKEN_LIST: TokenList = ERC20_LIST[0];
 
