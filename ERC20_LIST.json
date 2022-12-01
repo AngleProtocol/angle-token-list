@@ -350,7 +350,7 @@
         "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/cross-chain/ANGLE-polygon.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-polygon.svg",
         "name": "Angle Governance Token",
         "symbol": "ANGLE"
       },
