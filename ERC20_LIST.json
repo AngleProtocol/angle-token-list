@@ -350,7 +350,7 @@
         "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/cross-chain/ANGLE-polygon.svg",
         "name": "Angle Governance Token",
         "symbol": "ANGLE"
       },
@@ -475,7 +475,7 @@
         "symbol": "ANGLE",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-optimism.svg"
       },
       "0x4200000000000000000000000000000000000006": {
         "address": "0x4200000000000000000000000000000000000006",
@@ -549,7 +549,7 @@
         "symbol": "ANGLE",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-arbitrum.svg"
       },
       "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
@@ -605,7 +605,7 @@
         "symbol": "ANGLE",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-bsc.svg"
       }
     },
     "43114": {
@@ -625,7 +625,7 @@
         "symbol": "ANGLE",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-avax.svg"
       }
     },
     "42220": {
@@ -636,7 +636,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR-new1.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-celo.svg"
       }
     }
   }
