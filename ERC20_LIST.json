@@ -418,6 +418,16 @@
         "name": "Aave Matic Market DAI (amDAI)",
         "decimals": 18,
         "symbol": "amDAI",
+        "wrappingMethod": "Aave Matic Market",
+        "underlyingTokens": ["0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"],
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
+      },
+      "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063": {
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "name": "DAI",
+        "decimals": 18,
+        "symbol": "DAI",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
       },
@@ -426,6 +436,8 @@
         "name": "Aave Matic Market USDC (amUSDC)",
         "decimals": 6,
         "symbol": "amUSDC",
+        "wrappingMethod": "Aave Matic Market",
+        "underlyingTokens": ["0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"],
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
@@ -434,6 +446,16 @@
         "name": "Aave Matic Market USDT (amUSDT)",
         "decimals": 6,
         "symbol": "amUSDT",
+        "wrappingMethod": "Aave Matic Market",
+        "underlyingTokens": ["0xc2132D05D31c914a87C6611C10748AEb04B58e8F"],
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xc2132D05D31c914a87C6611C10748AEb04B58e8F": {
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USDT",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       },
