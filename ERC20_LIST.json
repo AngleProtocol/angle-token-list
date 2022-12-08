@@ -381,15 +381,6 @@
         "symbol": "MATIC",
         "useInSwap": true
       },
-      "0x0000000000000000000000000000000000001010": {
-        "address": "0x0000000000000000000000000000000000001010",
-        "decimals": 18,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg",
-        "name": "Matic Token",
-        "symbol": "MATIC",
-        "useInSwap": true
-      },
       "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "decimals": 8,
