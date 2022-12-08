@@ -3,15 +3,13 @@ import Joi from "joi";
 
 export type TokenType = {
   readonly address: string;
+  readonly symbol: string;
   readonly decimals: number;
   readonly hasPermit?: boolean;
-  readonly isAngleBorrowStaker?: boolean;
-  readonly isSanToken?: boolean;
+  readonly wrappingMethod?: "BorrowStaker" | "Curve" | "Aave Matic Market" | "Wrap Native";
   readonly logoURI?: string;
   readonly name: string;
   readonly permitVersion?: string;
-  readonly symbol: string;
-  readonly tags?: string[];
   readonly underlyingTokens?: string[];
   readonly useInSwap?: boolean;
 };
