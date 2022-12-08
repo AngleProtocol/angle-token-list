@@ -234,6 +234,7 @@
         "symbol": "WETH",
         "useInSwap": true,
         "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
       "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
@@ -371,6 +372,15 @@
         "symbol": "MAI",
         "useInSwap": true
       },
+      "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg",
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "useInSwap": true
+      },
       "0x0000000000000000000000000000000000001010": {
         "address": "0x0000000000000000000000000000000000001010",
         "decimals": 18,
@@ -395,6 +405,7 @@
         "hasPermit": false,
         "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
         "name": "Wrapped Matic",
+        "wrappingMethod": "Wrap Native",
         "symbol": "WMATIC",
         "useInSwap": true
       },
@@ -504,6 +515,7 @@
         "name": "Wrapped Ether",
         "decimals": 18,
         "symbol": "WETH",
+        "wrappingMethod": "Wrap Native",
         "hasPermit": false,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
@@ -580,6 +592,7 @@
         "symbol": "WETH",
         "hasPermit": false,
         "useInSwap": true,
+        "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
       "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": {
@@ -628,6 +641,24 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-bsc.svg"
+      },
+      "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Wrapped BNB",
+        "decimals": 18,
+        "symbol": "WBNB",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BNB.svg"
+      },
+      "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BNB.svg"
       }
     },
     "43114": {
@@ -648,6 +679,25 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/cross-chain/ANGLE-avax.svg"
+      },
+      "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7": {
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "name": "Wrapped AVAX",
+        "decimals": 18,
+        "symbol": "AVAX",
+        "useInSwap": false,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AVAX.svg"
+      },
+      "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "name": "AVAX",
+        "decimals": 18,
+        "symbol": "AVAX",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AVAX.svg"
       }
     },
     "42220": {
