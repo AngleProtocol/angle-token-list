@@ -480,6 +480,15 @@
         "name": "USD Coin (PoS)",
         "symbol": "USDC",
         "useInSwap": true
+      },
+      "0x02Cb0586F9252626e992B2C6c1B792d9751f2Ede": {
+        "address": "0x02Cb0586F9252626e992B2C6c1B792d9751f2Ede",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg",
+        "name": "MockAngle",
+        "symbol": "MockAngle",
+        "useInSwap": false
       }
     },
     "10": {
