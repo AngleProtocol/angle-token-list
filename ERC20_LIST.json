@@ -489,6 +489,15 @@
         "name": "MockAngle",
         "symbol": "MockAngle",
         "useInSwap": false
+      },
+      "0xd17aEb717eB159b372BAdD2115E5700a5855a86E": {
+        "address": "0xd17aEb717eB159b372BAdD2115E5700a5855a86E",
+        "decimals": 6,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg",
+        "name": "MockReward2",
+        "symbol": "MockReward2",
+        "useInSwap": false
       }
     },
     "10": {
