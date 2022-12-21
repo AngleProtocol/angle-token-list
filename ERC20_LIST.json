@@ -723,7 +723,7 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
         "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "symbol": "WETH.e",
         "useInSwap": true
       }
     },
