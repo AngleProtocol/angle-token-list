@@ -707,6 +707,24 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AVAX.svg"
+      },
+      "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E": {
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "decimals": 6,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "useInSwap": true
+      },
+      "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB": {
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "useInSwap": true
       }
     },
     "42220": {
