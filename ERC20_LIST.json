@@ -335,6 +335,42 @@
         "name": "Wrapped liquid staked Ether 2.0",
         "permitVersion": "1",
         "symbol": "wstETH"
+      },
+      "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC": {
+        "address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC",
+        "decimals": 18,
+        "hasPermit": false,
+        "wrappingMethod": "Curve",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/crvFRAX.svg",
+        "name": "Curve.fi FRAX/USDC",
+        "symbol": "crvFRAX",
+        "underlyingTokens": [
+          "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        ],
+        "useInSwap": false
+      },
+      "0xa9d2Eea75C80fF9669cc998c276Ff26D741Dcb26": {
+        "address": "0xa9d2Eea75C80fF9669cc998c276Ff26D741Dcb26",
+        "decimals": 18,
+        "hasPermit": false,
+        "wrappingMethod": "StakeDAO",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sdcrvFRAX.svg",
+        "name": "Angle Curve.fi FRAX/USDC Staker",
+        "symbol": "agstk-crvFRAX",
+        "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
+        "useInSwap": false
+      },
+      "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e": {
+        "address": "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e",
+        "decimals": 18,
+        "hasPermit": false,
+        "wrappingMethod": "Convex",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvxcrvFRAX.svg",
+        "name": "Angle Curve.fi FRAX/USDC Staker",
+        "symbol": "agstk-crvFRAX",
+        "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
+        "useInSwap": false
       }
     },
     "137": {
