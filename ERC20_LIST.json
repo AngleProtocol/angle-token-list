@@ -356,8 +356,8 @@
         "hasPermit": false,
         "wrappingMethod": "BorrowStaker",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sdcrvFRAX.svg",
-        "name": "Angle Curve.fi FRAX/USDC Staker",
-        "symbol": "agstk-crvFRAX",
+        "name": "Angle Curve.fi FRAX/USDC Stake DAO Staker",
+        "symbol": "sdcrvFRAX",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
         "useInSwap": false
       },
@@ -367,8 +367,8 @@
         "hasPermit": false,
         "wrappingMethod": "BorrowStaker",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvxcrvFRAX.svg",
-        "name": "Angle Curve.fi FRAX/USDC Staker",
-        "symbol": "agstk-crvFRAX",
+        "name": "Angle Curve.fi FRAX/USDC Convex Staker",
+        "symbol": "cvxcrvFRAX",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
         "useInSwap": false
       }
