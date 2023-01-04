@@ -729,7 +729,7 @@
         "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
         "name": "Wrapped AVAX",
         "decimals": 18,
-        "symbol": "AVAX",
+        "symbol": "WAVAX",
         "useInSwap": false,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
