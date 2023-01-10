@@ -35,7 +35,7 @@
         "name": "Fei USD",
         "decimals": 18,
         "symbol": "FEI",
-        "useInSwap": true,
+        "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FEI.svg"
