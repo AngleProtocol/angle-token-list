@@ -325,13 +325,13 @@
         "decimals": 18,
         "symbol": "stETH",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stETH.svg"
       },
       "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
         "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
         "decimals": 18,
         "hasPermit": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wstETH.svg",
         "name": "Wrapped liquid staked Ether 2.0",
         "permitVersion": "1",
         "symbol": "wstETH"
@@ -397,9 +397,9 @@
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wETH.svg",
         "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "symbol": "wETH",
         "useInSwap": true
       },
       "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1": {
@@ -423,9 +423,9 @@
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "decimals": 8,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wBTC.svg",
         "name": "Wrapped Bitcoin",
-        "symbol": "WBTC",
+        "symbol": "wBTC",
         "useInSwap": true
       },
       "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
@@ -435,7 +435,7 @@
         "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
         "name": "Wrapped Matic",
         "wrappingMethod": "Wrap Native",
-        "symbol": "WMATIC",
+        "symbol": "wMATIC",
         "useInSwap": true
       },
       "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171": {
