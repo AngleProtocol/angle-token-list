@@ -4,7 +4,7 @@
 
 ## `.json` Token List
 
-All tokens are listed in `ERC20_LIST.json` and should be typed as follows: 
+All tokens are listed in `ERC20_LIST.json` and should be typed as follows:
 
 ```
 interface TokenInfo {
@@ -18,8 +18,10 @@ interface TokenInfo {
   readonly permitVersion?: string;
   readonly logoURI?: string;
   readonly tags?: string[];
+  readonly description?: string;
 }
 ```
 
 ## [WIP] Angle ERC20 list
+
 Create npm package to handle Angle ERC20 list accross different chains.

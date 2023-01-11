@@ -341,9 +341,9 @@
         "decimals": 18,
         "hasPermit": false,
         "wrappingMethod": "Curve",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/crvFRAX.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/crvFRAXUSDC.svg",
         "name": "Curve.fi FRAX/USDC",
-        "symbol": "crvFRAX",
+        "symbol": "crvFRAXUSDC",
         "underlyingTokens": [
           "0x853d955aCEf822Db058eb8505911ED77F175b99e",
           "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -355,22 +355,24 @@
         "decimals": 18,
         "hasPermit": false,
         "wrappingMethod": "BorrowStaker",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sdcrvFRAX.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-crvFRAXUSDC.svg",
         "name": "Angle Curve.fi FRAX/USDC Stake DAO Staker",
-        "symbol": "sdcrvFRAX",
+        "symbol": "sd-crvFRAXUSDC",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
-        "useInSwap": false
+        "useInSwap": false,
+        "description": "sd-crvFRAXUSDC is the token you get when staking on <a href=https://lockers.stakedao.org/>StakeDAO</a> the LP token of the <a href=https://curve.fi/#/ethereum/pools/fraxusdc/deposit>FRAX-USDC (FRAXBP) Curve pool</a>. This token accumulates SDT and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool."
       },
       "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e": {
         "address": "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e",
         "decimals": 18,
         "hasPermit": false,
         "wrappingMethod": "BorrowStaker",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvxcrvFRAX.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvFRAXUSDC.svg",
         "name": "Angle Curve.fi FRAX/USDC Convex Staker",
-        "symbol": "cvxcrvFRAX",
+        "symbol": "cvx-crvFRAXUSDC",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
-        "useInSwap": false
+        "useInSwap": false,
+        "description": "<p>cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=https://curve.fi/#/ethereum/pools/fraxusdc/deposit>FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=https://www.convexfinance.com/stake>Convex</a>. By owning cvxcrvFRAX, you accumulate CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>"
       }
     },
     "137": {
