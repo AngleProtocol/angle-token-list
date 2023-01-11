@@ -325,13 +325,13 @@
         "decimals": 18,
         "symbol": "stETH",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STETH.svg"
       },
       "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
         "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
         "decimals": 18,
         "hasPermit": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wstETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg",
         "name": "Wrapped liquid staked Ether 2.0",
         "permitVersion": "1",
         "symbol": "wstETH"
