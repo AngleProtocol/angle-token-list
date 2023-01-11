@@ -359,7 +359,8 @@
         "name": "Angle Curve.fi FRAX/USDC Stake DAO Staker",
         "symbol": "sdcrvFRAX",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
-        "useInSwap": false
+        "useInSwap": false,
+        "description": "sdcrvFRAX is the token you get when staking on StakeDAO the LP token of the FRAXBP (FRAX+USDC) Curve pool. This token accumulates SDT and CRV rewards on top of transaction fees from the FRAXBP Curve pool."
       },
       "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e": {
         "address": "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e",
@@ -370,7 +371,8 @@
         "name": "Angle Curve.fi FRAX/USDC Convex Staker",
         "symbol": "cvxcrvFRAX",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
-        "useInSwap": false
+        "useInSwap": false,
+        "description": "cvxcrvFRAX corresponds to LP tokens of the FRAXBP (FRAX+USDC) Curve pool staked on Convex. By owning cvxcrvFRAX, you accumulate CVX and CRV rewards on top of transaction fees from the FRAXBP Curve pool."
       }
     },
     "137": {
