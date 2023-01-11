@@ -372,7 +372,7 @@
         "symbol": "cvx-crvFRAXUSDC",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
         "useInSwap": false,
-        "description": "<p>cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=https://curve.fi/#/ethereum/pools/fraxusdc/deposit>FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=https://www.convexfinance.com/stake>Convex</a>. By owning cvxcrvFRAX, you accumulate CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>"
+        "description": "<p>cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=https://curve.fi/#/ethereum/pools/fraxusdc/deposit>FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=https://www.convexfinance.com/stake>Convex</a>. By owning cvx-crvFRAXUSDC, you accumulate CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>"
       }
     },
     "137": {
