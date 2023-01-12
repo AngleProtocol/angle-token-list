@@ -353,7 +353,7 @@
       "0xa9d2Eea75C80fF9669cc998c276Ff26D741Dcb26": {
         "address": "0xa9d2Eea75C80fF9669cc998c276Ff26D741Dcb26",
         "decimals": 18,
-        "description": "<p>sd-crvFRAXUSDC is the token you get when staking on <a href=\"https://lockers.stakedao.org\" className = \"underlined mx-1\">StakeDAO</a> the LP token of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" className = \"underlined mx-1\">FRAX-USDC (FRAXBP) Curve pool</a>. This token accumulates SDT and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
+        "description": "<p class=\"text-sm\">sd-crvFRAXUSDC is the token you get when staking on <a href=\"https://lockers.stakedao.org\" class= \"underlined\">StakeDAO</a> the LP token of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" class= \"underlined\">FRAX-USDC (FRAXBP) Curve pool</a>. <br />This token accumulates SDT and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-crvFRAXUSDC.svg",
         "name": "Angle Curve.fi FRAX/USDC Stake DAO Staker",
@@ -367,7 +367,7 @@
       "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e": {
         "address": "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e",
         "decimals": 18,
-        "description": "<p>cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" className = \"underlined mx-1\">FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" className = \"underlined mx-1\">Convex</a>. By owning cvx-crvFRAXUSDC, you accumulate CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
+        "description": "<p class=\"text-sm\">cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" class= \"underlined\">FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />By owning cvx-crvFRAXUSDC, you accumulate CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvFRAXUSDC.svg",
         "name": "Angle Curve.fi FRAX/USDC Convex Staker",
