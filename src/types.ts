@@ -12,7 +12,7 @@ export type TokenType = {
   readonly symbol: string;
   readonly underlyingTokens?: string[];
   readonly useInSwap?: boolean;
-  readonly wrappingMethod?: 'BorrowStaker' | 'Curve' | 'Aave Matic Market' | 'Wrap Native';
+  readonly wrappingMethod?: 'BorrowStaker' | 'Curve' | 'Aave Matic Market' | 'Wrap Native' | 'Convex';
 };
 
 export type TokenListPerChainId = {
