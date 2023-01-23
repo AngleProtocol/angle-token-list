@@ -370,6 +370,15 @@
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
+      },
+      "0x7e880867363A7e321f5d260Cade2B0Bb2F717B02": {
+        "address": "0x7e880867363A7e321f5d260Cade2B0Bb2F717B02",
+        "name": "Staked Curve.fi FRAX/USDC Convex Deposit",
+        "decimals": 18,
+        "symbol": "staked cvxcrvFRAX",
+        "hasPermit": false,
+        "wrappingMethod": "Convex",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvFRAXUSDC.svg"
       }
     },
     "137": {
