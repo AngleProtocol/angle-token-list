@@ -319,6 +319,16 @@
         "symbol": "LUSD",
         "useInSwap": true
       },
+      "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704": {
+        "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+        "decimals": 18,
+        "hasPermit": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LUSD.svg",
+        "name": "Coinbase Wrapped Staked ETH",
+        "permitVersion": "2",
+        "symbol": "cbETH",
+        "useInSwap": true
+      },
       "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84": {
         "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
         "name": "stETH",
