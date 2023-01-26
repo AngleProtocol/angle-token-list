@@ -323,7 +323,7 @@
         "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
         "decimals": 18,
         "hasPermit": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LUSD.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cbETH.svg",
         "name": "Coinbase Wrapped Staked ETH",
         "permitVersion": "2",
         "symbol": "cbETH",
