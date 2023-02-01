@@ -401,6 +401,15 @@
         "symbol": "agEUR",
         "useInSwap": true
       },
+      "0x5bAEc91DD4A624937E07F0076F2cDBd669a5D13E": {
+        "address": "0x5bAEc91DD4A624937E07F0076F2cDBd669a5D13E",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/testAgGOLD.svg",
+        "name": "Angle Gold",
+        "symbol": "agGOLD",
+        "useInSwap": false
+      },
       "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
         "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
         "decimals": 18,
