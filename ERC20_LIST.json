@@ -405,7 +405,7 @@
         "address": "0x5bAEc91DD4A624937E07F0076F2cDBd669a5D13E",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/testAgGOLD.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aggold.svg",
         "name": "Angle Gold",
         "symbol": "agGOLD",
         "useInSwap": false
