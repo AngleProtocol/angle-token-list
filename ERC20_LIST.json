@@ -11,6 +11,16 @@
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR-new1.svg"
       },
+      "0x5F27184fA83fE0E5aEf2344B6D9eB3Bd2118A290": {
+        "address": "0x5F27184fA83fE0E5aEf2344B6D9eB3Bd2118A290",
+        "decimals": 18,
+        "hasPermit": true,
+        "useInSwap": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aggold.svg",
+        "name": "Angle Gold",
+        "symbol": "agGOLD"
+      },
       "0x31429d1856aD1377A8A0079410B297e1a9e214c2": {
         "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
         "name": "Angle Governance Token",
@@ -400,15 +410,6 @@
         "name": "Angle Euro",
         "symbol": "agEUR",
         "useInSwap": true
-      },
-      "0x5bAEc91DD4A624937E07F0076F2cDBd669a5D13E": {
-        "address": "0x5bAEc91DD4A624937E07F0076F2cDBd669a5D13E",
-        "decimals": 18,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aggold.svg",
-        "name": "Angle Gold",
-        "symbol": "agGOLD",
-        "useInSwap": false
       },
       "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
         "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
