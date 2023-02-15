@@ -17,7 +17,7 @@
         "hasPermit": true,
         "useInSwap": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agGOLD.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agGOLD/agGOLD.svg",
         "name": "Angle Gold",
         "symbol": "agGOLD"
       },
