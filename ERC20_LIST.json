@@ -19,7 +19,7 @@
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20-%20light.svg"
       },
       "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -141,7 +141,7 @@
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20Token-light.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/ANGLE-token/ANGLE%20-%20light.svg"
       },
       "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
         "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
