@@ -694,6 +694,15 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+      },
+      "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e": {
+        "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
+        "name": "SolidLizard DEX Token",
+        "decimals": 18,
+        "symbol": "SLIZ",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sliz.jpg"
       }
     },
     "56": {
