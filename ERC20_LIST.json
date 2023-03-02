@@ -460,6 +460,33 @@
         "underlyingTokens": ["0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
+      },
+      "0x7e880867363A7e321f5d260Cade2B0Bb2F717B02": {
+        "address": "0x7e880867363A7e321f5d260Cade2B0Bb2F717B02",
+        "name": "Staked Curve.fi FRAX/USDC Convex Deposit",
+        "decimals": 18,
+        "symbol": "staked cvxcrvFRAX",
+        "hasPermit": false,
+        "wrappingMethod": "Convex",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvFRAXUSDC.svg"
+      },
+      "0x689440f2Ff927E1f24c72F1087E1FAF471eCe1c8": {
+        "address": "0x689440f2Ff927E1f24c72F1087E1FAF471eCe1c8",
+        "name": "Staked Curve.fi DAI/USDC/USDT Convex Deposit",
+        "decimals": 18,
+        "symbol": "staked cvx3crv",
+        "hasPermit": false,
+        "wrappingMethod": "Convex",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-3CRV.svg"
+      },
+      "0x2ad92A7aE036a038ff02B96c88de868ddf3f8190": {
+        "address": "0x2ad92A7aE036a038ff02B96c88de868ddf3f8190",
+        "name": "Staked Curve.fi Factory USD Metapool: Liquity Convex Deposit",
+        "decimals": 18,
+        "symbol": "staked cvxcrvLUSD3CRV",
+        "hasPermit": false,
+        "wrappingMethod": "Convex",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-LUSD3CRV.svg"
       }
     },
     "137": {
