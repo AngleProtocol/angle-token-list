@@ -803,8 +803,8 @@
         "underlyingTokens": ["0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8", "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"],
         "useInSwap": false
       },
-      "0x42dC54fb50dB556fA6ffBa765F1141536d4830ea": {
-        "address": "0x42dC54fb50dB556fA6ffBa765F1141536d4830ea",
+      "0xc8711B1206cD3e89799Ec32973f583e696Cb553C": {
+        "address": "0xc8711B1206cD3e89799Ec32973f583e696Cb553C",
         "decimals": 18,
         "description": "<p class=\"text-sm\">sd-crvUSDCUSDT is the token you get when staking on <a href=\"https://lockers.stakedao.org\" class= \"underlined\">StakeDAO</a> the LP token of the <a href=\"https://curve.fi/#/arbitrum/pools/2pool/deposit\" class= \"underlined\">USDC-USDT (2CRV) Curve pool</a>. <br />This token accumulates CRV rewards on top of transaction fees from the USDC-USDT Curve pool.</p>",
         "hasPermit": false,
@@ -815,8 +815,8 @@
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
-      "0x9650821B3555Fe6318586BE997cc0Fb163C35976": {
-        "address": "0x9650821B3555Fe6318586BE997cc0Fb163C35976",
+      "0x42dC54fb50dB556fA6ffBa765F1141536d4830ea": {
+        "address": "0x42dC54fb50dB556fA6ffBa765F1141536d4830ea",
         "decimals": 18,
         "description": "<p class=\"text-sm\">cvx-crvUSDCUSDT corresponds to LP tokens of the <a href=\"https://curve.fi/#/arbitrum/pools/2pool/deposit\" class= \"underlined\">USDC-USDT (2CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />By owning cvx-2CRV, you accumulate CVX and CRV rewards on top of transaction fees from the USDC-USDT Curve pool.</p>",
         "hasPermit": false,
@@ -826,6 +826,15 @@
         "underlyingTokens": ["0x7f90122BF0700F9E7e1F688fe926940E8839F353"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
+      },
+      "0x63F00F688086F0109d586501E783e33f2C950e78": {
+        "address": "0x63F00F688086F0109d586501E783e33f2C950e78",
+        "name": "Staked Curve.fi USDC/USDT Convex Deposit",
+        "decimals": 18,
+        "symbol": "staked cvx2CRV",
+        "hasPermit": false,
+        "wrappingMethod": "Convex",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-2CRV.svg"
       }
     },
     "56": {
