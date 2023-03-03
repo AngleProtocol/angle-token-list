@@ -375,7 +375,11 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/3Crv.svg",
         "name": "Curve.fi DAI/USDC/USDT",
         "symbol": "3CRV",
-        "underlyingTokens": ["0x6B175474E89094C44Da98b954EedeAC495271d0F", "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48","0xdAC17F958D2ee523a2206206994597C13D831ec7"],
+        "underlyingTokens": [
+          "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        ],
         "useInSwap": true
       },
       "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA": {
@@ -416,11 +420,11 @@
       "0x97F0A7954904a7357D814ACE2896021496e5f321": {
         "address": "0x97F0A7954904a7357D814ACE2896021496e5f321",
         "decimals": 18,
-        "description": "<p class=\"text-sm\">sd-LUSD3CRV is the token you get when staking on <a href=\"https://lockers.stakedao.org\" class= \"underlined\">StakeDAO</a> the LP token of the <a href=\"https://curve.fi/#/ethereum/pools/lusd/deposit\" class= \"underlined\">LUSD-DAI-USDC-USDT (LUSD3CRV) Curve pool</a>. <br />This token accumulates SDT and CRV rewards on top of transaction fees from the LUSD3CRV Curve pool.</p>",
+        "description": "<p class=\"text-sm\">sd-crvLUSD3CRV is the token you get when staking on <a href=\"https://lockers.stakedao.org\" class= \"underlined\">StakeDAO</a> the LP token of the <a href=\"https://curve.fi/#/ethereum/pools/lusd/deposit\" class= \"underlined\">LUSD-DAI-USDC-USDT (LUSD3CRV) Curve pool</a>. <br />This token accumulates SDT and CRV rewards on top of transaction fees from the LUSD3CRV Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-LUSD3CRV.svg",
         "name": "Angle Curve.fi Factory USD Metapool: Liquity Stake DAO Staker",
-        "symbol": "sd-LUSD3CRV",
+        "symbol": "sd-crvLUSD3CRV",
         "underlyingTokens": ["0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
