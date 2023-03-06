@@ -848,6 +848,24 @@
         "hasPermit": false,
         "wrappingMethod": "Convex",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-2CRV.svg"
+      },
+      "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978": {
+        "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+        "name": "Curve DAO Token",
+        "decimals": 18,
+        "symbol": "CRV",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg"
+      },
+      "0xb952A807345991BD529FDded05009F5e80Fe8F45": {
+        "address": "0xb952A807345991BD529FDded05009F5e80Fe8F45",
+        "name": "Convex Token",
+        "decimals": 18,
+        "symbol": "CVX",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CVX.svg"
       }
     },
     "56": {
