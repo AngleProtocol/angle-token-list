@@ -15,7 +15,7 @@
         "address": "0x5F27184fA83fE0E5aEf2344B6D9eB3Bd2118A290",
         "decimals": 18,
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agGOLD/agGOLD.svg",
         "name": "Angle Gold",
