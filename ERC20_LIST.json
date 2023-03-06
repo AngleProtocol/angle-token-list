@@ -794,7 +794,7 @@
         "symbol": "USDT",
         "useInSwap": true,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       },
       "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e": {
         "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
