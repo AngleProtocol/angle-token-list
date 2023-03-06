@@ -372,7 +372,7 @@
         "decimals": 18,
         "hasPermit": false,
         "wrappingMethod": "Curve",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/3Crv.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/3CRV.svg",
         "name": "Curve.fi DAI/USDC/USDT",
         "symbol": "3CRV",
         "underlyingTokens": [
