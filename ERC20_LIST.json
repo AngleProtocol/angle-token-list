@@ -134,6 +134,16 @@
         "permitVersion": "2",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
+      "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c": {
+        "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "name": "Euro Coin",
+        "decimals": 6,
+        "symbol": "EUROC",
+        "useInSwap": true,
+        "hasPermit": true,
+        "permitVersion": "2",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUROC.svg"
+      },
       "0xdAC17F958D2ee523a2206206994597C13D831ec7": {
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "name": "Tether USD",
