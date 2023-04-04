@@ -599,6 +599,22 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
+      "0xc3c7d422809852031b44ab29eec9f1eff2a58756": {
+        "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+        "name": "Lido DAO Token",
+        "decimals": 18,
+        "symbol": "LDO",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/polygon/assets/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756/logo.png"
+      },
+      "0xd8ef817FFb926370dCaAb8F758DDb99b03591A5e": {
+        "address": "0xd8ef817FFb926370dCaAb8F758DDb99b03591A5e",
+        "name": "Angle Merkl",
+        "decimals": 18,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "logoURI": ""
+      },
       "0x60D55F02A771d515e077c9C2403a1ef324885CeC": {
         "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
         "name": "Aave Matic Market USDT (amUSDT)",
