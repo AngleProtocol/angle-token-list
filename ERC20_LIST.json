@@ -635,7 +635,7 @@
         "decimals": 18,
         "symbol": "aglaMerkl",
         "hasPermit": false,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       },
       "0x60D55F02A771d515e077c9C2403a1ef324885CeC": {
         "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
