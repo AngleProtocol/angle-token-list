@@ -917,6 +917,14 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg"
       },
+      "0xE0688A2FE90d0f93F17f273235031062a210d691": {
+        "address": "0xE0688A2FE90d0f93F17f273235031062a210d691",
+        "name": "Angle Merkl",
+        "decimals": 18,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
       "0xb952A807345991BD529FDded05009F5e80Fe8F45": {
         "address": "0xb952A807345991BD529FDded05009F5e80Fe8F45",
         "name": "Convex Token",
