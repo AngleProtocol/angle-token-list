@@ -51,4 +51,5 @@ export const joiSchema = Joi.object().keys({
   [ChainId.BSC]: Joi.object().pattern(/^/, tokenInfo),
   [ChainId.OPTIMISM]: Joi.object().pattern(/^/, tokenInfo),
   [ChainId.CELO]: Joi.object().pattern(/^/, tokenInfo),
+  [ChainId.GNOSIS]: Joi.object().pattern(/^/, tokenInfo),
 });
