@@ -85,6 +85,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_wETH.svg"
       },
+      "0x1f4c763BdE1D4832B3EA0640e66Da00B98831355": {
+        "address": "0x1f4c763BdE1D4832B3EA0640e66Da00B98831355",
+        "name": "Sushiswap agEUR/ANGLE LP",
+        "decimals": 18,
+        "symbol": "Sushi agEUR/ANGLE",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NoLogo.svg"
+      },
       "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad": {
         "address": "0x9C215206Da4bf108aE5aEEf9dA7caD3352A36Dad",
         "name": "sanToken USDC_EUR",
