@@ -965,7 +965,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": true,
-        "logoURI": "https://github.com/AngleProtocol/angle-assets/blob/main/0_tokens/agEUR/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-gnosis.svg"
       }
     },
     "43114": {
