@@ -208,6 +208,15 @@
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanFEI_EUR.svg"
       },
+      "0xBa625B318483516F7483DD2c4706aC92d44dBB2B": {
+        "address": "0xBa625B318483516F7483DD2c4706aC92d44dBB2B",
+        "name": "Angle Sushi agEUR/ANGLE Gauge",
+        "decimals": 18,
+        "symbol": "staked Sushi LP",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NoLogo.svg"
+      },
       "0x7c0fF11bfbFA3cC2134Ce62034329a4505408924": {
         "address": "0x7c0fF11bfbFA3cC2134Ce62034329a4505408924",
         "name": "Angle sanFEI_EUR Gauge",
