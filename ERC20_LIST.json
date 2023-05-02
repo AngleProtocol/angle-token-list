@@ -527,6 +527,14 @@
         "hasPermit": false,
         "wrappingMethod": "Convex",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-LUSD3CRV.svg"
+      },
+      "0x820802Fa8a99901F52e39acD21177b0BE6EE2974": {
+        "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+        "name": "EUROe Stablecoin",
+        "decimals": 6,
+        "symbol": "EUROe",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/euroe.svg"
       }
     },
     "137": {
@@ -706,6 +714,14 @@
         "name": "MockReward2",
         "symbol": "MockReward2",
         "useInSwap": false
+      },
+      "0x820802Fa8a99901F52e39acD21177b0BE6EE2974": {
+        "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+        "name": "EUROe Stablecoin",
+        "decimals": 6,
+        "symbol": "EUROe",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/euroe.svg"
       }
     },
     "10": {
@@ -935,6 +951,14 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CVX.svg"
+      },
+      "0xcF985abA4647a432E60efcEeB8054BBd64244305": {
+        "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+        "name": "EUROe Stablecoin",
+        "decimals": 6,
+        "symbol": "EUROe",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/euroe.svg"
       }
     },
     "56": {
