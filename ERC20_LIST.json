@@ -528,8 +528,8 @@
         "wrappingMethod": "Convex",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-LUSD3CRV.svg"
       },
-      "0x820802fa8a99901f52e39acd21177b0be6ee2974": {
-        "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+      "0x820802Fa8a99901F52e39acD21177b0BE6EE2974": {
+        "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
         "name": "EUROe Stablecoin",
         "decimals": 6,
         "symbol": "EUROe",
@@ -715,8 +715,8 @@
         "symbol": "MockReward2",
         "useInSwap": false
       },
-      "0x820802fa8a99901f52e39acd21177b0be6ee2974": {
-        "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+      "0x820802Fa8a99901F52e39acD21177b0BE6EE2974": {
+        "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
         "name": "EUROe Stablecoin",
         "decimals": 6,
         "symbol": "EUROe",
