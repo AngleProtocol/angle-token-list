@@ -371,9 +371,7 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bIB01.svg",
         "name": "Backed IB01 $ Treasury Bond 0-1yr",
-        "permitVersion": "1",
-        "symbol": "bIB01",
-        "useInSwap": false
+        "symbol": "bIB01"
       },
       "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704": {
         "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
