@@ -365,6 +365,14 @@
         "symbol": "LUSD",
         "useInSwap": true
       },
+      "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5": {
+        "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bIB01.svg",
+        "name": "Backed IB01 $ Treasury Bond 0-1yr",
+        "symbol": "bIB01"
+      },
       "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704": {
         "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
         "decimals": 18,
