@@ -899,6 +899,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ram.png"
       },
+      "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851": {
+        "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+        "name": "CHRONOS",
+        "decimals": 18,
+        "symbol": "CHR",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/chr.png"
+      },
       "0x7f90122BF0700F9E7e1F688fe926940E8839F353": {
         "address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
         "decimals": 18,
@@ -1055,6 +1064,15 @@
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AVAX.svg"
+      },
+      "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6": {
+        "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
+        "name": "Glacier",
+        "decimals": 18,
+        "symbol": "GLCR",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/glcr.png"
       },
       "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
