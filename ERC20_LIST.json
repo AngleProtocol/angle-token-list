@@ -587,7 +587,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg",
         "name": "Matic Token",
         "symbol": "MATIC",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
@@ -1020,9 +1020,18 @@
         "name": "BNB",
         "decimals": 18,
         "symbol": "BNB",
-        "useInSwap": true,
+        "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BNB.svg"
+      },
+      "0x55d398326f99059fF775485246999027B3197955": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "decimals": 18,
+        "symbol": "USDT",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       }
     },
     "100": {
