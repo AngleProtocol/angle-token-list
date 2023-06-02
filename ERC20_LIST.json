@@ -543,6 +543,14 @@
         "symbol": "EUROe",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/euroe.svg"
+      },
+      "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5": {
+        "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+        "name": "Blockchain Certified Data Token",
+        "decimals": 18,
+        "symbol": "BCDT",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bcdt.svg"
       }
     },
     "137": {

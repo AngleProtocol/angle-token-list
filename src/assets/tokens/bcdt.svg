@@ -1,0 +1,13 @@
+<svg id="evidenz-512" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect id="Rectangle_6745" data-name="Rectangle 6745" width="512" height="512" fill="none"/>
+  <g id="Groupe_14341" data-name="Groupe 14341" transform="translate(15346.798 1684.276)">
+    <g transform="translate(-15273.238 -1684)">
+      <path id="Tracé_15205" data-name="Tracé 15205" d="M621.234,372.846,437.2,479.122,253.173,372.846V585.335l111.414,64.34h-.051V778.294h.051l72.619-41.936,72.617,41.936h.025V649.675h-.025l111.411-64.34Z" transform="translate(-253.171 -266.571)" fill="#2fd3c7"/>
+      <path id="Tracé_8620" data-name="Tracé 8620" d="M437.2,568.5,253.173,462.222,437.2,355.946,621.229,462.222Z" transform="translate(-253.171 -355.946)" fill="#42e8e0"/>
+      <path id="Tracé_15206" data-name="Tracé 15206" d="M437.2,479.122,253.173,372.846V585.335l111.414,64.34h-.051V778.294h.051l72.619-41.936V479.119Z" transform="translate(-253.171 -266.571)" fill="#41cbc1"/>
+      <path id="Tracé_8617-2" data-name="Tracé 8617-2" d="M376.092,443.813,264.728,379.519V508.107L376.092,572.4l111.364-64.294V379.519Z" transform="translate(-192.064 -231.28)" fill="#efeff0"/>
+      <path id="Tracé_8619-2" data-name="Tracé 8619-2" d="M393.8,508.138,282.436,572.432V443.813L393.8,379.519Z" transform="translate(-98.414 -231.28)" fill="#fdfdfe"/>
+      <path id="Tracé_8620-2" data-name="Tracé 8620-2" d="M376.092,497.884,264.728,433.59,376.092,369.3,487.456,433.59Z" transform="translate(-192.064 -285.344)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
