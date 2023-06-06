@@ -373,6 +373,14 @@
         "name": "Backed IB01 $ Treasury Bond 0-1yr",
         "symbol": "bIB01"
       },
+      "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a": {
+        "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bHIGH.svg",
+        "name": "Backed HIGH € High Yield Corp Bond",
+        "symbol": "bHIGH"
+      },
       "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704": {
         "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
         "decimals": 18,
