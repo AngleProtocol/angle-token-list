@@ -866,7 +866,7 @@
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "name": "USD Coin",
         "decimals": 6,
-        "symbol": "USDC",
+        "symbol": "USDC.e",
         "hasPermit": false,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
@@ -993,6 +993,15 @@
         "symbol": "EUROe",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/euroe.svg"
+      },
+      "0x912CE59144191C1204E64559FE8253a0e49E6548": {
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "name": "Arbitrum",
+        "decimals": 18,
+        "symbol": "ARB",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARB.svg"
       }
     },
     "56": {
