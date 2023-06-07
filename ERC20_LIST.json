@@ -830,6 +830,15 @@
         "hasPermit": false,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/VELO.svg"
+      },
+      "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B": {
+        "address": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       }
     },
     "42161": {
@@ -1010,6 +1019,15 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARB.svg"
+      },
+      "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A": {
+        "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       }
     },
     "56": {
@@ -1057,6 +1075,15 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0x986cdF0fd180b40c4D6aEAA01Ab740B996D8b782": {
+        "address": "0x986cdF0fd180b40c4D6aEAA01Ab740B996D8b782",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       }
     },
     "100": {
@@ -1068,6 +1095,15 @@
         "hasPermit": true,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-gnosis.svg"
+      },
+      "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE": {
+        "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       }
     },
     "43114": {
@@ -1134,6 +1170,15 @@
         "name": "Wrapped Ether",
         "symbol": "wETH.e",
         "useInSwap": true
+      },
+      "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76": {
+        "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       }
     },
     "42220": {
@@ -1145,6 +1190,15 @@
         "hasPermit": true,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-celo.svg"
+      },
+      "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1": {
+        "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
+        "name": "Sushi Token",
+        "symbol": "SUSHI",
+        "useInSwap": true
       }
     }
   }
