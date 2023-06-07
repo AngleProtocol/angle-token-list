@@ -874,7 +874,7 @@
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "name": "USD Coin",
         "decimals": 6,
-        "symbol": "USDC.e",
+        "symbol": "USDC",
         "hasPermit": false,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
