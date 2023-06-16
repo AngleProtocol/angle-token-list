@@ -1028,6 +1028,51 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": true
+      },
+      "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
+          "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+          "name": "Dai Stablecoin",
+          "decimals": 18,
+          "symbol": "DAI",
+          "hasPermit": false,
+          "useInSwap": true,
+          "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
+      },
+      "0x539bdE0d7Dbd336b79148AA742883198BBF60342": {
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "name": "MAGIC",
+        "decimals": 18,
+        "symbol": "MAGIC",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MAGIC.svg"
+      },
+      "0x3082CC23568eA640225c2467653dB90e9250AaA0": {
+        "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+        "name": "Radiant",
+        "decimals": 18,
+        "symbol": "RDNT",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+      },
+      "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a": {
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "name": "GMX",
+        "decimals": 18,
+        "symbol": "GMX",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://tokens.1inch.io/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
+      },
+      "0xEB466342C4d449BC9f53A865D5Cb90586f405215": {
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "name": "Axelar Wrapped USDC",
+        "decimals": 6,
+        "symbol": "axlUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "56": {
