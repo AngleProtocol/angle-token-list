@@ -368,6 +368,7 @@
       "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5": {
         "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
         "decimals": 18,
+        "description": "<p class=\"text-sm\">bIB01 is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.blackrock.com/uk/individual/products/307243/\" class= \"underlined\">IB01 ETF by BlackRock</a>. <br />This ETF seeks to track the investment results of an index composed of US Dollar denominated government bonds issued by the US Treasury, with remaining maturities between zero and one year.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bIB01.svg",
         "name": "Backed IB01 $ Treasury Bond 0-1yr",
@@ -376,6 +377,7 @@
       "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a": {
         "address": "0x20C64dEE8FdA5269A78f2D5BDBa861CA1d83DF7a",
         "decimals": 18,
+        "description": "<p class=\"text-sm\">bHIGH is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.blackrock.com/uk/individual/products/290618/ishares-high-yield-corp-bond-ucits-etf\" class= \"underlined\">HIGH ETF by BlackRock</a>. <br />This ETF seeks to track the performance of an index composed of Euro denominated high yield corporate bonds.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bHIGH.svg",
         "name": "Backed HIGH € High Yield Corp Bond",
@@ -1030,13 +1032,13 @@
         "useInSwap": true
       },
       "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
-          "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-          "name": "Dai Stablecoin",
-          "decimals": 18,
-          "symbol": "DAI",
-          "hasPermit": false,
-          "useInSwap": true,
-          "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "symbol": "DAI",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
       },
       "0x539bdE0d7Dbd336b79148AA742883198BBF60342": {
         "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
