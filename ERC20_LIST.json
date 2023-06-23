@@ -401,6 +401,14 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STETH.svg"
       },
+      "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e": {
+        "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
+        "name": "VEGA",
+        "decimals": 18,
+        "symbol": "VEGA",
+        "hasPermit": false,
+        "logoURI": "https://tokens-data.1inch.io/images/0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e.png"
+      },
       "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
         "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
         "decimals": 18,
