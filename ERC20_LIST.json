@@ -401,14 +401,6 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STETH.svg"
       },
-      "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e": {
-        "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
-        "name": "VEGA",
-        "decimals": 18,
-        "symbol": "VEGA",
-        "hasPermit": false,
-        "logoURI": "https://tokens-data.1inch.io/images/0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e.png"
-      },
       "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
         "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
         "decimals": 18,
@@ -1254,6 +1246,17 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": true
+      }
+    },
+    "1101": {
+      "0xA61BeB4A3d02decb01039e378237032B351125B4": {
+        "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": true,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg"
       }
     }
   }
