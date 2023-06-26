@@ -1236,17 +1236,6 @@
         "useInSwap": true
       }
     },
-    "1101": {
-      "0xA61BeB4A3d02decb01039e378237032B351125B4": {
-        "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
-        "name": "Angle Euro",
-        "decimals": 18,
-        "symbol": "agEUR",
-        "hasPermit": true,
-        "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg"
-      }
-    },
     "42220": {
       "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049": {
         "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
