@@ -849,6 +849,24 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": true
+      },
+      "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9": {
+        "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://tokens-data.1inch.io/images/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png",
+        "name": "Synth sUSD",
+        "symbol": "sUSD",
+        "useInSwap": false
+      },
+      "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4": {
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://tokens-data.1inch.io/images/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png",
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "useInSwap": false
       }
     },
     "42161": {
