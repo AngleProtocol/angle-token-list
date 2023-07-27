@@ -569,6 +569,15 @@
         "symbol": "BCDT",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bcdt.svg"
+      },
+      "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898": {
+        "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
+        "name": "PancakeSwap Token",
+        "decimals": 18,
+        "symbol": "CAKE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
       }
     },
     "137": {
@@ -764,6 +773,24 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
         "name": "Sushi Token",
         "symbol": "SUSHI",
+        "useInSwap": false
+      },
+      "0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb": {
+        "address": "0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/retro.png",
+        "name": "RETRO",
+        "symbol": "RETRO",
+        "useInSwap": false
+      },
+      "0x3A29CAb2E124919d14a6F735b6033a3AaD2B260F": {
+        "address": "0x3A29CAb2E124919d14a6F735b6033a3AaD2B260F",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oretro.png",
+        "name": "Option to buy RETRO",
+        "symbol": "oRETRO",
         "useInSwap": false
       }
     },
@@ -1157,6 +1184,16 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": true
+      },
+
+      "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": {
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "name": "PancakeSwap Token",
+        "decimals": 18,
+        "symbol": "CAKE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
       }
     },
     "100": {
@@ -1283,6 +1320,15 @@
         "hasPermit": true,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg"
+      },
+      "0x0D1E753a25eBda689453309112904807625bEFBe": {
+        "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+        "name": "PancakeSwap Token",
+        "decimals": 18,
+        "symbol": "CAKE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
       }
     }
   }
