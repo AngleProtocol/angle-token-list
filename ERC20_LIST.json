@@ -383,6 +383,15 @@
         "name": "Backed HIGH € High Yield Corp Bond",
         "symbol": "bHIGH"
       },
+      "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7": {
+        "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">bC3M is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.amundietf.fr/fr/professionnels/produits/fixed-income/amundi-etf-govies-06-months-euro-investment-grade-ucits-etf-dr/fr0010754200\" class= \"underlined\">C3M ETF by Amundi</a>. <br />This ETF seeks to track the performance of an index composed of Euro denominated short term government bonds.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bHIGH.svg",
+        "name": "Backed GOVIES 0-6 months Euro investment grade",
+        "symbol": "bC3M"
+      },
       "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704": {
         "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
         "decimals": 18,
