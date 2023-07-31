@@ -1084,6 +1084,15 @@
         "symbol": "SUSHI",
         "useInSwap": true
       },
+      "0x51B902f19a56F0c8E409a34a215AD2673EDF3284": {
+        "address": "0x51B902f19a56F0c8E409a34a215AD2673EDF3284",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
+        "name": "NFTEarthOFT",
+        "symbol": "NFTE",
+        "useInSwap": true
+      },
       "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "name": "Dai Stablecoin",
