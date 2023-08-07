@@ -587,6 +587,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
+      },
+      "0x8c223a82E07feCB49D602150d7C2B3A4c9630310": {
+        "address": "0x8c223a82E07feCB49D602150d7C2B3A4c9630310",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
+        "name": "NFTEarthOFT",
+        "symbol": "NFTE",
+        "useInSwap": true
       }
     },
     "137": {
@@ -801,6 +810,15 @@
         "name": "Option to buy RETRO",
         "symbol": "oRETRO",
         "useInSwap": false
+      },
+      "0x492Fa53b88614923937B7197C87E0F7F8EEb7B20": {
+        "address": "0x492Fa53b88614923937B7197C87E0F7F8EEb7B20",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
+        "name": "NFTEarthOFT",
+        "symbol": "NFTE",
+        "useInSwap": true
       }
     },
     "10": {
@@ -903,6 +921,15 @@
         "name": "Synthetix Network Token",
         "symbol": "SNX",
         "useInSwap": false
+      },
+      "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1": {
+        "address": "0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
+        "name": "NFTEarthOFT",
+        "symbol": "NFTE",
+        "useInSwap": true
       }
     },
     "42161": {
