@@ -819,6 +819,15 @@
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
         "useInSwap": true
+      },
+      "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24": {
+        "address": "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cSUSHI.svg",
+        "name": "cSUSHI",
+        "symbol": "cSUSHI",
+        "useInSwap": false
       }
     },
     "10": {
@@ -1383,6 +1392,26 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg"
+      }
+    },
+    "8453": {
+      "0xA61BeB4A3d02decb01039e378237032B351125B4": {
+        "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": true,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-base.svg"
+      },
+      "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA": {
+        "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
+        "name": "SUSHI",
+        "decimals": 18,
+        "symbol": "SUSHI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg"
       }
     }
   }
