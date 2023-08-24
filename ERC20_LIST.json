@@ -1392,6 +1392,16 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MATIC.svg"
+      },
+      "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9": {
+        "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "wETH",
+        "useInSwap": true,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       }
     },
     "8453": {
