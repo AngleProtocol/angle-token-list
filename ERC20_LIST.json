@@ -1402,7 +1402,7 @@
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
-      },
+      }
     },
     "8453": {
       "0xA61BeB4A3d02decb01039e378237032B351125B4": {
