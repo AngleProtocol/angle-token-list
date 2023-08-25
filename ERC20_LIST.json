@@ -596,6 +596,15 @@
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
         "useInSwap": true
+      },
+      "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b": {
+        "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+        "name": "ETHx",
+        "decimals": 18,
+        "symbol": "ETHx",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
       }
     },
     "137": {
