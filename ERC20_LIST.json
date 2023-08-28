@@ -965,9 +965,18 @@
         "name": "Camelot escrowed token",
         "decimals": 18,
         "symbol": "xGRAIL",
-        "hasPermit": true,
+        "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xGRAIL.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAIL.svg"
+      },
+      "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8": {
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "name": "Camelot token",
+        "decimals": 18,
+        "symbol": "GRAIL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAIL.svg"
       },
       "0x656B80B667a46869144047E6e6C0000C81610253": {
         "address": "0x656B80B667a46869144047E6e6C0000C81610253",
