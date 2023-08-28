@@ -960,6 +960,15 @@
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-arbitrum.svg"
       },
+      "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b": {
+        "address": "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b",
+        "name": "Camelot escrowed token",
+        "decimals": 18,
+        "symbol": "xGRAIL",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xGRAIL.svg"
+      },
       "0x656B80B667a46869144047E6e6C0000C81610253": {
         "address": "0x656B80B667a46869144047E6e6C0000C81610253",
         "name": "Angle Governance Token",
