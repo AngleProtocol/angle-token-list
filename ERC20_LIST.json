@@ -273,6 +273,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AAVE.svg"
       },
+      "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
+        "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+        "name": "Gho Token",
+        "decimals": 18,
+        "symbol": "GHO",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GHO.svg"
+      },
       "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "name": "Wrapped Ether",
