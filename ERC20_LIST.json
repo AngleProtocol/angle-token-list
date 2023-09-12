@@ -1527,6 +1527,15 @@
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0xCA68ad4EE5c96871EC6C6dac2F714a8437A3Fe66": {
+        "address": "0xCA68ad4EE5c96871EC6C6dac2F714a8437A3Fe66",
+        "name": "Gravita Debt Token",
+        "decimals": 18,
+        "symbol": "GRAI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAI.svg"
       }
     },
     "8453": {
