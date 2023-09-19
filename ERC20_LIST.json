@@ -1607,8 +1607,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BSX.svg"
       },
-      "0xe4750593d1fc8e74b31549212899a72162f315fa": {
-        "address": "0xe4750593d1fc8e74b31549212899a72162f315fa",
+      "0xE4750593d1fC8E74b31549212899A72162f315Fa": {
+        "address": "0xE4750593d1fC8E74b31549212899A72162f315Fa",
         "name": "xBaseX",
         "decimals": 18,
         "symbol": "xBSX",
