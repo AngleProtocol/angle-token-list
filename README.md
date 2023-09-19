@@ -1,12 +1,14 @@
-# Angle Protocol ERC20 List
+# Angle ERC20 List
 
 [![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
-This repo contains a list of ERC20 tokens for which the Angle Applications like [Merkl](https://merkl.angle.money) or [Angle Protocol app](https://app.angle.money) can display logos and essential information.
+This repo contains a list of ERC20 tokens for which Angle-related front-end applications like [Merkl](https://merkl.angle.money) or [Angle Protocol app](https://app.angle.money) can display logos and essential information.
 
 ## Add a token to the list
 
-All tokens are listed in `ERC20_LIST.json`. To add a token to the token list:
+All tokens are listed in `ERC20_LIST.json`.
+
+To add a token to the token list:
 
 - Add in `src/assets/tokens` a svg for the token logo with as a name for the file: `tokenSymbol.svg` (e.g for CRV: `CRV.svg`)
 - Update the `ERC20_LIST.json` file with the token info in the place of the json file that corresponds to the chain on which this token exists:
