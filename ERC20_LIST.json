@@ -881,6 +881,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DUCKIES.svg"
+      },
+      "0x5D066D022EDE10eFa2717eD3D79f22F949F8C175": {
+        "address": "0x5D066D022EDE10eFa2717eD3D79f22F949F8C175",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CASH.png",
+        "name": "CASH",
+        "symbol": "CASH",
+        "useInSwap": false
       }
     },
     "10": {
