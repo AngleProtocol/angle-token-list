@@ -373,6 +373,15 @@
         "symbol": "CVX",
         "useInSwap": true
       },
+      "0xd33526068d116ce69f19a9ee46f0bd304f21a51f": {
+        "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rpl.svg",
+        "name": "Rocket Pool Protocol",
+        "symbol": "RPL",
+        "useInSwap": false
+      },
       "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0": {
         "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
         "decimals": 18,
