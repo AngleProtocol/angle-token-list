@@ -1610,6 +1610,55 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xBSX.svg"
       }
+    },
+    "59144": {
+      "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
+        "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": true,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR.svg"
+      },
+      "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
+        "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+        "name": "Staked agEUR",
+        "decimals": 18,
+        "symbol": "stEUR",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+      }
+    },
+    "5000": {
+      "0xA61BeB4A3d02decb01039e378237032B351125B4": {
+        "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+        "name": "Angle Euro",
+        "decimals": 18,
+        "symbol": "agEUR",
+        "hasPermit": true,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR.svg"
+      },
+      "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
+        "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+        "name": "Staked agEUR",
+        "decimals": 18,
+        "symbol": "stEUR",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+      },
+      "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000": {
+        "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+        "name": "Mantle",
+        "decimals": 18,
+        "symbol": "MNT",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MNT.svg"
+      }
     }
   }
 ]
