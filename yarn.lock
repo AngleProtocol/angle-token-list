@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@angleprotocol/sdk@^3.0.87":
-  version "3.0.89"
-  resolved "https://registry.yarnpkg.com/@angleprotocol/sdk/-/sdk-3.0.89.tgz#29b5b201947128f35e7f8bcba31507ce1d7bbb82"
-  integrity sha512-CJ0Vg4sJe5w9DoLDa5o9f/lsmJ8FLIZy2idYO6HKDUFvIg2VHvOepwvehH0ixXGHx4KV5HN0xjNtaMfj9YHppg==
+"@angleprotocol/sdk@^3.0.121":
+  version "3.0.121"
+  resolved "https://registry.yarnpkg.com/@angleprotocol/sdk/-/sdk-3.0.121.tgz#53911149c4a43f032b1979a4c679858a7dbb2ba6"
+  integrity sha512-XAhNlFIEbKm2f0nQHF0sTA56OAPlsZD5OtTvD32CnTM0Lk2ezIRjgKJf5imwpZxMRgP/5jKtLZyP+fi8o/Ry0w==
   dependencies:
     "@typechain/ethers-v5" "^10.0.0"
     "@types/lodash" "^4.14.180"
@@ -15,7 +15,7 @@
     jsbi "^4.3.0"
     keccak256 "^1.0.6"
     lodash "^4.17.21"
-    merkletreejs "^0.3.9"
+    merkletreejs "^0.3.10"
     tiny-invariant "^1.1.0"
     typechain "^8.0.0"
 
@@ -1135,7 +1135,7 @@ md5.js@^1.3.4:
     inherits "^2.0.1"
     safe-buffer "^5.1.2"
 
-merkletreejs@^0.3.9:
+merkletreejs@^0.3.10:
   version "0.3.10"
   resolved "https://registry.yarnpkg.com/merkletreejs/-/merkletreejs-0.3.10.tgz#b9abdfc5e3aadaf9eb8b0a35c4b87aea33f5d4b7"
   integrity sha512-lin42tKfRdkW+6iE5pjtQ9BnH+1Hk3sJ5Fn9hUUSjcXRcJbSISHgPCfYvMNEXiNqZPhz/TyRPEV30qgnujsQ7A==
