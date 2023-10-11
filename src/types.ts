@@ -54,4 +54,7 @@ export const joiSchema = Joi.object().keys({
   [ChainId.GNOSIS]: Joi.object().pattern(/^/, tokenInfo),
   [ChainId.BASE]: Joi.object().pattern(/^/, tokenInfo),
   [ChainId.POLYGONZKEVM]: Joi.object().pattern(/^/, tokenInfo),
+  [ChainId.LINEA]: Joi.object().pattern(/^/, tokenInfo),
+  [ChainId.MANTLE]: Joi.object().pattern(/^/, tokenInfo),
+  [ChainId.ZKSYNC]: Joi.object().pattern(/^/, tokenInfo),
 });
