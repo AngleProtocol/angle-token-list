@@ -1400,7 +1400,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SUSHI.svg",
         "name": "Sushi Token",
         "symbol": "SUSHI",
-        "useInSwap": true
+        "useInSwap": false
       }
     },
     "43114": {
