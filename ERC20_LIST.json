@@ -413,7 +413,7 @@
       "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7": {
         "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
         "decimals": 18,
-        "description": "<p class=\"text-sm\">bC3M is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.amundietf.fr/fr/professionnels/produits/fixed-income/amundi-etf-govies-06-months-euro-investment-grade-ucits-etf-dr/fr0010754200\" class= \"underlined\">C3M ETF by Amundi</a>. <br />This ETF seeks to track the performance of an index composed of Euro denominated short term government bonds.</p>",
+        "description": "<p class=\"text-sm\">bC3M is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.amundietf.co.uk/en/professional/products/fixed-income/amundi-etf-govies-06-months-euro-investment-grade-ucits-etf-dr/fr0010754200\" class= \"underlined\">C3M ETF by Amundi</a>. <br />This ETF seeks to track the performance of an index composed of Euro denominated short term government bonds.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bC3M.png",
         "name": "Backed GOVIES 0-6 months Euro investment grade",
@@ -538,7 +538,7 @@
       "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e": {
         "address": "0xC68421f20bf6f0Eb475F00b9C5484f7D0AC0331e",
         "decimals": 18,
-        "description": "<p class=\"text-sm\">cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" class= \"underlined\">FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />By owning cvx-crvFRAXUSDC, you accumulate CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
+        "description": "<p class=\"text-sm\">cvx-crvFRAXUSDC corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" class= \"underlined\">FRAX-USDC (FRAXBP) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />This token accumulates CVX and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvFRAXUSDC.svg",
         "name": "Angle Curve.fi FRAX/USDC Convex Staker",
@@ -550,7 +550,7 @@
       "0xbff202E3Cb58aB0A09b2Eb1D9a50352B9aAf196c": {
         "address": "0xbff202E3Cb58aB0A09b2Eb1D9a50352B9aAf196c",
         "decimals": 18,
-        "description": "<p class=\"text-sm\">cvx-3CRV corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/3pool/deposit\" class= \"underlined\">DAI-USDC-USDT (3CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />By owning cvx-3CRV, you accumulate CVX and CRV rewards on top of transaction fees from the DAI-USDC-USDT Curve pool.</p>",
+        "description": "<p class=\"text-sm\">cvx-3CRV corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/3pool/deposit\" class= \"underlined\">DAI-USDC-USDT (3CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />This token accumulates CVX and CRV rewards on top of transaction fees from the DAI-USDC-USDT Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-3CRV.svg",
         "name": "Angle Curve.fi DAI/USDC/USDT Convex Staker",
@@ -562,7 +562,7 @@
       "0x9650821B3555Fe6318586BE997cc0Fb163C35976": {
         "address": "0x9650821B3555Fe6318586BE997cc0Fb163C35976",
         "decimals": 18,
-        "description": "<p class=\"text-sm\">cvx-LUSD3CRV corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/lusd/deposit\" class= \"underlined\">DAI-USDC-USDT-LUSD (LUSD3CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />By owning cvx-LUSD3CRV, you accumulate CVX and CRV rewards on top of transaction fees from the DAI-USDC-USDT_LUSD Curve pool.</p>",
+        "description": "<p class=\"text-sm\">cvx-LUSD3CRV corresponds to LP tokens of the <a href=\"https://curve.fi/#/ethereum/pools/lusd/deposit\" class= \"underlined\">DAI-USDC-USDT-LUSD (LUSD3CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />This token accumulates CVX and CRV rewards on top of transaction fees from the LUSD3CRV Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvLUSD3CRV.svg",
         "name": "Angle Curve.fi Factory USD Metapool: Liquity Convex Staker",
@@ -1166,7 +1166,7 @@
       "0x42dC54fb50dB556fA6ffBa765F1141536d4830ea": {
         "address": "0x42dC54fb50dB556fA6ffBa765F1141536d4830ea",
         "decimals": 18,
-        "description": "<p class=\"text-sm\">cvx-crvUSDCUSDT corresponds to LP tokens of the <a href=\"https://curve.fi/#/arbitrum/pools/2pool/deposit\" class= \"underlined\">USDC-USDT (2CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />By owning cvx-2CRV, you accumulate CVX and CRV rewards on top of transaction fees from the USDC-USDT Curve pool.</p>",
+        "description": "<p class=\"text-sm\">cvx-crvUSDCUSDT corresponds to LP tokens of the <a href=\"https://curve.fi/#/arbitrum/pools/2pool/deposit\" class= \"underlined\">USDC-USDT (2CRV) Curve pool</a> staked on <a href=\"https://www.convexfinance.com/stake\" class= \"underlined\">Convex</a>. <br />This token accumulates CVX and CRV rewards on top of transaction fees from the USDC-USDT Curve pool.</p>",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-2CRV.svg",
         "name": "Angle Curve.fi USDC/USDT Convex Staker",
