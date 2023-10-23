@@ -1298,6 +1298,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ZTX.svg"
+      },
+      "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55": {
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "name": "Dopex Governance Token",
+        "decimals": 18,
+        "symbol": "DPX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DPX.svg"
       }
     },
     "56": {
