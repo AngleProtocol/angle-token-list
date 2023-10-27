@@ -1317,8 +1317,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DPX.svg"
       },
-      "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16": {
-        "address": "0x8C2b8595eA1b627427EFE4f29A64b145DF439d16",
+      "0x5979D7b546E38E414F7E9822514be443A4800529": {
+        "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
         "decimals": 18,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg",
