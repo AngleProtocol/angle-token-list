@@ -899,6 +899,15 @@
         "name": "CASH",
         "symbol": "CASH",
         "useInSwap": false
+      },
+      "0xE6A537a407488807F0bbeb0038B79004f19DDDFb": {
+        "address": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BRLA.svg",
+        "name": "BRLA Token",
+        "symbol": "BRLA",
+        "useInSwap": false
       }
     },
     "10": {
