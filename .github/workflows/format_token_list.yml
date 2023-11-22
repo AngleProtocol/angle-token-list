@@ -20,7 +20,7 @@ jobs:
           node-version: "14"
       - name: Install dependencies
         shell: bash
-        run: echo "//npm.pkg.github.com/:_authToken=${{secrets.GITHUB_TOKEN}}" >> .npmrc && yarn install --frozen-lockfile --verbose && rm -f .npmrc
+        run: echo "//npm.pkg.github.com/:_authToken=${{secrets.GH_REGISTRY_ACCESS_TOKEN}}" >> .npmrc && yarn install --frozen-lockfile --verbose && rm -f .npmrc
       - name: Validate JSON file
         run: yarn validate
       - name: Discord notification (failure)
