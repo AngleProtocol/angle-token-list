@@ -23,7 +23,7 @@ jobs:
         shell: bash
         run: |
             echo "//npm.pkg.github.com/:_authToken=${{secrets.GH_REGISTRY_ACCESS_TOKEN}}" >> .npmrc
-            yarn install && yarn cache clean
+            yarn install --frozen-lockfile && yarn cache clean
             rm -f .npmrc
 
       - name: Validate JSON file
