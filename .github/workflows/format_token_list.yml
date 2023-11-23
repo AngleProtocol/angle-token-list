@@ -22,11 +22,12 @@ jobs:
       - name: Install dependencies
         shell: bash
         run: echo "//npm.pkg.github.com/:_authToken=${{secrets.GH_REGISTRY_ACCESS_TOKEN}}" >> .npmrc
-             yarn install --frozen-lockfile --verbose --production && yarn cache clean
+             yarn install && yarn cache clean
              rm -f .npmrc
 
       - name: Validate JSON file
         run: yarn validate
+
       - name: Discord notification (failure)
         if: failure()
         uses: Ilshidur/action-discord@master
