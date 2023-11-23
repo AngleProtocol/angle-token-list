@@ -1367,6 +1367,15 @@
         "name": "Wrapped liquid staked Ether 2.0",
         "symbol": "wstETH",
         "useInSwap": true
+      },
+      "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF": {
+        "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+        "name": "Spell Token",
+        "decimals": 18,
+        "symbol": "SPELL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": ""
       }
     },
     "56": {
@@ -1778,6 +1787,5 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       }
     }
-    
   }
 ]
