@@ -1375,7 +1375,7 @@
         "symbol": "SPELL",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SPELL.svg"
       }
     },
     "56": {
