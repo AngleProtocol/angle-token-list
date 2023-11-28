@@ -1375,6 +1375,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SPELL.svg"
+      },
+      "0x643b34980E635719C15a2D4ce69571a258F940E9": {
+        "address": "0x643b34980E635719C15a2D4ce69571a258F940E9",
+        "name": "The Standard EURO",
+        "decimals": 18,
+        "symbol": "EUROs",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUROs.svg"
       }
     },
     "56": {
