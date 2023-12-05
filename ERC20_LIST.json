@@ -485,6 +485,14 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/osETH.svg"
       },
+      "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457": {
+        "address": "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457",
+        "name": "Inspect",
+        "decimals": 18,
+        "symbol": "INSP",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/INSP.svg"
+      },
       "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0": {
         "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
         "decimals": 18,
