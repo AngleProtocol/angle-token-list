@@ -948,6 +948,15 @@
         "name": "BRLA Token",
         "symbol": "BRLA",
         "useInSwap": false
+      },
+      "0xB121FCD122DAAa153bB8a102754127b2682645CB": {
+        "address": "0xB121FCD122DAAa153bB8a102754127b2682645CB",
+        "name": "PERL.eco",
+        "decimals": 18,
+        "symbol": "PERL",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/perleco.svg"
       }
     },
     "10": {
