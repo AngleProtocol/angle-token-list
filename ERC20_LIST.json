@@ -1801,6 +1801,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0xB121FCD122DAAa153bB8a102754127b2682645CB": {
+        "address": "0xB121FCD122DAAa153bB8a102754127b2682645CB",
+        "name": "PERL.eco",
+        "decimals": 18,
+        "symbol": "PERL",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/perleco.svg"
       }
     }
   }
