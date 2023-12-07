@@ -1739,6 +1739,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xBSX.svg"
+      },
+      "0xC011882d0f7672D8942e7fE2248C174eeD640c8f": {
+        "address": "0xC011882d0f7672D8942e7fE2248C174eeD640c8f",
+        "name": "Angle Merkl",
+        "decimals": 18,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       }
     },
     "59144": {
