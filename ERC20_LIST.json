@@ -1401,6 +1401,33 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUROs.svg"
+      },
+      "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034​": {
+        "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034​",
+        "name": "Savvy",
+        "decimals": 18,
+        "symbol": "SVY",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SVY.svg"
+      },
+      "0xF202Ab403Cd7E90197ec0f010ee897E283037706": {
+        "address": "0xF202Ab403Cd7E90197ec0f010ee897E283037706",
+        "name": "Savvy USD",
+        "decimals": 18,
+        "symbol": "svUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/svUSD.svg"
+      },
+      "0xf7728582002ef82908c8242CF552E969BA863Ffa": {
+        "address": "0xf7728582002ef82908c8242CF552E969BA863Ffa",
+        "name": "Savvy ETH",
+        "decimals": 18,
+        "symbol": "svETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/svETH.svg"
       }
     },
     "56": {
