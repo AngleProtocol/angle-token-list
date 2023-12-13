@@ -1402,8 +1402,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUROs.svg"
       },
-      "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034​": {
-        "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034​",
+      "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034": {
+        "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
         "name": "Savvy",
         "decimals": 18,
         "symbol": "SVY",
