@@ -291,6 +291,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GHO.svg"
       },
+      "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD": {
+        "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+        "name": "pNetwork Token",
+        "decimals": 18,
+        "symbol": "PNT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PNT.svg"
+      },
       "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "name": "Wrapped Ether",
@@ -306,7 +315,7 @@
         "name": "Binance USD",
         "decimals": 18,
         "symbol": "BUSD",
-        "useInSwap": true,
+        "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BUSD.svg"
       },
@@ -452,6 +461,14 @@
         "symbol": "SD",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SD.svg"
+      },
+      "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6": {
+        "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+        "name": "ICHI",
+        "decimals": 18,
+        "symbol": "ICHI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ichi.png"
       },
       "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4": {
         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
@@ -812,6 +829,14 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6": {
+        "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+        "name": "ICHI",
+        "decimals": 18,
+        "symbol": "ICHI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ichi.png"
       },
       "0x60D55F02A771d515e077c9C2403a1ef324885CeC": {
         "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
@@ -1401,6 +1426,33 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUROs.svg"
+      },
+      "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034": {
+        "address": "0x43aB8f7d2A8Dd4102cCEA6b438F6d747b1B9F034",
+        "name": "Savvy",
+        "decimals": 18,
+        "symbol": "SVY",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SVY.svg"
+      },
+      "0xF202Ab403Cd7E90197ec0f010ee897E283037706": {
+        "address": "0xF202Ab403Cd7E90197ec0f010ee897E283037706",
+        "name": "Savvy USD",
+        "decimals": 18,
+        "symbol": "svUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/svUSD.svg"
+      },
+      "0xf7728582002ef82908c8242CF552E969BA863Ffa": {
+        "address": "0xf7728582002ef82908c8242CF552E969BA863Ffa",
+        "name": "Savvy ETH",
+        "decimals": 18,
+        "symbol": "svETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/svETH.svg"
       }
     },
     "56": {
