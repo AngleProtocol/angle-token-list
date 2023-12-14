@@ -821,6 +821,14 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       },
+      "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6": {
+        "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+        "name": "ICHI",
+        "decimals": 18,
+        "symbol": "ICHI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ichi.png"
+      },
       "0x60D55F02A771d515e077c9C2403a1ef324885CeC": {
         "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
         "name": "Aave Matic Market USDT (amUSDT)",
