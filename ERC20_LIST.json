@@ -453,6 +453,14 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SD.svg"
       },
+      "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6": {
+        "address": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
+        "name": "ICHI",
+        "decimals": 18,
+        "symbol": "ICHI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ichi.png"
+      },
       "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4": {
         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
         "name": "Ankr Network",
