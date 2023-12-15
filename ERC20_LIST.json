@@ -1132,14 +1132,23 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
       },
-      "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b": {
-        "address": "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b",
-        "name": "Camelot escrowed token",
-        "decimals": 18,
-        "symbol": "xGRAIL",
+      "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65": {
+        "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+        "name": "USD+",
+        "decimals": 6,
+        "symbol": "USD+",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAIL.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USD+.svg"
+      },
+      "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396": {
+        "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+        "name": "OVN",
+        "decimals": 18,
+        "symbol": "OVN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OVN.svg"
       },
       "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8": {
         "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
