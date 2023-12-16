@@ -486,6 +486,22 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ankrETH.svg"
       },
+      "0xe3b63EDB27981c3D59003b9B21A182c6c80B35b9": {
+        "address": "0xe3b63EDB27981c3D59003b9B21A182c6c80B35b9",
+        "name": "xMORI",
+        "decimals": 18,
+        "symbol": "xMORI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MORI.svg"
+      },
+      "0x00c8555542158Fff0FEb892c8e000a8D1831762C": {
+        "address": "0x00c8555542158Fff0FEb892c8e000a8D1831762C",
+        "name": "MORI",
+        "decimals": 18,
+        "symbol": "MORI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MORI.svg"
+      },
       "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2": {
         "address": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
         "name": "StakeWise",
