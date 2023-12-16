@@ -1,4 +1,3 @@
-import { ChainId } from '@angleprotocol/sdk';
 import Joi from 'joi';
 
 export type TokenType = {
@@ -39,24 +38,4 @@ const tokenInfo = Joi.object().keys({
   description: Joi.string(),
 });
 
-// const items: any = {};
-// for (const chain of Object.keys(ChainId)) {
-//   items[chain] = Joi.object().pattern(Joi.string(), tokenInfo);
-// }
-export const joiSchema = Joi.object().keys({
-  [ChainId.MAINNET]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.POLYGON]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.AVALANCHE]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.ARBITRUM]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.BSC]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.OPTIMISM]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.CELO]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.GNOSIS]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.BASE]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.POLYGONZKEVM]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.LINEA]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.MANTLE]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.ZKSYNC]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.CORE]: Joi.object().pattern(/^/, tokenInfo),
-  [ChainId.THUNDERCORE]: Joi.object().pattern(/^/, tokenInfo),
-});
+export const joiSchema = Joi.object().pattern(Joi.number().integer(), Joi.object().pattern(Joi.string(), tokenInfo));
