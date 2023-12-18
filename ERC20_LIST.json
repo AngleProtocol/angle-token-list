@@ -918,6 +918,22 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/euroe.svg"
       },
+      "0x958d208Cdf087843e9AD98d23823d32E17d723A1": {
+        "address": "0x958d208Cdf087843e9AD98d23823d32E17d723A1",
+        "name": "Dragon QUICK",
+        "decimals": 18,
+        "symbol": "dQUICK",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
+      },
+      "0xB5C064F955D8e7F38fE0460C556a72987494eE17": {
+        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+        "name": "QuickSwap",
+        "decimals": 18,
+        "symbol": "QUICK",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
+      },
       "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a": {
         "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
         "decimals": 18,
