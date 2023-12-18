@@ -1092,6 +1092,14 @@
         "symbol": "SUSHI",
         "useInSwap": true
       },
+      "0x41A65AAE5d1C8437288d5a29B4D049897572758E": {
+        "address": "0x41A65AAE5d1C8437288d5a29B4D049897572758E",
+        "name": "Angle Merkl",
+        "decimals": 18,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
       "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9": {
         "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
         "decimals": 18,
