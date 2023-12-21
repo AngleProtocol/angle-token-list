@@ -94,6 +94,16 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_wETH.svg"
       },
+      "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4": {
+        "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+        "description": "<p class=\"text-sm\">Neptune Mutual follows a parametric insurance model, meaning it provides payout on the basis of parameters instead of individual claim assessments. Upon the resolution of an incident, all the policyholders of the affected protocol will receive the payouts. Neptune Mutual eliminates individual claim assessments which makes policy easy to claim, faster, and much more reliable.</p>",
+        "name": "Neptune Mutual",
+        "decimals": 18,
+        "symbol": "NPM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NPM.svg"
+      },
       "0x1f4c763BdE1D4832B3EA0640e66Da00B98831355": {
         "address": "0x1f4c763BdE1D4832B3EA0640e66Da00B98831355",
         "name": "Sushiswap agEUR/ANGLE LP",
@@ -768,6 +778,16 @@
         "symbol": "MATIC",
         "useInSwap": false
       },
+      "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4": {
+        "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+        "description": "<p class=\"text-sm\">Neptune Mutual follows a parametric insurance model, meaning it provides payout on the basis of parameters instead of individual claim assessments. Upon the resolution of an incident, all the policyholders of the affected protocol will receive the payouts. Neptune Mutual eliminates individual claim assessments which makes policy easy to claim, faster, and much more reliable.</p>",
+        "name": "Neptune Mutual",
+        "decimals": 18,
+        "symbol": "NPM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NPM.svg"
+      },
       "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6": {
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "decimals": 8,
@@ -1162,6 +1182,16 @@
         "hasPermit": true,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-arbitrum.svg"
+      },
+      "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4": {
+        "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+        "description": "<p class=\"text-sm\">Neptune Mutual follows a parametric insurance model, meaning it provides payout on the basis of parameters instead of individual claim assessments. Upon the resolution of an incident, all the policyholders of the affected protocol will receive the payouts. Neptune Mutual eliminates individual claim assessments which makes policy easy to claim, faster, and much more reliable.</p>",
+        "name": "Neptune Mutual",
+        "decimals": 18,
+        "symbol": "NPM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NPM.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -1567,6 +1597,16 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": true
+      },
+      "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4": {
+        "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
+        "description": "<p class=\"text-sm\">Neptune Mutual follows a parametric insurance model, meaning it provides payout on the basis of parameters instead of individual claim assessments. Upon the resolution of an incident, all the policyholders of the affected protocol will receive the payouts. Neptune Mutual eliminates individual claim assessments which makes policy easy to claim, faster, and much more reliable.</p>",
+        "name": "Neptune Mutual",
+        "decimals": 18,
+        "symbol": "NPM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NPM.svg"
       },
       "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": {
         "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
