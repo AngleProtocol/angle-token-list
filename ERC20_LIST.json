@@ -76,6 +76,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
       },
+      "0x5E8422345238F34275888049021821E8E08CAa1f": {
+        "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+        "name": "Frax Ether",
+        "decimals": 18,
+        "symbol": "frxETH",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
+      },
       "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add": {
         "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
         "name": "Gelato Uniswap agEUR/USDC LP",
@@ -1532,6 +1541,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/svETH.svg"
+      },
+      "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F": {
+        "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "name": "FRAX",
+        "decimals": 18,
+        "symbol": "FRAX",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
+      },
+      "0x178412e79c25968a32e89b11f63B33F733770c2A": {
+        "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+        "name": "Frax Ether",
+        "decimals": 18,
+        "symbol": "frxETH",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
       }
     },
     "56": {
