@@ -1559,6 +1559,24 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
+      },
+      "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b": {
+        "address": "0x3CAaE25Ee616f2C8E13C74dA0813402eae3F496b",
+        "name": "Camelot escrowed token",
+        "decimals": 18,
+        "symbol": "xGRAIL",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAIL.svg"
+      },
+      "0x6A646d831c34F787089f19D0c714AA023B98C557": {
+        "address": "0x6A646d831c34F787089f19D0c714AA023B98C557",
+        "name": "oHoriza",
+        "decimals": 18,
+        "symbol": "oHRA",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Horiza.svg"
       }
     },
     "56": {
