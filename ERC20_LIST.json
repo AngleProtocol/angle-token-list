@@ -1690,6 +1690,15 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": false
+      },
+      "0x65A1DfB54CDec9011688b1818A27A8C687e6B1ed": {
+        "address": "0x65A1DfB54CDec9011688b1818A27A8C687e6B1ed",
+        "name": "Angle Merkl",
+        "decimals": 8,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       }
     },
     "43114": {
