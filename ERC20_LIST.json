@@ -198,6 +198,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       },
+      "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8": {
+        "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+        "name": "USDV",
+        "decimals": 6,
+        "symbol": "USDV",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDV.svg"
+      },
       "0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5": {
         "address": "0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5",
         "name": "voting-escrowed Angle",
