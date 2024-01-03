@@ -329,6 +329,15 @@
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
+      "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
+      "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+      "name": "NFTEarthOFT",
+      "decimals": 18,
+      "symbol": "NFTE",
+      "hasPermit": false,
+      "useInSwap": false,
+      "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
+      },
       "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
         "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
         "name": "Binance USD",
