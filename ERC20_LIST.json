@@ -1905,6 +1905,15 @@
         "useInSwap": true,
         "hasPermit": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xc9daabC677F3d1301006e723bD21C60be57a5915": {
+        "address": "0xc9daabC677F3d1301006e723bD21C60be57a5915",
+        "name": "Angle Merkl",
+        "decimals": 18,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       }
     },
     "8453": {
