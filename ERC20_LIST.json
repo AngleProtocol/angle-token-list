@@ -1595,6 +1595,24 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Horiza.svg"
+      },
+      "0x18c11FD286C5EC11c3b683Caa813B77f5163A122": {
+        "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+        "name": "Gains Network",
+        "decimals": 18,
+        "symbol": "GNS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GNS.svg"
+      },
+      "0xd85E038593d7A098614721EaE955EC2022B9B91B": {
+        "address": "0xd85E038593d7A098614721EaE955EC2022B9B91B",
+        "name": "Gains Network DAI",
+        "decimals": 18,
+        "symbol": "gDAI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/gDAI.png"
       }
     },
     "56": {
