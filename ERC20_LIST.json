@@ -1085,6 +1085,15 @@
         "hasPermit": false,
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/perleco.svg"
+      },
+      "0x7A7B94F18EF6AD056CDa648588181CDA84800f94": {
+        "address": "0x7A7B94F18EF6AD056CDa648588181CDA84800f94",
+        "name": "StaFi",
+        "decimals": 18,
+        "symbol": "FIS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FIS.svg"
       }
     },
     "10": {
