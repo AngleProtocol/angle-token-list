@@ -339,13 +339,13 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
       "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
-      "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
-      "name": "NFTEarthOFT",
-      "decimals": 18,
-      "symbol": "NFTE",
-      "hasPermit": false,
-      "useInSwap": false,
-      "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
+        "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "symbol": "NFTE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
       },
       "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
         "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
@@ -980,6 +980,30 @@
         "symbol": "QUICK",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
+      },
+      "0xfFA188493C15DfAf2C206c97D8633377847b6a52": {
+        "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+        "name": "WeFi",
+        "decimals": 18,
+        "symbol": "WEFI",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wefi.svg"
+      },
+      "0x1d734A02eF1e1f5886e66b0673b71Af5B53ffA94": {
+        "address": "0x1d734A02eF1e1f5886e66b0673b71Af5B53ffA94",
+        "name": "Stader (POS)",
+        "decimals": 18,
+        "symbol": "SD",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SD.svg"
+      },
+      "0xD125443F38A69d776177c2B9c041f462936F8218": {
+        "address": "0xD125443F38A69d776177c2B9c041f462936F8218",
+        "name": "FireBotToken",
+        "decimals": 18,
+        "symbol": "FBX",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/fbx.svg"
       },
       "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a": {
         "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
