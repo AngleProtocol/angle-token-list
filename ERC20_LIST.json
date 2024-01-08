@@ -338,15 +338,6 @@
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
-      "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
-        "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
-        "name": "NFTEarthOFT",
-        "decimals": 18,
-        "symbol": "NFTE",
-        "hasPermit": false,
-        "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
-      },
       "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
         "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
         "name": "Binance USD",
@@ -740,7 +731,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b": {
         "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
@@ -750,6 +741,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETHx.svg"
+      },
+      "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0": {
+        "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+        "name": "Frax Share",
+        "decimals": 18,
+        "symbol": "FXS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
       }
     },
     "137": {
@@ -1039,7 +1039,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24": {
         "address": "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24",
@@ -1103,6 +1103,42 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LCD.svg"
+      },
+      "0x1a3acf6D19267E2d3e7f898f42803e90C9219062": {
+        "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
+        "name": "Frax Share",
+        "decimals": 18,
+        "symbol": "FXS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
+      "0x6b021b3f68491974bE6D4009fEe61a4e3C708fD6": {
+        "address": "0x6b021b3f68491974bE6D4009fEe61a4e3C708fD6",
+        "name": "Fuse Token",
+        "decimals": 18,
+        "symbol": "FUSE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FUSE.svg"
+      },
+      "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c": {
+        "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+        "name": "BitCone",
+        "decimals": 18,
+        "symbol": "CONE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CONE.svg"
+      },
+      "0xfc9Fa9771145fbB98D15C8c2cc94B837a56D554C": {
+        "address": "0xfc9Fa9771145fbB98D15C8c2cc94B837a56D554C",
+        "name": "Slingshot",
+        "decimals": 18,
+        "symbol": "SLING",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SLING.svg"
       }
     },
     "10": {
@@ -1230,7 +1266,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb": {
         "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
@@ -1240,6 +1276,15 @@
         "name": "Wrapped liquid staked Ether 2.0",
         "symbol": "wstETH",
         "useInSwap": true
+      },
+      "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be": {
+        "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+        "name": "Frax Share",
+        "decimals": 18,
+        "symbol": "FXS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
       }
     },
     "42161": {
@@ -1483,7 +1528,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -1655,6 +1700,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/gDAI.png"
+      },
+      "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7": {
+        "address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+        "name": "Frax Share",
+        "decimals": 18,
+        "symbol": "FXS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
       }
     },
     "56": {
@@ -1777,6 +1831,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": {
+        "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+        "name": "Wrapped XDAI",
+        "decimals": 18,
+        "symbol": "WXDAI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WXDAI.svg"
       }
     },
     "43114": {
@@ -2030,6 +2093,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
+        "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "symbol": "NFTE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
       }
     },
     "59144": {
