@@ -1094,6 +1094,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FIS.svg"
+      },
+      "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a": {
+        "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+        "name": "Lucidao",
+        "decimals": 18,
+        "symbol": "LCD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LCD.svg"
       }
     },
     "10": {
