@@ -338,15 +338,6 @@
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
-      "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
-        "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
-        "name": "NFTEarthOFT",
-        "decimals": 18,
-        "symbol": "NFTE",
-        "hasPermit": false,
-        "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
-      },
       "0x4Fabb145d64652a948d72533023f6E7A623C7C53": {
         "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
         "name": "Binance USD",
@@ -740,7 +731,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b": {
         "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
@@ -1039,7 +1030,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24": {
         "address": "0x26AA9B3D8A49A2ed849Ac66EA9AA37Ee36Bc6b24",
@@ -1230,7 +1221,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb": {
         "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
@@ -1483,7 +1474,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NFTE.svg",
         "name": "NFTEarthOFT",
         "symbol": "NFTE",
-        "useInSwap": true
+        "useInSwap": false
       },
       "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -2030,6 +2021,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
+        "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+        "name": "NFTEarthOFT",
+        "decimals": 18,
+        "symbol": "NFTE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
       }
     },
     "59144": {
