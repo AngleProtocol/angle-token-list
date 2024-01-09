@@ -1139,6 +1139,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SLING.svg"
+      },
+      "0xE238Ecb42C424E877652AD82d8A939183A04C35f": {
+        "address": "0xE238Ecb42C424E877652AD82d8A939183A04C35f",
+        "name": "WiFi Map",
+        "decimals": 18,
+        "symbol": "WIFI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WIFI.svg"
       }
     },
     "10": {
@@ -1718,6 +1727,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SENECA.svg"
+      },
+      "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861": {
+        "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+        "name": "ANKR",
+        "decimals": 18,
+        "symbol": "ANKR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-26ff8857f3d58b3f254b1ebe95b1b1ef.svg"
       }
     },
     "56": {
