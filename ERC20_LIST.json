@@ -1729,7 +1729,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SENECA.svg"
       },
       "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861": {
-        "address": "0x154388a4650D63acC823e06Ef9e47C1eDdD3cBb2",
+        "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
         "name": "ANKR",
         "decimals": 18,
         "symbol": "ANKR",
