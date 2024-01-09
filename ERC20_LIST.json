@@ -1709,6 +1709,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
+      "0x154388a4650D63acC823e06Ef9e47C1eDdD3cBb2": {
+        "address": "0x154388a4650D63acC823e06Ef9e47C1eDdD3cBb2",
+        "name": "Seneca",
+        "decimals": 18,
+        "symbol": "SEN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SENECA.svg"
       }
     },
     "56": {
