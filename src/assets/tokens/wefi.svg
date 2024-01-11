@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="297mm" height="210mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 297 210"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="42.3332mm" height="42.3332mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 42.3332 42.3332"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -11,11 +11,11 @@ viewBox="0 0 297 210"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_252009936">
-   <rect id="_252010104" class="fil0" x="131.331" y="87.831" width="34.338" height="34.338" rx="17.169" ry="17.169"/>
+  <g id="_478990952">
+   <rect id="_478991048" class="fil0" x="1.16662e-005" y="1.16662e-005" width="42.3332" height="42.3332" rx="21.1666" ry="21.1666"/>
    <g>
-    <path id="_252009576" class="fil1" d="M143.707 101.388c0,0.9213 -0.7468,1.6682 -1.6681,1.6682 -0.9213,-0.0001 -1.6682,-0.7468 -1.6682,-1.6682 0,-0.9214 0.7469,-1.6682 1.6682,-1.6682 0.9214,0 1.6681,0.7468 1.6681,1.6682z"/>
-    <path id="_252009528" class="fil1" d="M144.668 110.561l-2.0899 0 -1.581 -6.7155c0.3203,0.136 0.6725,0.2113 1.0424,0.2113 0.7258,0 1.3841,-0.2898 1.8653,-0.76l0.4989 2.4116 3.4352 -6.2698 1.9938 0 1.1051 6.1017 3.4111 -6.1017 3.339 0 -6.3898 11.1224 -2.162 0 -1.2011 -5.8374 -3.267 5.8374z"/>
+    <path id="_478990568" class="fil1" d="M15.2579 16.7134c0,1.1358 -0.9207,2.0565 -2.0565,2.0565 -1.1358,0 -2.0567,-0.9207 -2.0567,-2.0565 0,-1.136 0.9209,-2.0567 2.0567,-2.0567 1.1359,0 2.0565,0.9207 2.0565,2.0567z"/>
+    <path id="_478990832" class="fil1" d="M16.4419 28.0227l-2.5766 0 -1.949 -8.2791c0.3948,0.1675 0.829,0.2604 1.2851,0.2604 0.8948,0 1.7063,-0.3572 2.2996,-0.9369l0.6151 2.9731 4.2349 -7.7296 2.4581 0 1.3624 7.5223 4.2054 -7.5223 4.1164 0 -7.8775 13.7121 -2.6655 0 -1.4808 -7.1966 -4.0276 7.1966z"/>
    </g>
   </g>
  </g>
