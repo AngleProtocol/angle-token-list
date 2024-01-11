@@ -26,7 +26,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
@@ -796,7 +796,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -1212,7 +1212,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -1376,7 +1376,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -1836,7 +1836,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -1938,7 +1938,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -1996,6 +1996,24 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+      },
+      "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
+        "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+        "name": "Angle USD",
+        "decimals": 18,
+        "symbol": "agUSD",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+      },
+      "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
+        "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+        "name": "Staked agUSD",
+        "decimals": 18,
+        "symbol": "stUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217": {
         "address": "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217",
@@ -2087,7 +2105,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -2134,7 +2152,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -2236,7 +2254,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
@@ -2319,7 +2337,7 @@
         "decimals": 18,
         "symbol": "agUSD",
         "hasPermit": true,
-        "useInSwap": true,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
