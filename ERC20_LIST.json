@@ -1358,6 +1358,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
+      "0x323665443CEf804A3b5206103304BD4872EA4253": {
+        "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+        "name": "USDV",
+        "decimals": 6,
+        "symbol": "USDV",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDV.svg"
       }
     },
     "42161": {
@@ -1826,6 +1835,15 @@
         "symbol": "ankrETH",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ankrETH.svg"
+      },
+      "0x323665443CEf804A3b5206103304BD4872EA4253": {
+        "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+        "name": "USDV",
+        "decimals": 6,
+        "symbol": "USDV",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDV.svg"
       }
     },
     "56": {
