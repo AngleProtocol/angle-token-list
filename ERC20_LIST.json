@@ -2038,6 +2038,16 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WXDAI.svg"
+      },
+
+      "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b": {
+        "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
+        "name": "Swapr on xDai",
+        "decimals": 18,
+        "symbol": "SWPR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWPR.svg"
       }
     },
     "43114": {
