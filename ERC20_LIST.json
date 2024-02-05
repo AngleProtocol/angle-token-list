@@ -2400,6 +2400,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/NFTEarth/angle-token-list/main/src/assets/tokens/NFTE.svg"
+      },
+      "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452": {
+        "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "useInSwap": false
       }
     },
     "59144": {
