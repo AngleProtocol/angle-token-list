@@ -778,6 +778,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
+      "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3": {
+        "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+        "name": "Ondo",
+        "decimals": 18,
+        "symbol": "ONDO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ONDO.svg"
       }
     },
     "137": {
