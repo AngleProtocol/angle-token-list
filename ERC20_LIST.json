@@ -1688,6 +1688,15 @@
         "useInSwap": false,
         "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
       },
+      "0x2dADe5b7df9DA3a7e1c9748d169Cd6dFf77e3d01": {
+        "address": "0x2dADe5b7df9DA3a7e1c9748d169Cd6dFf77e3d01",
+        "name": "Radiant interest bearing ARB",
+        "decimals": 18,
+        "symbol": "rARB",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rARB.svg"
+      },
       "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a": {
         "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
         "name": "GMX",
