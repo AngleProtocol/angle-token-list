@@ -1398,6 +1398,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDV.svg"
+      },
+      "0xE974B9b31dBFf4369b94a1bAB5e228f35ed44125": {
+        "address": "0xE974B9b31dBFf4369b94a1bAB5e228f35ed44125",
+        "name": "Alchemix",
+        "decimals": 18,
+        "symbol": "ALCX",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ALCX.svg"
       }
     },
     "42161": {
