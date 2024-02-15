@@ -1911,6 +1911,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LODE.svg"
+      },
+      "0xD69b772bfFe78165c152Fd2e370b6CaE239E3BDb": {
+        "address": "0xD69b772bfFe78165c152Fd2e370b6CaE239E3BDb",
+        "name": "Radiant variable debt bearing USDCn",
+        "decimals": 6,
+        "symbol": "variableDebtUSDCn",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x3a2d44e354f2d88EF6DA7A5A4646fd70182A7F55": {
+        "address": "0x3a2d44e354f2d88EF6DA7A5A4646fd70182A7F55",
+        "name": "Radiant interest bearing USDCn",
+        "decimals": 6,
+        "symbol": "rUSDCn",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "56": {
