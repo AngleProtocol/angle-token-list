@@ -2115,6 +2115,16 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWPR.svg"
+      },
+      "0xa709aaD0691Fc67279577566640ae1D6515c1b81": {
+        "address": "0xa709aaD0691Fc67279577566640ae1D6515c1b81",
+        "name": "BlackrockTradingCurrency",
+        "decimals": 18,
+        "symbol": "aBTC",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/aBTC/aBTC.svg"
       }
     },
     "43114": {
