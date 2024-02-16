@@ -2124,7 +2124,7 @@
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/aBTC/aBTC.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
       }
     },
     "43114": {
