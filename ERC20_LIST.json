@@ -800,6 +800,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://retro.finance/images/tokens/bveBLUE.png"
+      },
+      "0xb60acd2057067dc9ed8c083f5aa227a244044fd6": {
+        "address": "0xb60acd2057067dc9ed8c083f5aa227a244044fd6",
+        "name": "Tensorplex Staked TAO",
+        "decimals": 9,
+        "symbol": "stTAO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stTAO.svg"
       }
     },
     "137": {
