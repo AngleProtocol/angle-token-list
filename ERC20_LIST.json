@@ -792,14 +792,23 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ONDO.svg"
       },
-      "0x4C05C9Cebbb7673D0edE6556f26D8205c8042285": {
-        "address": "0x4C05C9Cebbb7673D0edE6556f26D8205c8042285",
+      "0xEdb73D4ED90bE7A49D06d0D940055e6d181d22fa": {
+        "address": "0xEdb73D4ED90bE7A49D06d0D940055e6d181d22fa",
         "name": "bveBLUE",
         "decimals": 18,
         "symbol": "bveBLUE",
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://retro.finance/images/tokens/bveBLUE.png"
+      },
+      "0x4C05C9Cebbb7673D0edE6556f26D8205c8042285": {
+        "address": "0x4C05C9Cebbb7673D0edE6556f26D8205c8042285",
+        "name": "oBLUE",
+        "decimals": 18,
+        "symbol": "oBLUE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://retro.finance/images/tokens/oBLUE.png"
       }
     },
     "137": {
