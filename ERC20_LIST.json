@@ -1260,11 +1260,8 @@
         "symbol": "SWAVE",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWAVE.svg",
-        "tags": ["DeFi", "Index Token"],
-        "description": "SWAVE is a strategy backed token following allocations of shüts Crypto strategy. The objective of this strategy is to deliver long-term capital growth while being 100% invested in the cryptocurrency asset class."
-      }
-      
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWAVE.svg"        
+      }      
     },
     "10": {
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
