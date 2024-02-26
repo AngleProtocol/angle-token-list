@@ -818,6 +818,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://retro.finance/images/tokens/oBLUE.png"
+      },
+      "0x96F6eF951840721AdBF46Ac996b59E0235CB985C": {
+        "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+        "name": "Ondo U.S. Dollar Yield",
+        "decimals": 18,
+        "symbol": "USDY",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDY.svg"
+      },
+      "0x465a5a630482f3abD6d3b84B39B29b07214d19e5": {
+        "address": "0x465a5a630482f3abD6d3b84B39B29b07214d19e5",
+        "name": "Flux USDC",
+        "decimals": 8,
+        "symbol": "fUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/fUSDC.svg"
       }
     },
     "137": {
