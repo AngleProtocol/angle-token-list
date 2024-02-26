@@ -1252,7 +1252,16 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/A3A.svg"
-      }
+      },
+      "0xD14D1e501b2b52D6134dB1aD0857Aa91f9BFe2dd": {
+        "address": "0xD14D1e501b2b52D6134dB1aD0857Aa91f9BFe2dd",
+        "name": "Shuts Wave",
+        "decimals": 18,
+        "symbol": "SWAVE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWAVE.svg"        
+      }      
     },
     "10": {
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
