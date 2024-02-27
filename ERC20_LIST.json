@@ -818,6 +818,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://retro.finance/images/tokens/oBLUE.png"
+      },
+      "0x96F6eF951840721AdBF46Ac996b59E0235CB985C": {
+        "address": "0x96F6eF951840721AdBF46Ac996b59E0235CB985C",
+        "name": "Ondo U.S. Dollar Yield",
+        "decimals": 18,
+        "symbol": "USDY",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDY.svg"
+      },
+      "0x465a5a630482f3abD6d3b84B39B29b07214d19e5": {
+        "address": "0x465a5a630482f3abD6d3b84B39B29b07214d19e5",
+        "name": "Flux USDC",
+        "decimals": 8,
+        "symbol": "fUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/fUSDC.svg"
       }
     },
     "137": {
@@ -1260,8 +1278,8 @@
         "symbol": "SWAVE",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWAVE.svg"        
-      }      
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWAVE.svg"
+      }
     },
     "10": {
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
@@ -2597,7 +2615,28 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
       }
     },
-  "0x382586651f043cBdEc7bb586e367D77B26D7d149": {
+    "534352": {
+      "0xA7c167f58833c5e25848837f45A1372491A535eD": {
+        "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      }
+    },
+    "169": {
+      "0xA7c167f58833c5e25848837f45A1372491A535eD": {
+        "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      }
+    "0x382586651f043cBdEc7bb586e367D77B26D7d149": {
       "address": "0x382586651f043cBdEc7bb586e367D77B26D7d149",
       "name": "Wild Goat Coin",
       "decimals": 6,
