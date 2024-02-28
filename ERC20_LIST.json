@@ -126,8 +126,8 @@
         "symbol": "LUSD",
         "useInSwap": true
       },
-      "0x18084fba666a33d37592fa2633fd49a74dd93a88": {
-        "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+      "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+        "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
         "name": "Threshold Bitcoin",
         "decimals": 18,
         "symbol": "tBTC",
