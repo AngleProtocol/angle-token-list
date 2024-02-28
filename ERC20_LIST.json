@@ -126,6 +126,15 @@
         "symbol": "LUSD",
         "useInSwap": true
       },
+      "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+        "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+        "name": "Threshold Bitcoin",
+        "decimals": 18,
+        "symbol": "tBTC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
       "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f": {
         "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
         "name": "Gho Token",
@@ -1279,6 +1288,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWAVE.svg"
+      },
+      "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+        "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+        "name": "Threshold Bitcoin",
+        "decimals": 18,
+        "symbol": "tBTC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
       }
     },
     "10": {
@@ -1461,6 +1479,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ALCX.svg"
+      },
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+        "name": "Threshold Bitcoin",
+        "decimals": 18,
+        "symbol": "tBTC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
       }
     },
     "42161": {
@@ -1983,6 +2010,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+        "name": "Threshold Bitcoin",
+        "decimals": 18,
+        "symbol": "tBTC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
       }
     },
     "56": {
@@ -2513,6 +2549,15 @@
         "name": "Wrapped liquid staked Ether 2.0",
         "symbol": "wstETH",
         "useInSwap": false
+      },
+      "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+        "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+        "name": "Threshold Bitcoin",
+        "decimals": 18,
+        "symbol": "tBTC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
       }
     },
     "59144": {
