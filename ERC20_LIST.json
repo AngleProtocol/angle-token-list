@@ -2011,8 +2011,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
-      "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40": {
-        "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
         "name": "Threshold Bitcoin",
         "decimals": 18,
         "symbol": "tBTC",
@@ -2550,8 +2550,8 @@
         "symbol": "wstETH",
         "useInSwap": false
       },
-      "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b": {
-        "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+      "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+        "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
         "name": "Threshold Bitcoin",
         "decimals": 18,
         "symbol": "tBTC",
