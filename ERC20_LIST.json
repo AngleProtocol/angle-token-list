@@ -1,6 +1,16 @@
 [
   {
     "1": {
+      "0x4104b135dbc9609fc1a9490e61369036497660c8": {
+        "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+        "name": "Spectra",
+        "decimals": 18,
+        "symbol": "APW",
+        "useInSwap": false,
+        "hasPermit": false,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/APW/APW.svg"
+      },
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
         "name": "Angle Euro",
