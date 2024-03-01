@@ -1297,6 +1297,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
+      "0x382586651f043cBdEc7bb586e367D77B26D7d149": {
+        "address": "0x382586651f043cBdEc7bb586e367D77B26D7d149",
+        "name": "Wild Goat Coin",
+        "decimals": 6,
+        "symbol": "WGC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WGC.svg"
       }
     },
     "10": {
