@@ -1315,6 +1315,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WGC.svg"
+      },
+      "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648": {
+        "address": "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648",
+        "name": "Crypto Crew",
+        "decimals": 18,
+        "symbol": "CREW",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CREW.svg"
+      },
+      "0x731C79f054DF3A567584Ee21A95399d343103143": {
+        "address": "0x731C79f054DF3A567584Ee21A95399d343103143",
+        "name": "Corgi Studio",
+        "decimals": 18,
+        "symbol": "CRS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRS.svg"
       }
     },
     "10": {
