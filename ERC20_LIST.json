@@ -962,6 +962,15 @@
         ],
         "useInSwap": false
       },
+      "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc": {
+        "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+        "name": "Verse",
+        "decimals": 18,
+        "symbol": "VERSE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Verse.svg"
+      },
       "0x27F8D03b3a2196956ED754baDc28D73be8830A6e": {
         "address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
         "name": "Aave Matic Market DAI (amDAI)",
