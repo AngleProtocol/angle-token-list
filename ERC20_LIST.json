@@ -9,7 +9,7 @@
         "useInSwap": false,
         "hasPermit": false,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/APW/APW.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/APW.svg"
       },
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
