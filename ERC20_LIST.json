@@ -972,6 +972,15 @@
         ],
         "useInSwap": false
       },
+      "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc": {
+        "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+        "name": "Verse",
+        "decimals": 18,
+        "symbol": "VERSE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Verse.svg"
+      },
       "0x27F8D03b3a2196956ED754baDc28D73be8830A6e": {
         "address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
         "name": "Aave Matic Market DAI (amDAI)",
@@ -1307,6 +1316,33 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
+      "0x382586651f043cBdEc7bb586e367D77B26D7d149": {
+        "address": "0x382586651f043cBdEc7bb586e367D77B26D7d149",
+        "name": "Wild Goat Coin",
+        "decimals": 6,
+        "symbol": "WGC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WGC.svg"
+      },
+      "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648": {
+        "address": "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648",
+        "name": "Crypto Crew",
+        "decimals": 18,
+        "symbol": "CREW",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CREW.svg"
+      },
+      "0x731C79f054DF3A567584Ee21A95399d343103143": {
+        "address": "0x731C79f054DF3A567584Ee21A95399d343103143",
+        "name": "Corgi Studio",
+        "decimals": 18,
+        "symbol": "CRS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRS.svg"
       }
     },
     "10": {
@@ -2467,6 +2503,14 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0x68286607A1d43602d880D349187c3c48c0fD05E6": {
+        "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+        "name": "QuickSwap",
+        "decimals": 18,
+        "symbol": "QUICK",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
       }
     },
     "8453": {
