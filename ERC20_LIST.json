@@ -2212,15 +2212,6 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
-      },
-      "0x2598c30330D5771AE9F983979209486aE26dE875": {
-        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
-        "name": "Any Inu",
-        "decimals": 18,
-        "symbol": "AI",
-        "hasPermit": false,
-        "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "100": {
