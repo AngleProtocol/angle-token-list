@@ -1343,6 +1343,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRS.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "10": {
@@ -1534,6 +1543,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "42161": {
@@ -2074,6 +2092,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "56": {
@@ -2176,6 +2203,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "100": {
@@ -2363,6 +2408,15 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": false
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "42220": {
@@ -2410,6 +2464,15 @@
         "name": "Sushi Token",
         "symbol": "SUSHI",
         "useInSwap": true
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "1101": {
@@ -2621,6 +2684,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "59144": {
@@ -2659,6 +2731,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "5000": {
@@ -2697,6 +2778,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "1116": {
@@ -2741,6 +2831,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0x2598c30330D5771AE9F983979209486aE26dE875": {
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "name": "Any Inu",
+        "decimals": 18,
+        "symbol": "AI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
     },
     "169": {
