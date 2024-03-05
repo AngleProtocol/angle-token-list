@@ -2682,7 +2682,7 @@
       "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57": {
         "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
         "name": "aglaMerkl",
-        "decimals": 6,
+        "decimals": 18,
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
@@ -2715,7 +2715,7 @@
       "0xA7c167f58833c5e25848837f45A1372491A535eD": {
         "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
         "name": "aglaMerkl",
-        "decimals": 6,
+        "decimals": 18,
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
