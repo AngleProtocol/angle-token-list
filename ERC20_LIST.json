@@ -2811,6 +2811,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D": {
+        "address": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
+        "name": "Wrapped IMX",
+        "decimals": 18,
+        "symbol": "WIMX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WIMX.svg"
       }
     },
     "534352": {
