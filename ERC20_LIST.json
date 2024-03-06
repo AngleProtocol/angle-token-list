@@ -867,6 +867,15 @@
       }
     },
     "137": {
+      "0x162539172b53E9a93b7d98Fb6c41682De558a320": {
+        "address": "0x162539172b53E9a93b7d98Fb6c41682De558a320",
+        "name": "GONE",
+        "decimals": 18,
+        "symbol": "GONE",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GONE.svg"
+      },
       "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e": {
         "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
         "name": "Arianee",
