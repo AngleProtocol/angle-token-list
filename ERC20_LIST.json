@@ -1660,7 +1660,7 @@
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "name": "Bridged USDC",
         "decimals": 6,
-        "symbol": "USDC",
+        "symbol": "USDC.e",
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
