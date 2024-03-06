@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9": {
+        "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+        "name": "Arianee",
+        "decimals": 18,
+        "symbol": "ARIA20",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
+      },
       "0x4104b135DBC9609Fc1A9490E61369036497660c8": {
         "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
         "name": "Spectra",
@@ -858,6 +867,15 @@
       }
     },
     "137": {
+      "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e": {
+        "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+        "name": "Arianee",
+        "decimals": 18,
+        "symbol": "ARIA20",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
+      },
       "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4": {
         "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
         "decimals": 18,
