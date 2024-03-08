@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0x8881562783028F5c1BCB985d2283D5E170D88888": {
+        "address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
+        "name": "Shuffle",
+        "decimals": 18,
+        "symbol": "SHFL",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SHFL.svg"
+      },
       "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9": {
         "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
         "name": "Arianee",
