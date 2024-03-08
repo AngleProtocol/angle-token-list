@@ -876,6 +876,33 @@
       }
     },
     "137": {
+      "0xdBb5Da27FFcFeBea8799a5832D4607714fc6aBa8": {
+        "address": "0xdBb5Da27FFcFeBea8799a5832D4607714fc6aBa8",
+        "name": "DGEN",
+        "decimals": 18,
+        "symbol": "DGEN",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DGEN.svg"
+      },
+      "0x47dae46d31f31f84336Ac120b15eFdA261D484FB": {
+        "address": "0x47dae46d31f31f84336Ac120b15eFdA261D484FB",
+        "name": "BUND",
+        "decimals": 18,
+        "symbol": "BUND",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BUND.svg"
+      },
+      "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba": {
+        "address": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+        "name": "ECLD",
+        "decimals": 18,
+        "symbol": "ECLD",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ECLD.svg"
+      },
       "0x162539172b53E9a93b7d98Fb6c41682De558a320": {
         "address": "0x162539172b53E9a93b7d98Fb6c41682De558a320",
         "name": "GONE",
