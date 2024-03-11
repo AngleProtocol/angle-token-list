@@ -46,7 +46,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -56,7 +56,7 @@
         "hasPermit": true,
         "useInSwap": false,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -65,7 +65,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x5F27184fA83fE0E5aEf2344B6D9eB3Bd2118A290": {
         "address": "0x5F27184fA83fE0E5aEf2344B6D9eB3Bd2118A290",
@@ -73,7 +73,7 @@
         "hasPermit": true,
         "useInSwap": false,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agGOLD/agGOLD.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agGOLD.svg",
         "name": "Angle Gold",
         "symbol": "agGOLD"
       },
@@ -937,7 +937,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -946,7 +946,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -955,7 +955,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1": {
         "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
@@ -1434,7 +1434,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -1443,7 +1443,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -1452,7 +1452,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x58441E37255b09F9f545e9Dc957F1C41658ff665": {
         "address": "0x58441E37255b09F9f545e9Dc957F1C41658ff665",
@@ -1533,7 +1533,7 @@
         "decimals": 18,
         "symbol": "aglaMerkl",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9": {
         "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
@@ -1634,7 +1634,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -1643,7 +1643,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -1652,7 +1652,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65": {
         "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
@@ -2183,7 +2183,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2192,7 +2192,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2201,7 +2201,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x97B6897AAd7aBa3861c04C0e6388Fc02AF1F227f": {
         "address": "0x97B6897AAd7aBa3861c04C0e6388Fc02AF1F227f",
@@ -2294,7 +2294,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2303,7 +2303,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2312,7 +2312,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE": {
         "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
@@ -2330,7 +2330,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d": {
         "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
@@ -2379,7 +2379,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2388,7 +2388,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2397,7 +2397,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217": {
         "address": "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217",
@@ -2490,7 +2490,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2499,7 +2499,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2508,7 +2508,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1": {
         "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
@@ -2546,7 +2546,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2555,7 +2555,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2564,7 +2564,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x0D1E753a25eBda689453309112904807625bEFBe": {
         "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
@@ -2628,7 +2628,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0x68286607A1d43602d880D349187c3c48c0fD05E6": {
         "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
@@ -2647,7 +2647,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2656,7 +2656,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2665,7 +2665,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2674,7 +2674,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA": {
         "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
@@ -2710,7 +2710,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
         "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
@@ -2757,7 +2757,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2766,7 +2766,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
@@ -2775,7 +2775,7 @@
         "symbol": "agUSD",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agUSD/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2784,7 +2784,7 @@
         "symbol": "stUSD",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stUSD/stUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
       },
       "0x2598c30330D5771AE9F983979209486aE26dE875": {
         "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -2804,7 +2804,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2813,7 +2813,7 @@
         "symbol": "stEUR",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/stEUR/stEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
       "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000": {
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
@@ -2831,7 +2831,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0x2598c30330D5771AE9F983979209486aE26dE875": {
         "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -2851,7 +2851,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "108": {
@@ -2862,7 +2862,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "13371": {
@@ -2873,7 +2873,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D": {
         "address": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
@@ -2893,7 +2893,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0x2598c30330D5771AE9F983979209486aE26dE875": {
         "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -2913,7 +2913,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "81457": {
@@ -2924,7 +2924,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     }
   }
