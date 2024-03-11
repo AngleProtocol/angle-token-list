@@ -1,6 +1,16 @@
 [
   {
     "1": {
+      "0xa709aaD0691Fc67279577566640ae1D6515c1b81": {
+        "address": "0xa709aaD0691Fc67279577566640ae1D6515c1b81",
+        "name": "BlackrockTradingCurrency",
+        "decimals": 18,
+        "symbol": "aBTC",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
+      },
       "0x8881562783028F5c1BCB985d2283D5E170D88888": {
         "address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
         "name": "Shuffle",
