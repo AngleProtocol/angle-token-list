@@ -500,7 +500,7 @@
         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.png",
         "name": "Curve DAO Token",
         "symbol": "CRV",
         "useInSwap": false
@@ -637,7 +637,7 @@
         "decimals": 18,
         "hasPermit": false,
         "wrappingMethod": "Curve",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/crvFRAXUSDC.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/crvFRAXUSDC.png",
         "name": "Curve.fi FRAX/USDC",
         "symbol": "crvFRAXUSDC",
         "underlyingTokens": ["0x853d955aCEf822Db058eb8505911ED77F175b99e", "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
@@ -674,7 +674,7 @@
         "decimals": 18,
         "description": "<p class=\"text-sm\">sd-crvFRAXUSDC is the token you get when staking on <a href=\"https://lockers.stakedao.org\" class= \"underlined\">StakeDAO</a> the LP token of the <a href=\"https://curve.fi/#/ethereum/pools/fraxusdc/deposit\" class= \"underlined\">FRAX-USDC (FRAXBP) Curve pool</a>. <br />This token accumulates SDT and CRV rewards on top of transaction fees from the FRAX-USDC Curve pool.</p>",
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-crvFRAXUSDC.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-crvFRAXUSDC.png",
         "name": "Angle Curve.fi FRAX/USDC Stake DAO Staker",
         "symbol": "sd-crvFRAXUSDC",
         "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
@@ -910,7 +910,7 @@
         "symbol": "GONE",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GONE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GONE.png"
       },
       "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e": {
         "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
@@ -1324,7 +1324,7 @@
         "symbol": "CONE",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CONE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CONE.jpg"
       },
       "0xfc9Fa9771145fbB98D15C8c2cc94B837a56D554C": {
         "address": "0xfc9Fa9771145fbB98D15C8c2cc94B837a56D554C",
@@ -1387,7 +1387,7 @@
         "symbol": "WGC",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WGC.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WGC.png"
       },
       "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648": {
         "address": "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648",
@@ -1396,7 +1396,7 @@
         "symbol": "CREW",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CREW.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CREW.jpg"
       },
       "0x731C79f054DF3A567584Ee21A95399d343103143": {
         "address": "0x731C79f054DF3A567584Ee21A95399d343103143",
@@ -1833,7 +1833,7 @@
         "symbol": "CRV",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.png"
       },
       "0xE0688A2FE90d0f93F17f273235031062a210d691": {
         "address": "0xE0688A2FE90d0f93F17f273235031062a210d691",
@@ -2692,7 +2692,7 @@
         "symbol": "BSX",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BSX.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BSX.jpg"
       },
       "0xE4750593d1fC8E74b31549212899A72162f315Fa": {
         "address": "0xE4750593d1fC8E74b31549212899A72162f315Fa",
@@ -2701,7 +2701,7 @@
         "symbol": "xBSX",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xBSX.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xBSX.jpg"
       },
       "0xC011882d0f7672D8942e7fE2248C174eeD640c8f": {
         "address": "0xC011882d0f7672D8942e7fE2248C174eeD640c8f",

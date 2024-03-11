@@ -46,3 +46,9 @@ interface TokenInfo {
   readonly description?: string;
 }
 ```
+
+## Images guidelines
+
+- 400px wide maximum
+- If the file is vectorial, you can use SVG which is the most lightweight format. But sometimes, files are so complex than SVG can be heavier than JPG or PNG (if needs to manage transparency).
+So please take care of having a visual which is no more than 70Ko (which is already a lot).

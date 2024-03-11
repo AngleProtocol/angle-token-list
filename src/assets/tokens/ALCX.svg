@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 320 320" style="enable-background:new 0 0 320 320;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#F5C09A;stroke-width:9.87;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#F5C09A;stroke-width:9.87;stroke-linecap:round;stroke-linejoin:round;}
-</style>
-<circle class="st0" cx="160" cy="160" r="150.5"/>
-<line class="st1" x1="160" y1="203.6" x2="160" y2="310.5"/>
-<line class="st1" x1="160" y1="9.5" x2="160" y2="41.2"/>
-<polyline class="st1" points="160,203.6 57.4,122.4 160,41.2 262.6,122.4 216.8,158.6 "/>
-<polyline class="st1" points="246.8,210.7 262.6,198.2 262.6,122.4 "/>
-<polyline class="st1" points="57.4,122.4 57.4,198.2 160,279.4 206.3,242.8 "/>
-<polyline class="st1" points="75.4,212.4 57.9,242.8 113.7,242.8 "/>
-<polyline class="st1" points="160,242.8 262.1,242.8 160,65.9 106.6,158.4 "/>
-</svg>
+<svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#f5c09a" stroke-width="9.87"><circle cx="160" cy="160" r="150.5" stroke-miterlimit="10"/><g stroke-linecap="round" stroke-linejoin="round"><path d="M160 203.6v106.9m0-301v31.7m0 162.4L57.4 122.4 160 41.2l102.6 81.2-45.8 36.2m30 52.1l15.8-12.5v-75.8m-205.2 0v75.8L160 279.4l46.3-36.6"/><path d="M75.4 212.4l-17.5 30.4h55.8m46.3 0h102.1L160 65.9l-53.4 92.5"/></g></g></svg>
