@@ -1,6 +1,26 @@
 [
   {
     "1": {
+      "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3": {
+        "address": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3",
+        "name": "Pyth Network",
+        "decimals": 6,
+        "symbol": "PYTH",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PYTH.png"
+      },
+      "0xa709aaD0691Fc67279577566640ae1D6515c1b81": {
+        "address": "0xa709aaD0691Fc67279577566640ae1D6515c1b81",
+        "name": "BlackrockTradingCurrency",
+        "decimals": 18,
+        "symbol": "aBTC",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
+      },
       "0x8881562783028F5c1BCB985d2283D5E170D88888": {
         "address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
         "name": "Shuffle",
@@ -50,9 +70,9 @@
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-        "name": "Angle USD",
+        "name": "USDA",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "permitVersion": "1",
@@ -60,7 +80,7 @@
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -943,14 +963,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -1440,14 +1460,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -1640,14 +1660,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2165,6 +2185,16 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       }
+      ,
+      "0x3269a3C00AB86c753856fD135d97b87FACB0d848": {
+        "address": "0x3269a3C00AB86c753856fD135d97b87FACB0d848",
+        "name": "Florence Finance Medici",
+        "decimals": 18,
+        "symbol": "FFM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FFM.svg"
+      }
     },
     "56": {
       "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
@@ -2189,14 +2219,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2300,14 +2330,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2385,14 +2415,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2496,14 +2526,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2552,14 +2582,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2662,14 +2692,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
@@ -2772,14 +2802,14 @@
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "Angle USD",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
