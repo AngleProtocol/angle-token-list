@@ -57,7 +57,7 @@
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -76,7 +76,7 @@
         "hasPermit": true,
         "useInSwap": false,
         "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -945,7 +945,7 @@
         "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg",
         "name": "Angle Euro",
         "symbol": "agEUR",
         "useInSwap": false
@@ -966,7 +966,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -1158,7 +1158,7 @@
         "address": "0x02Cb0586F9252626e992B2C6c1B792d9751f2Ede",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg",
         "name": "MockAngle",
         "symbol": "MockAngle",
         "useInSwap": false
@@ -1445,7 +1445,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -1463,7 +1463,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -1645,7 +1645,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -1663,7 +1663,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2204,7 +2204,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2222,7 +2222,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2315,7 +2315,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2333,7 +2333,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2400,7 +2400,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2418,7 +2418,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2511,7 +2511,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2529,7 +2529,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2567,7 +2567,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2585,7 +2585,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2677,7 +2677,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2695,7 +2695,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2787,7 +2787,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -2805,7 +2805,7 @@
         "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agUSD.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
@@ -2834,7 +2834,7 @@
         "symbol": "agEUR",
         "hasPermit": true,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
