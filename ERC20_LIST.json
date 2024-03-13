@@ -70,9 +70,9 @@
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-        "name": "Angle USD",
+        "name": "USDA",
         "decimals": 18,
-        "symbol": "agUSD",
+        "symbol": "USDA",
         "hasPermit": true,
         "useInSwap": false,
         "permitVersion": "1",
@@ -80,7 +80,7 @@
       },
       "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "decimals": 18,
         "symbol": "stUSD",
         "hasPermit": false,
