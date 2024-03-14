@@ -2974,7 +2974,16 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
-      }
+      },
+      "0x49D05c1D089098AfE9BBaeE7712a8817614911fA": {
+        "address": "0x49D05c1D089098AfE9BBaeE7712a8817614911fA",
+        "name": "Uniswap Token",
+        "decimals": 18,
+        "symbol": "UNI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
     }
   }
 ]
