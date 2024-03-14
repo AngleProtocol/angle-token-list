@@ -60,9 +60,9 @@
       },
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "useInSwap": false,
         "hasPermit": true,
         "permitVersion": "1",
@@ -70,7 +70,7 @@
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -268,18 +268,18 @@
       },
       "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add": {
         "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
-        "name": "Gelato Uniswap agEUR/USDC LP",
+        "name": "Gelato Uniswap EURA/USDC LP",
         "decimals": 18,
-        "symbol": "G-Uni agEUR/USDC",
+        "symbol": "G-Uni EURA/USDC",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_USDC.svg"
       },
       "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f": {
         "address": "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f",
-        "name": "Gelato Uniswap agEUR/wETH LP",
+        "name": "Gelato Uniswap EURA/wETH LP",
         "decimals": 18,
-        "symbol": "G-Uni agEUR/wETH",
+        "symbol": "G-Uni EURA/wETH",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/G-Uni_agEUR_wETH.svg"
@@ -296,9 +296,9 @@
       },
       "0x1f4c763BdE1D4832B3EA0640e66Da00B98831355": {
         "address": "0x1f4c763BdE1D4832B3EA0640e66Da00B98831355",
-        "name": "Sushiswap agEUR/ANGLE LP",
+        "name": "Sushiswap EURA/ANGLE LP",
         "decimals": 18,
-        "symbol": "Sushi agEUR/ANGLE",
+        "symbol": "Sushi EURA/ANGLE",
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NoLogo.svg"
@@ -381,7 +381,7 @@
       },
       "0xBa625B318483516F7483DD2c4706aC92d44dBB2B": {
         "address": "0xBa625B318483516F7483DD2c4706aC92d44dBB2B",
-        "name": "Angle Sushi agEUR/ANGLE Gauge",
+        "name": "Angle Sushi EURA/ANGLE Gauge",
         "decimals": 18,
         "symbol": "staked Sushi LP",
         "useInSwap": false,
@@ -955,13 +955,13 @@
         "decimals": 18,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg",
-        "name": "Angle Euro",
-        "symbol": "agEUR",
+        "name": "EURA (previously agEUR)",
+        "symbol": "EURA",
         "useInSwap": false
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -1449,16 +1449,16 @@
     "10": {
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
         "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -1649,16 +1649,16 @@
     "42161": {
       "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7": {
         "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2193,8 +2193,7 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
-      }
-      ,
+      },
       "0x3269a3C00AB86c753856fD135d97b87FACB0d848": {
         "address": "0x3269a3C00AB86c753856fD135d97b87FACB0d848",
         "name": "Florence Finance Medici",
@@ -2208,16 +2207,16 @@
     "56": {
       "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
         "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2319,16 +2318,16 @@
     "100": {
       "0x4b1E2c2762667331Bc91648052F646d1b0d35984": {
         "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2404,16 +2403,16 @@
     "43114": {
       "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57": {
         "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2515,16 +2514,16 @@
     "42220": {
       "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049": {
         "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2571,16 +2570,16 @@
     "1101": {
       "0xA61BeB4A3d02decb01039e378237032B351125B4": {
         "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2681,16 +2680,16 @@
     "8453": {
       "0xA61BeB4A3d02decb01039e378237032B351125B4": {
         "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2791,16 +2790,16 @@
     "59144": {
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
@@ -2838,16 +2837,16 @@
     "5000": {
       "0xA61BeB4A3d02decb01039e378237032B351125B4": {
         "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
-        "name": "Angle Euro",
+        "name": "EURA (previously agEUR)",
         "decimals": 18,
-        "symbol": "agEUR",
+        "symbol": "EURA",
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "decimals": 18,
         "symbol": "stEUR",
         "useInSwap": false,
