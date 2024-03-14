@@ -1,6 +1,15 @@
 [
   {
     "1": {
+	  "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
+        "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
+        "name": "Blockswap Network",
+        "decimals": 18,
+        "symbol": "BSN",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BSN.svg"
+      },
       "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3": {
         "address": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3",
         "name": "Pyth Network",
