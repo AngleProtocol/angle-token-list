@@ -2991,7 +2991,7 @@
         "symbol": "SWCH",
         "useInSwap": false,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWCH.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWCH.svg"
       }
     }
   }
