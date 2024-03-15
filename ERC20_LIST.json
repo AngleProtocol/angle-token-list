@@ -1,7 +1,16 @@
 [
   {
     "1": {
-	  "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
+      "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463": {
+        "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+        "name": "Qredo Token",
+        "decimals": 8,
+        "symbol": "QRDO",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QRDO.svg"
+      },
+	    "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
         "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
         "name": "Blockswap Network",
         "decimals": 18,
