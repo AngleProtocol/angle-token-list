@@ -2983,6 +2983,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
+      "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1": {
+        "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
+        "name": "SwissCheese Token",
+        "decimals": 18,
+        "symbol": "SWCH",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWCH.svg"
       }
     }
   }
