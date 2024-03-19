@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9": {
+        "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+        "name": "DONUT",
+        "decimals": 18,
+        "symbol": "DONUT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
+      },
       "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463": {
         "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
         "name": "Qredo Token",
@@ -1665,6 +1674,15 @@
       }
     },
     "42161": {
+      "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5": {
+        "address": "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5",
+        "name": "DONUT",
+        "decimals": 18,
+        "symbol": "DONUT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
+      },
       "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7": {
         "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
         "name": "EURA (previously agEUR)",
@@ -2334,6 +2352,15 @@
       }
     },
     "100": {
+      "0x524B969793a64a602342d89BC2789D43a016B13A": {
+        "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
+        "name": "DONUT",
+        "decimals": 18,
+        "symbol": "DONUT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
+      },
       "0x4b1E2c2762667331Bc91648052F646d1b0d35984": {
         "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
         "name": "EURA (previously agEUR)",
