@@ -923,6 +923,15 @@
       }
     },
     "137": {
+      "0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD": {
+        "address": "0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD",
+        "name": "DappRadar",
+        "decimals": 18,
+        "symbol": "RADAR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RADAR.svg"
+      },
       "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1": {
         "address": "0x3ce1327867077B551ae9A6987bF10C9fd08edCE1",
         "name": "SwissCheese Token",
