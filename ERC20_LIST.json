@@ -3067,8 +3067,8 @@
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       },
-      "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf": {
-        "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
+      "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF": {
+        "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
         "name": "Wrapped Bitcoin",
         "decimals": 8,
         "symbol": "WBTC",
