@@ -926,7 +926,7 @@
       "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0": {
         "address": "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0",
         "name": "SOLVE",
-        "decimals": 18,
+        "decimals": 8,
         "symbol": "SOLVE",
         "hasPermit": false,
         "useInSwap": false,
