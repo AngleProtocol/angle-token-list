@@ -923,6 +923,15 @@
       }
     },
     "137": {
+      "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0": {
+        "address": "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0",
+        "name": "SOLVE",
+        "decimals": 18,
+        "symbol": "SOLVE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SOLVE.svg"
+      },
       "0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD": {
         "address": "0xdCb72AE4d5dc6Ae274461d57E65dB8D50d0a33AD",
         "name": "DappRadar",
