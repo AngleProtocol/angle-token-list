@@ -3015,6 +3015,22 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020": {
+        "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+        "name": "QuickSwap",
+        "decimals": 18,
+        "symbol": "QUICK",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
+      },
+      "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5": {
+        "address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
+        "name": "Manta",
+        "decimals": 18,
+        "symbol": "MANTA",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MANTA.svg"
       }
     },
     "81457": {
