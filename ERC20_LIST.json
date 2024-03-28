@@ -28,7 +28,7 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QRDO.svg"
       },
-	    "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
+      "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
         "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
         "name": "Blockswap Network",
         "decimals": 18,
@@ -605,6 +605,33 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bC3M.png",
         "name": "Backed GOVIES 0-6 months Euro investment grade",
         "symbol": "bC3M"
+      },
+      "0x3f95AA88dDbB7D9D484aa3D482bf0a80009c52c9": {
+        "address": "0x3f95AA88dDbB7D9D484aa3D482bf0a80009c52c9",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">bERNX is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.blackrock.com/uk/individual/products/327355/ishares-ultrashort-bond-ucits-etf\" class= \"underlined\">ERNX ETF by Blackrock</a>. <br />This ETF seeks to track the performance of an index composed of very short maturity € denominated investment grade corporate bonds.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bERNX.svg",
+        "name": "Backed ERNX € Ultrashort Bond",
+        "symbol": "bERNX"
+      },
+      "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245": {
+        "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">bERNA is a tokenized representation by <a href=\"https://backed.fi\" class= \"underlined\">Backed</a> of the <a href=\"https://www.ishares.com/ch/individual/en/products/297891/ishares-ultrashort-bond-ucits-etf\" class= \"underlined\">ERNA ETF by Blackrock</a>. <br />This ETF seeks to track the performance of an index composed of very short maturity investment grade corporate bonds.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bERNA.svg",
+        "name": "Backed ERNA $ Ultrashort Bond",
+        "symbol": "bERNA"
+      },
+      "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB": {
+        "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">steakUSDC is the tokenized representation of USDC deposits on the Steakhouse Metamorpho vault.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Steakhouse USDC",
+        "symbol": "steakUSDC"
       },
       "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e": {
         "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
