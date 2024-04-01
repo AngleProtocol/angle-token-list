@@ -3183,6 +3183,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x52eE2feBF20Cc81A575e6fabB6a3c54C307CBdac": {
+        "address": "0x52eE2feBF20Cc81A575e6fabB6a3c54C307CBdac",
+        "name": "ArthSwap Token",
+        "decimals": 18,
+        "symbol": "ARSW",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARSW.svg"
+      },
+      "0xdf41220C7e322bFEF933D85D01821ad277f90172": {
+        "address": "0xdf41220C7e322bFEF933D85D01821ad277f90172",
+        "name": "Astar Token",
+        "decimals": 18,
+        "symbol": "ASTR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ASTR.png"
       }
     },
     "592": {
@@ -3194,6 +3212,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xde2578edec4669ba7f41c5d5d2386300bcea4678": {
+        "address": "0xde2578edec4669ba7f41c5d5d2386300bcea4678",
+        "name": "ArthSwap Token",
+        "decimals": 18,
+        "symbol": "ARSW",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARSW.svg"
       }
     }
   }
