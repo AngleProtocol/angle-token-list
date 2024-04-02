@@ -3078,6 +3078,25 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x4300000000000000000000000000000000000004": {
+        "address": "0x4300000000000000000000000000000000000004",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "wETH",
+        "useInSwap": false,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x4300000000000000000000000000000000000003": {
+        "address": "0x4300000000000000000000000000000000000003",
+        "name": "USDB",
+        "decimals": 18,
+        "symbol": "USDB",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDB.png"
       }
     },
     "34443": {
