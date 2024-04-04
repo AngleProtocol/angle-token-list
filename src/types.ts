@@ -11,7 +11,8 @@ export type TokenType = {
   readonly symbol: string;
   readonly underlyingTokens?: string[];
   readonly useInSwap?: boolean;
-  readonly wrappingMethod?: 'BorrowStaker' | 'Curve' | 'Aave Matic Market' | 'Wrap Native' | 'Convex';
+  readonly wrappingMethod?: 'BorrowStaker' | 'Curve' | 'Aave Matic Market' | 'Wrap Native' | 'Convex' | 'Pendle';
+  readonly protocol?: 'Angle'| 'Morpho';
 };
 
 export type TokenListPerChainId = {
@@ -28,6 +29,7 @@ const tokenInfo = Joi.object().keys({
   decimals: Joi.number(),
   hasPermit: Joi.bool(),
   wrappingMethod: Joi.string(),
+  protocol: Joi.string(),
   isSanToken: Joi.bool(),
   logoURI: Joi.string(),
   name: Joi.string(),
