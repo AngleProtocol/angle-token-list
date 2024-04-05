@@ -2884,6 +2884,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
+      },
+      "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913": {
+        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "59144": {
