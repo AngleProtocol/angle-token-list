@@ -3087,6 +3087,25 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x4300000000000000000000000000000000000004": {
+        "address": "0x4300000000000000000000000000000000000004",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "wETH",
+        "useInSwap": false,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x4300000000000000000000000000000000000003": {
+        "address": "0x4300000000000000000000000000000000000003",
+        "name": "USDB",
+        "decimals": 18,
+        "symbol": "USDB",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDB.png"
       }
     },
     "34443": {
@@ -3192,6 +3211,32 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x52eE2feBF20Cc81A575e6fabB6a3c54C307CBdac": {
+        "address": "0x52eE2feBF20Cc81A575e6fabB6a3c54C307CBdac",
+        "name": "ArthSwap Token",
+        "decimals": 18,
+        "symbol": "ARSW",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARSW.svg"
+      },
+      "0xdf41220C7e322bFEF933D85D01821ad277f90172": {
+        "address": "0xdf41220C7e322bFEF933D85D01821ad277f90172",
+        "name": "Astar Token",
+        "decimals": 18,
+        "symbol": "ASTR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ASTR.png"
+      },
+      "0x68286607A1d43602d880D349187c3c48c0fD05E6": {
+        "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+        "name": "QuickSwap",
+        "decimals": 18,
+        "symbol": "QUICK",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
       }
     },
     "592": {
@@ -3203,6 +3248,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678": {
+        "address": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+        "name": "ArthSwap Token",
+        "decimals": 18,
+        "symbol": "ARSW",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARSW.svg"
       }
     }
   }
