@@ -2478,7 +2478,6 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WXDAI.svg"
       },
-
       "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b": {
         "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
         "name": "Swapr on xDai",
@@ -3078,6 +3077,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xd582879453337BD149Ae53EC2092B0af5281d1D7": {
+        "address": "0xd582879453337BD149Ae53EC2092B0af5281d1D7",
+        "name": "GLORY",
+        "decimals": 18,
+        "symbol": "GLORY",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GLORY.png"
       },
       "0x4300000000000000000000000000000000000004": {
         "address": "0x4300000000000000000000000000000000000004",
