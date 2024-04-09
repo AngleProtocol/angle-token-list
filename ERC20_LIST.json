@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
+        "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
+        "name": "GnomeLand",
+        "decimals": 18,
+        "symbol": "GNOME",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GNOME.svg"
+      },
       "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d": {
         "address": "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d",
         "name": "stk GHO",
@@ -1754,6 +1763,15 @@
       }
     },
     "42161": {
+      "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
+        "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
+        "name": "GnomeLand",
+        "decimals": 18,
+        "symbol": "GNOME",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GNOME.svg"
+      },
       "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5": {
         "address": "0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5",
         "name": "DONUT",
@@ -2818,6 +2836,15 @@
       }
     },
     "8453": {
+      "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
+        "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
+        "name": "GnomeLand",
+        "decimals": 18,
+        "symbol": "GNOME",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GNOME.svg"
+      },
       "0xA61BeB4A3d02decb01039e378237032B351125B4": {
         "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
         "name": "EURA (previously agEUR)",
