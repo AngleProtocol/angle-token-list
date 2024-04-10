@@ -2836,6 +2836,15 @@
       }
     },
     "8453": {
+      "0x23432452B720C80553458496D4D9d7C5003280d0": {
+        "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
+        "name": "Frax Share",
+        "decimals": 18,
+        "symbol": "FXS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
       "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
         "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
         "name": "GnomeLand",
