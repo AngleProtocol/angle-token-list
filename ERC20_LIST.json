@@ -1789,9 +1789,7 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PREMIA.png"
-      }
-
-
+      },
       "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
         "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
         "name": "GnomeLand",
