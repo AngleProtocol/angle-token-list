@@ -1763,6 +1763,35 @@
       }
     },
     "42161": {
+      "0x10393c20975cF177a3513071bC110f7962CD67da": {
+        "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+        "name": "Jones DAO",
+        "decimals": 18,
+        "symbol": "JONES",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/JONES.png"
+      },
+      "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E": {
+        "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+        "name": "WINR",
+        "decimals": 18,
+        "symbol": "WINR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WINR.png"
+      },
+      "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2": {
+        "address": "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2",
+        "name": "Premia",
+        "decimals": 18,
+        "symbol": "PREMIA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PREMIA.png"
+      }
+
+
       "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
         "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
         "name": "GnomeLand",
