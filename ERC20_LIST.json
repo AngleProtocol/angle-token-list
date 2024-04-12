@@ -3171,6 +3171,44 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
+      },
+      "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df": {
+        "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USDT",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4": {
+        "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "useInSwap": true,
+        "hasPermit": true,
+        "permitVersion": "2",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x5300000000000000000000000000000000000004": {
+        "address": "0x5300000000000000000000000000000000000004",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "useInSwap": true,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1": {
+        "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+        "name": "Wrapped Bitcoin",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
       }
     },
     "169": {
