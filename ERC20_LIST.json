@@ -1237,6 +1237,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ichi.png"
       },
+      "0xee095Eb6354473E4066054c5B06c82E99fa2b96e": {
+      "address": "0xee095Eb6354473E4066054c5B06c82E99fa2b96e",
+      "name": "Duke of Arbitrum",
+      "decimals": 18,
+      "symbol": "DUKE",
+      "hasPermit": false,
+      "useInSwap": false,
+      "logoURI": "https://github-production-user-asset-6210df.s3.amazonaws.com/29180454/322287474-3bb641e1-774b-4457-bc44-14015dc1871c.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240414T162004Z&X-Amz-Expires=300&X-Amz-Signature=988fe43a166c46ce274bea7d44b325775570a89805dc5df9a39e1e19e14df36a&X-Amz-SignedHeaders=host&actor_id=29180454&key_id=0&repo_id=785943357"
+      },
       "0x60D55F02A771d515e077c9C2403a1ef324885CeC": {
         "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
         "name": "Aave Matic Market USDT (amUSDT)",
