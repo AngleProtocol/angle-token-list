@@ -1,99 +1,6 @@
 [
   {
     "1": {
-      "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
-        "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
-        "name": "GnomeLand",
-        "decimals": 18,
-        "symbol": "GNOME",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GNOME.svg"
-      },
-      "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d": {
-        "address": "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d",
-        "name": "stk GHO",
-        "decimals": 18,
-        "symbol": "stkGHO",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GHO.svg"
-      },
-      "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9": {
-        "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
-        "name": "DONUT",
-        "decimals": 18,
-        "symbol": "DONUT",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
-      },
-      "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463": {
-        "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
-        "name": "Qredo Token",
-        "decimals": 8,
-        "symbol": "QRDO",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QRDO.svg"
-      },
-      "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
-        "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
-        "name": "Blockswap Network",
-        "decimals": 18,
-        "symbol": "BSN",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BSN.svg"
-      },
-      "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3": {
-        "address": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3",
-        "name": "Pyth Network",
-        "decimals": 6,
-        "symbol": "PYTH",
-        "useInSwap": false,
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PYTH.png"
-      },
-      "0xa709aaD0691Fc67279577566640ae1D6515c1b81": {
-        "address": "0xa709aaD0691Fc67279577566640ae1D6515c1b81",
-        "name": "BlackrockTradingCurrency",
-        "decimals": 18,
-        "symbol": "aBTC",
-        "useInSwap": false,
-        "hasPermit": true,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
-      },
-      "0x8881562783028F5c1BCB985d2283D5E170D88888": {
-        "address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
-        "name": "Shuffle",
-        "decimals": 18,
-        "symbol": "SHFL",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SHFL.svg"
-      },
-      "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9": {
-        "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
-        "name": "Arianee",
-        "decimals": 18,
-        "symbol": "ARIA20",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
-      },
-      "0x4104b135DBC9609Fc1A9490E61369036497660c8": {
-        "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
-        "name": "Spectra",
-        "decimals": 18,
-        "symbol": "APW",
-        "useInSwap": false,
-        "hasPermit": false,
-        "permitVersion": "1",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/APW.svg"
-      },
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
         "name": "EURA (previously agEUR)",
@@ -301,6 +208,99 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
+        "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
+        "name": "GnomeLand",
+        "decimals": 18,
+        "symbol": "GNOME",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GNOME.svg"
+      },
+      "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d": {
+        "address": "0x1a88Df1cFe15Af22B3c4c783D4e6F7F9e0C1885d",
+        "name": "stk GHO",
+        "decimals": 18,
+        "symbol": "stkGHO",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GHO.svg"
+      },
+      "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9": {
+        "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+        "name": "DONUT",
+        "decimals": 18,
+        "symbol": "DONUT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
+      },
+      "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463": {
+        "address": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+        "name": "Qredo Token",
+        "decimals": 8,
+        "symbol": "QRDO",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QRDO.svg"
+      },
+      "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e": {
+        "address": "0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e",
+        "name": "Blockswap Network",
+        "decimals": 18,
+        "symbol": "BSN",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BSN.svg"
+      },
+      "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3": {
+        "address": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3",
+        "name": "Pyth Network",
+        "decimals": 6,
+        "symbol": "PYTH",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PYTH.png"
+      },
+      "0xa709aaD0691Fc67279577566640ae1D6515c1b81": {
+        "address": "0xa709aaD0691Fc67279577566640ae1D6515c1b81",
+        "name": "BlackrockTradingCurrency",
+        "decimals": 18,
+        "symbol": "aBTC",
+        "useInSwap": false,
+        "hasPermit": true,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
+      },
+      "0x8881562783028F5c1BCB985d2283D5E170D88888": {
+        "address": "0x8881562783028F5c1BCB985d2283D5E170D88888",
+        "name": "Shuffle",
+        "decimals": 18,
+        "symbol": "SHFL",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SHFL.svg"
+      },
+      "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9": {
+        "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+        "name": "Arianee",
+        "decimals": 18,
+        "symbol": "ARIA20",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
+      },
+      "0x4104b135DBC9609Fc1A9490E61369036497660c8": {
+        "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+        "name": "Spectra",
+        "decimals": 18,
+        "symbol": "APW",
+        "useInSwap": false,
+        "hasPermit": false,
+        "permitVersion": "1",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/APW.svg"
       },
       "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add": {
         "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
@@ -640,7 +640,71 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
         "name": "Steakhouse USDC",
-        "symbol": "steakUSDC"
+        "symbol": "steakUSDC",
+        "underlyingTokens": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "wrappingMethod": "ERC4626"
+      },
+      "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6": {
+        "address": "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">gtUSDAcore is the tokenized representation of USDA deposits on the Gauntlet USDA Metamorpho vault.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Gauntlet USDA Core",
+        "symbol": "gtUSDAcore",
+        "underlyingTokens": ["0x0000206329b97DB379d5E1Bf586BbDB969C63274"],
+        "wrappingMethod": "ERC4626"
+      },
+      "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8": {
+        "address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">Re7USDA is the tokenized representation of USDA deposits on the Re7 USDA Metamorpho vault.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Re7 USDA",
+        "symbol": "Re7USDA",
+        "underlyingTokens": ["0x0000206329b97DB379d5E1Bf586BbDB969C63274"],
+        "wrappingMethod": "ERC4626"
+      },
+      "0x2371e134e3455e0593363cBF89d3b6cf53740618": {
+        "address": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Gauntlet WETH Prime",
+        "symbol": "gtWETH",
+        "underlyingTokens": ["0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+        "wrappingMethod": "ERC4626"
+      },
+      "0xdd0f28e19C1780eb6396170735D45153D261490d": {
+        "address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Gauntlet USDC Prime",
+        "symbol": "gtUSDC",
+        "underlyingTokens": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
+        "wrappingMethod": "ERC4626"
+      },
+      "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0": {
+        "address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Re7 WETH",
+        "symbol": "Re7WETH",
+        "underlyingTokens": ["0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+        "wrappingMethod": "ERC4626"
+      },
+      "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8": {
+        "address": "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Re7 USDT",
+        "symbol": "Re7USDT",
+        "underlyingTokens": ["0xdAC17F958D2ee523a2206206994597C13D831ec7 "],
+        "wrappingMethod": "ERC4626"
       },
       "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e": {
         "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
@@ -732,10 +796,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/crvFRAXUSDC.png",
         "name": "Curve.fi FRAX/USDC",
         "symbol": "crvFRAXUSDC",
-        "underlyingTokens": [
-          "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-        ],
+        "underlyingTokens": ["0x853d955aCEf822Db058eb8505911ED77F175b99e", "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"],
         "useInSwap": false
       },
       "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490": {
@@ -761,10 +822,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LUSD3CRV.svg",
         "name": "Curve.fi Factory USD Metapool: Liquity",
         "symbol": "LUSD3CRV",
-        "underlyingTokens": [
-          "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-          "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
-        ],
+        "underlyingTokens": ["0x5f98805A4E8be255a32880FDeC7F6728C6568bA0", "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"],
         "useInSwap": false
       },
       "0xa9d2Eea75C80fF9669cc998c276Ff26D741Dcb26": {
@@ -775,9 +833,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-crvFRAXUSDC.png",
         "name": "Angle Curve.fi FRAX/USDC Stake DAO Staker",
         "symbol": "sd-crvFRAXUSDC",
-        "underlyingTokens": [
-          "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"
-        ],
+        "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -789,9 +845,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-3CRV.svg",
         "name": "Angle Curve.fi DAI/USDC/USDT Stake DAO Staker",
         "symbol": "sd-3CRV",
-        "underlyingTokens": [
-          "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
-        ],
+        "underlyingTokens": ["0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -803,9 +857,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-crvLUSD3CRV.svg",
         "name": "Angle Curve.fi Factory USD Metapool: Liquity Stake DAO Staker",
         "symbol": "sd-crvLUSD3CRV",
-        "underlyingTokens": [
-          "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"
-        ],
+        "underlyingTokens": ["0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -817,9 +869,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvFRAXUSDC.svg",
         "name": "Angle Curve.fi FRAX/USDC Convex Staker",
         "symbol": "cvx-crvFRAXUSDC",
-        "underlyingTokens": [
-          "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"
-        ],
+        "underlyingTokens": ["0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -831,9 +881,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-3CRV.svg",
         "name": "Angle Curve.fi DAI/USDC/USDT Convex Staker",
         "symbol": "cvx-3CRV",
-        "underlyingTokens": [
-          "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
-        ],
+        "underlyingTokens": ["0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -845,9 +893,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-crvLUSD3CRV.svg",
         "name": "Angle Curve.fi Factory USD Metapool: Liquity Convex Staker",
         "symbol": "cvx-crvLUSD3CRV",
-        "underlyingTokens": [
-          "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"
-        ],
+        "underlyingTokens": ["0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -1026,12 +1072,20 @@
       },
       "0xc69Ad9baB1dEE23F4605a82b3354F8E40d1E5966": {
         "address": "0xc69Ad9baB1dEE23F4605a82b3354F8E40d1E5966",
-        "underlyingTokens": [
-          "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee"
-        ],
+        "underlyingTokens": ["0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee"],
         "name": "PT ether.fi weETH 27JUN2024",
         "decimals": 18,
         "symbol": "PT-weETH-27JUN2024",
+        "hasPermit": false,
+        "wrappingMethod": "Pendle",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PTweETH.svg"
+      },
+      "0xa0021EF8970104c2d008F38D92f115ad56a9B8e1": {
+        "address": "0xa0021EF8970104c2d008F38D92f115ad56a9B8e1",
+        "underlyingTokens": ["0x4c9EDD5852cd905f086C759E8383e09bff1E68B3"],
+        "name": "PT Ethena USDe 25JUL2024",
+        "decimals": 18,
+        "symbol": "PT-USDe-25JUL2024",
         "hasPermit": false,
         "wrappingMethod": "Pendle",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PTweETH.svg"
@@ -1239,9 +1293,7 @@
         "decimals": 18,
         "symbol": "amDAI",
         "wrappingMethod": "Aave Matic Market",
-        "underlyingTokens": [
-          "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
-        ],
+        "underlyingTokens": ["0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"],
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
       },
@@ -1259,9 +1311,7 @@
         "decimals": 6,
         "symbol": "amUSDC",
         "wrappingMethod": "Aave Matic Market",
-        "underlyingTokens": [
-          "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
-        ],
+        "underlyingTokens": ["0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"],
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
@@ -1295,9 +1345,7 @@
         "decimals": 6,
         "symbol": "amUSDT",
         "wrappingMethod": "Aave Matic Market",
-        "underlyingTokens": [
-          "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
-        ],
+        "underlyingTokens": ["0xc2132D05D31c914a87C6611C10748AEb04B58e8F"],
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       },
@@ -1317,9 +1365,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvxam3CRV.svg",
         "name": "Angle Curve.fi amDAI/amUSDC/amUSDT Staker",
         "symbol": "agstk-am3CRV",
-        "underlyingTokens": [
-          "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
-        ],
+        "underlyingTokens": ["0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"],
         "useInSwap": false
       },
       "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
@@ -2041,10 +2087,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/2CRV.svg",
         "name": "Curve.fi USDC/USDT",
         "symbol": "2CRV",
-        "underlyingTokens": [
-          "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-          "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
-        ],
+        "underlyingTokens": ["0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8", "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"],
         "useInSwap": false
       },
       "0xc8711B1206cD3e89799Ec32973f583e696Cb553C": {
@@ -2055,9 +2098,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sd-2CRV.svg",
         "name": "Angle Curve.fi USDC/USDT Stake DAO Staker",
         "symbol": "sd-crvUSDCUSDT",
-        "underlyingTokens": [
-          "0x7f90122BF0700F9E7e1F688fe926940E8839F353"
-        ],
+        "underlyingTokens": ["0x7f90122BF0700F9E7e1F688fe926940E8839F353"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
@@ -2069,9 +2110,7 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cvx-2CRV.svg",
         "name": "Angle Curve.fi USDC/USDT Convex Staker",
         "symbol": "cvx-crvUSDCUSDT",
-        "underlyingTokens": [
-          "0x7f90122BF0700F9E7e1F688fe926940E8839F353"
-        ],
+        "underlyingTokens": ["0x7f90122BF0700F9E7e1F688fe926940E8839F353"],
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
