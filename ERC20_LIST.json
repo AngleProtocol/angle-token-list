@@ -990,7 +990,39 @@
         "decimals": 18,
         "symbol": "weETH",
         "hasPermit": false,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110": {
+        "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+        "name": "Renzo Staked ETH",
+        "decimals": 18,
+        "symbol": "ezETH",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ezETH.png"
+      },
+      "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7": {
+        "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+        "name": "rsETH",
+        "decimals": 18,
+        "symbol": "rsETH",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
+      },
+      "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497": {
+        "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+        "decimals": 18,
+        "hasPermit": false,
+        "name": "Staked USDe",
+        "symbol": "sUSDe",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sUSDe.svg"
+      },
+      "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3": {
+        "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+        "decimals": 18,
+        "hasPermit": false,
+        "name": "USDe",
+        "symbol": "sUSDe",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDe.svg"
       },
       "0xc69Ad9baB1dEE23F4605a82b3354F8E40d1E5966": {
         "address": "0xc69Ad9baB1dEE23F4605a82b3354F8E40d1E5966",
@@ -1002,7 +1034,7 @@
         "symbol": "PT-weETH-27JUN2024",
         "hasPermit": false,
         "wrappingMethod": "Pendle",
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PTweETH.svg"
       }
     },
     "137": {
