@@ -642,6 +642,24 @@
         "name": "Steakhouse USDC",
         "symbol": "steakUSDC"
       },
+      "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6": {
+        "address": "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">gtUSDAcore is the tokenized representation of USDA deposits on the Gauntlet USDA Metamorpho vault.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Gauntlet USDA Core",
+        "symbol": "gtUSDAcore"
+      },
+      "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8": {
+        "address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
+        "decimals": 18,
+        "description": "<p class=\"text-sm\">Re7USDA is the tokenized representation of USDA deposits on the Re7 USDA Metamorpho vault.</p>",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "name": "Re7 USDA",
+        "symbol": "Re7USDA"
+      },
       "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e": {
         "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
         "name": "VEGA",
