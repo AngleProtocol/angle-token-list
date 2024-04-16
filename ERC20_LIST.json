@@ -2349,6 +2349,15 @@
       }
     },
     "56": {
+      "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1": {
+        "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+        "name": "Uniswap Token",
+        "decimals": 18,
+        "symbol": "UNI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
       "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
         "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
         "name": "EURA (previously agEUR)",
@@ -2976,6 +2985,15 @@
       }
     },
     "59144": {
+      "0x636B22bC471c955A8DB60f28D4795066a8201fa3": {
+        "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
+        "name": "Uniswap Token",
+        "decimals": 18,
+        "symbol": "UNI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
         "name": "EURA (previously agEUR)",
