@@ -2972,6 +2972,15 @@
       }
     },
     "8453": {
+      "0xc3De830EA07524a0761646a6a4e4be0e114a3C83": {
+        "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
+        "name": "Uniswap Token",
+        "decimals": 18,
+        "symbol": "UNI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
       "0x23432452B720C80553458496D4D9d7C5003280d0": {
         "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
         "name": "Frax Share",
