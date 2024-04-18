@@ -3118,6 +3118,44 @@
       }
     },
     "59144": {
+      "0xA219439258ca9da29E9Cc4cE5596924745e12B93": {
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USDT",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0x176211869cA2b568f2A7D4EE941E073a821EE1ff": {
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "useInSwap": true,
+        "hasPermit": true,
+        "permitVersion": "2",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f": {
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "useInSwap": true,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4": {
+        "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+        "name": "Wrapped Bitcoin",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+      },
       "0x636B22bC471c955A8DB60f28D4795066a8201fa3": {
         "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
         "name": "Uniswap Token",
@@ -3375,6 +3413,15 @@
       }
     },
     "81457": {
+      "0x491e6DE43b55c8EAE702EDC263E32339da42f58c": {
+        "address": "0x491e6DE43b55c8EAE702EDC263E32339da42f58c",
+        "name": "eesee",
+        "decimals": 18,
+        "symbol": "ESE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ESE.png"
+      },
       "0xA7c167f58833c5e25848837f45A1372491A535eD": {
         "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
         "name": "aglaMerkl",
