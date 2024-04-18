@@ -292,6 +292,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
       },
+      "0x661c70333AA1850CcDBAe82776Bb436A0fCfeEfB": {
+        "address": "0x661c70333AA1850CcDBAe82776Bb436A0fCfeEfB",
+        "name": "eBTC",
+        "decimals": 18,
+        "symbol": "EBTC",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EBTC.png"
+      },
       "0x4104b135DBC9609Fc1A9490E61369036497660c8": {
         "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
         "name": "Spectra",
