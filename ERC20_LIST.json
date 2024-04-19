@@ -3470,6 +3470,15 @@
       }
     },
     "34443": {
+      "0x59889b7021243dB5B1e065385F918316cD90D46c": {
+        "address": "0x59889b7021243dB5B1e065385F918316cD90D46c",
+        "name": "Merlin BTC",
+        "decimals": 18,
+        "symbol": "M-BTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MBTC.svg"
+      },
       "0xA7c167f58833c5e25848837f45A1372491A535eD": {
         "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
         "name": "aglaMerkl",
