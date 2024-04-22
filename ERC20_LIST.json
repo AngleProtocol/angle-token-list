@@ -1377,14 +1377,23 @@
         "underlyingTokens": ["0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"],
         "useInSwap": false
       },
-      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
-        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359": {
+        "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
         "decimals": 6,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
         "name": "USD Coin (PoS)",
         "symbol": "USDC",
         "useInSwap": true
+      },
+      "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "name": "Bridged USDC",
+        "decimals": 6,
+        "symbol": "USDC.e",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
       "0x02Cb0586F9252626e992B2C6c1B792d9751f2Ede": {
         "address": "0x02Cb0586F9252626e992B2C6c1B792d9751f2Ede",
