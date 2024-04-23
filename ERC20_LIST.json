@@ -2497,6 +2497,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FFM.svg"
+      },
+      "0xACC51FFDeF63fB0c014c882267C3A17261A5eD50": {
+        "address": "0xACC51FFDeF63fB0c014c882267C3A17261A5eD50",
+        "name": "StrykeToken",
+        "decimals": 18,
+        "symbol": "SYK",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SYK.svg"
       }
     },
     "56": {
