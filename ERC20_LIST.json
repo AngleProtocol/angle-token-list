@@ -1676,6 +1676,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
+      },
+      "0x9B8B6A1298d34B3c4bBDDce8a7fF0149121592C1": {
+        "address": "0x9B8B6A1298d34B3c4bBDDce8a7fF0149121592C1",
+        "name": "AMBO",
+        "decimals": 18,
+        "symbol": "AMBO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AMBO.svg"
       }
     },
     "10": {
