@@ -3151,6 +3151,35 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22": {
+        "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+        "decimals": 18,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cbETH.svg",
+        "name": "Coinbase Wrapped Staked ETH",
+        "permitVersion": "2",
+        "symbol": "cbETH",
+        "useInSwap": false
+      },
+      "0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44": {
+        "address": "0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44",
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USDT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0x4200000000000000000000000000000000000006": {
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "useInSwap": false,
+        "hasPermit": false,
+        "wrappingMethod": "Wrap Native",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
       }
     },
     "59144": {
