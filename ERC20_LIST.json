@@ -3162,8 +3162,8 @@
         "symbol": "cbETH",
         "useInSwap": false
       },
-      "0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44": {
-        "address": "0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44",
+      "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2": {
+        "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
         "name": "Tether USD",
         "decimals": 6,
         "symbol": "USDT",
