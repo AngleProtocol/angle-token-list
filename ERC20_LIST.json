@@ -3180,6 +3180,15 @@
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188": {
+        "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
+        "name": "Arianee",
+        "decimals": 18,
+        "symbol": "ARIA20",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
       }
     },
     "59144": {
