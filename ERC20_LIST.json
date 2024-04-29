@@ -2293,6 +2293,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+      },
+      "0xC5e16f5009776aB645d6719B72962892428b2ac2": {
+        "address": "0xC5e16f5009776aB645d6719B72962892428b2ac2",
+        "name": "Gravita: oARB Token",
+        "decimals": 18,
+        "symbol": "goARB",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/goARB.svg"
       }
     },
     "56": {
