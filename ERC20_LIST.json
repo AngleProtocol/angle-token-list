@@ -144,6 +144,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GHO.svg"
       },
+      "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c": {
+        "address": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+        "name": "Aave Ethereum USDC",
+        "decimals": 6,
+        "symbol": "aUSDC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
+      },
       "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
         "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
         "name": "Wrapped Bitcoin",
