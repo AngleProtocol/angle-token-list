@@ -592,7 +592,7 @@
         "address": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
         "name": "Gauntlet WETH Prime",
         "symbol": "gtWETH",
         "underlyingTokens": [
@@ -604,7 +604,7 @@
         "address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
         "name": "Gauntlet USDC Prime",
         "symbol": "gtUSDC",
         "underlyingTokens": [
@@ -616,7 +616,7 @@
         "address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
         "name": "Re7 WETH",
         "symbol": "Re7WETH",
         "underlyingTokens": [
@@ -628,7 +628,7 @@
         "address": "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg",
         "name": "Re7 USDT",
         "symbol": "Re7USDT",
         "underlyingTokens": [
