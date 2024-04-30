@@ -20,6 +20,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
       },
+      "0x3472A5A71965499acd81997a54BBA8D852C6E53d": {
+        "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+        "name": "Badger",
+        "decimals": 18,
+        "symbol": "BADGER",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BADGER.svg"
+      },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
         "name": "USDA",
