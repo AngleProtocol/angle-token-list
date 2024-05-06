@@ -3697,6 +3697,33 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pxETH.png"
+      },
+      "0x6863fb62Ed27A9DdF458105B507C15b5d741d62e": {
+        "address": "0x6863fb62Ed27A9DdF458105B507C15b5d741d62e",
+        "name": "Kim Token",
+        "decimals": 18,
+        "symbol": "Kim",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Kim.svg"
+      },
+      "0xDfc7C877a950e49D2610114102175A06C2e3167a": {
+        "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+        "name": "Mode",
+        "decimals": 18,
+        "symbol": "MODE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MODE.svg"
+      },
+      "0x4D850FE01F07BEd416558A34dbde88bA60aE19BE": {
+        "address": "0x4D850FE01F07BEd416558A34dbde88bA60aE19BE",
+        "name": "KIM Escrowed Token",
+        "decimals": 18,
+        "symbol": "xKIM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xKim.svg"
       }
     },
     "3776": {
