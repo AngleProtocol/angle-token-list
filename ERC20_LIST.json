@@ -3251,6 +3251,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
+      },
+      "0x01CCF4941298a0b5AC4714c0E1799a2dF8387048": {
+        "address": "0x01CCF4941298a0b5AC4714c0E1799a2dF8387048",
+        "name": "Yup",
+        "decimals": 18,
+        "symbol": "YUP",
+        "useInSwap": false,
+        "hasPermit": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YUP.svg"
       }
     },
     "59144": {
