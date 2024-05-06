@@ -1932,6 +1932,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/JONES.png"
       },
+      "0x50E04E222Fc1be96E94E86AcF1136cB0E97E1d40": {
+        "address": "0x50E04E222Fc1be96E94E86AcF1136cB0E97E1d40",
+        "name": "XStrykeToken",
+        "decimals": 18,
+        "symbol": "xSYK",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SYK.svg"
+      },
       "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E": {
         "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
         "name": "WINR",
