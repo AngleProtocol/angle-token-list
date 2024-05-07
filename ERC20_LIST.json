@@ -912,6 +912,15 @@
         "useInSwap": false,
         "wrappingMethod": "BorrowStaker"
       },
+      "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9": {
+        "address": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+        "name": "Yup",
+        "decimals": 18,
+        "symbol": "YUP",
+        "useInSwap": false,
+        "hasPermit": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YUP.svg"
+      },
       "0x9650821B3555Fe6318586BE997cc0Fb163C35976": {
         "address": "0x9650821B3555Fe6318586BE997cc0Fb163C35976",
         "decimals": 18,
@@ -3177,6 +3186,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x01CCF4941298a0b5AC4714c0E1799a2dF8387048": {
+        "address": "0x01CCF4941298a0b5AC4714c0E1799a2dF8387048",
+        "name": "Yup",
+        "decimals": 18,
+        "symbol": "YUP",
+        "useInSwap": false,
+        "hasPermit": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/YUP.svg"
       },
       "0xc2106ca72996e49bBADcB836eeC52B765977fd20": {
         "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
