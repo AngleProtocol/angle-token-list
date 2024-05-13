@@ -3411,6 +3411,15 @@
         "useInSwap": true,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MNT.svg"
       },
+      "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8": {
+        "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+        "name": "Wrapped Mantle",
+        "decimals": 18,
+        "symbol": "WMNT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MNT.svg"
+      },
       "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57": {
         "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
         "name": "aglaMerkl",
