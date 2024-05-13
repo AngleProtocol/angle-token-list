@@ -3591,6 +3591,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ASM.svg"
+      },
+      "0xd3bd7a8777c042De830965de1C1BCC9784135DD2": {
+        "address": "0xd3bd7a8777c042De830965de1C1BCC9784135DD2",
+        "name": "Uniswap Token",
+        "decimals": 18,
+        "symbol": "UNI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
       }
     },
     "81457": {
@@ -3853,7 +3862,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     }
   }
