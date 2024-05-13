@@ -3751,6 +3751,23 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xKim.svg"
+      },
+      "0xb9dF4BD9d3103cF1FB184BF5e6b54Cf55de81747": {
+        "address": "0xb9dF4BD9d3103cF1FB184BF5e6b54Cf55de81747",
+        "name": "Degen Jump",
+        "decimals": 18,
+        "symbol": "DJUMP",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DJUMP.svg"
+      },
+      "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e": {
+        "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
+        "name": "MoChadCoin",
+        "decimals": 18,
+        "symbol": "MOCHAD",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MOCHAD.png"
       }
     },
     "3776": {
