@@ -3844,6 +3844,17 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARSW.svg"
       }
+    },
+    "324": {
+      "0xCe59e272946458dA50C36Ca1E731ED6C5752669F": {
+        "address": "0xCe59e272946458dA50C36Ca1E731ED6C5752669F",
+        "name": "aglaMerkl",
+        "decimals": 18,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
     }
   }
 ]
