@@ -3582,6 +3582,15 @@
         "symbol": "MANTA",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MANTA.svg"
+      },
+      "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806": {
+        "address": "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806",
+        "name": "Asmatch Token",
+        "decimals": 18,
+        "symbol": "ASM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ASM.svg"
       }
     },
     "81457": {
