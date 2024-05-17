@@ -2799,6 +2799,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWPR.svg"
       },
+      "0x1C6F6e2b226D99af2C34d875a03E055492914442": {
+        "address": "0x1C6F6e2b226D99af2C34d875a03E055492914442",
+        "name": "Angle Prots",
+        "decimals": 18,
+        "symbol": "agProts",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
       "0xa709aaD0691Fc67279577566640ae1D6515c1b81": {
         "address": "0xa709aaD0691Fc67279577566640ae1D6515c1b81",
         "name": "BlackrockTradingCurrency",
