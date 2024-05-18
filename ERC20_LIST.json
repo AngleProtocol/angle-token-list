@@ -3621,6 +3621,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ESE.png"
       },
+      "0x3B0cFFdA9a5aB64135C227638e777cEec0C243A8": {
+        "address": "0x3B0cFFdA9a5aB64135C227638e777cEec0C243A8",
+        "name": "Fang Dao",
+        "decimals": 18,
+        "symbol": "fDAO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
       "0xA7c167f58833c5e25848837f45A1372491A535eD": {
         "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
         "name": "aglaMerkl",
