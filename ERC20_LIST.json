@@ -1145,6 +1145,16 @@
       }
     },
     "137": {
+      "0x683565196C3EAb450003C964D4bad1fd3068D4cC": {
+        "address": "0x683565196C3EAb450003C964D4bad1fd3068D4cC",
+        "name": "Verida",
+        "decimals": 18,
+        "symbol": "VDA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "description": "<p class=\"text-sm\">VDA is the native utility token of the Verida Network &mdash; The first decentralized database network for owning, storing and controlling private data.</p>",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/vda.png"
+      },
       "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0": {
         "address": "0x00A49A868d3FB149483A69045e1Ed01e8C812FF0",
         "name": "SOLVE",
