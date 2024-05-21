@@ -1142,6 +1142,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KEROSENE.svg"
+      },
+      "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
+        "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+        "name": "SKALE",
+        "decimals": 18,
+        "symbol": "SKL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
       }
     },
     "137": {
