@@ -3934,6 +3934,17 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
       }
+    },
+    "1564830818": {
+      "0x4048C4dd6eccF1Dc23b068211fDf20AD19602e50": {
+        "address": "0x4048C4dd6eccF1Dc23b068211fDf20AD19602e50",
+        "name": "SKALE",
+        "decimals": 18,
+        "symbol": "SKL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
+      }
     }
   }
 ]
