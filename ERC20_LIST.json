@@ -3913,6 +3913,14 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x68286607A1d43602d880D349187c3c48c0fD05E6": {
+        "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+        "name": "QuickSwap",
+        "decimals": 18,
+        "symbol": "QUICK",
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
       }
     }
   }
