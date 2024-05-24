@@ -8,7 +8,7 @@
         "symbol": "EPOCH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://assets.coingecko.com/coins/images/33684/standard/EpochLogo_200x200.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EPOCH.svg"
       },
       "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
