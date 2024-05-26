@@ -3911,6 +3911,60 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629": {
+        "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+        "name": "Wrapped Fuse",
+        "decimals": 18,
+        "symbol": "WFUSE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WFUSE.svg"
+      },
+      "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4": {
+        "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+        "name": "VoltToken",
+        "decimals": 18,
+        "symbol": "VOLT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/VOLT.png"
+      },
+      "0x5622F6dC93e08a8b717B149677930C38d5d50682": {
+        "address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
+        "name": "Wrapped ETHER",
+        "decimals": 18,
+        "symbol": "WETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A": {
+        "address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd": {
+        "address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
+        "name": "USDT",
+        "decimals": 6,
+        "symbol": "USDT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C": {
+        "address": "0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C",
+        "name": "Freedom",
+        "decimals": 18,
+        "symbol": "FDM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "196": {
