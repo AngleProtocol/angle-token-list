@@ -1151,6 +1151,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KEROSENE.svg"
+      },
+      "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7": {
+        "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+        "name": "SKALE",
+        "decimals": 18,
+        "symbol": "SKL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
       }
     },
     "137": {
@@ -3984,6 +3993,39 @@
         "symbol": "QUICK",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/QUICK.svg"
+      }
+    },
+    "2046399126": {
+      "0xE0595a049d02b7674572b0d59cd4880Db60EDC50": {
+        "address": "0xE0595a049d02b7674572b0d59cd4880Db60EDC50",
+        "name": "SKALE",
+        "decimals": 18,
+        "symbol": "SKL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
+      }
+    },
+    "1564830818": {
+      "0x4048C4dd6eccF1Dc23b068211fDf20AD19602e50": {
+        "address": "0x4048C4dd6eccF1Dc23b068211fDf20AD19602e50",
+        "name": "SKALE",
+        "decimals": 18,
+        "symbol": "SKL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
+      }
+    },
+    "1482601649": {
+      "0x7F73B66d4e6e67bCdeaF277b9962addcDabBFC4d": {
+        "address": "0x7F73B66d4e6e67bCdeaF277b9962addcDabBFC4d",
+        "name": "SKALE",
+        "decimals": 18,
+        "symbol": "SKL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
       }
     }
   }
