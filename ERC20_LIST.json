@@ -1170,7 +1170,7 @@
         "symbol": "PolyDoge",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/POLYDOGE.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/POLYDOGE.png"
       },
       "0x683565196C3EAb450003C964D4bad1fd3068D4cC": {
         "address": "0x683565196C3EAb450003C964D4bad1fd3068D4cC",
