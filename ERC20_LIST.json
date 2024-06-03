@@ -2623,6 +2623,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/goARB.svg"
+      },
+      "0xb11A56DA177c5532D5E29cC8363d145bD0822c81": {
+        "address": "0xb11A56DA177c5532D5E29cC8363d145bD0822c81",
+        "name": "Radiant interest bearing weETH",
+        "decimals": 18,
+        "symbol": "rweETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0x2D7d510Dc21F5384C9efd30811D0366F8b4269DF": {
+        "address": "0x2D7d510Dc21F5384C9efd30811D0366F8b4269DF",
+        "name": "Radiant variable debt bearing weETH",
+        "decimals": 18,
+        "symbol": "variableDebtweETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
       }
     },
     "56": {
