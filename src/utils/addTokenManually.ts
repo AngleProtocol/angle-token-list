@@ -11,9 +11,10 @@ interface TokenInfo {
         hasPermit: boolean;
         useInSwap: boolean;
         logoURI: string;
+        permitVersion?: string;
 }
 
-export async function addTokenManually(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string, show : string, tokenName: string, tokenDecimals : number, tokenSymbol :string) {
+export async function addTokenManually(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string, show : string, tokenName: string, tokenDecimals : number, tokenSymbol :string, permitVersion?:string) {
     
     let tokenInfo:TokenInfo ={
         address: "",
@@ -22,7 +23,7 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         symbol: "",
         hasPermit: false,
         useInSwap: false,
-        logoURI: ""
+        logoURI: "",
     };
 
 
@@ -39,6 +40,7 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         tokenInfo.hasPermit = false
     } else {
         tokenInfo.hasPermit = true
+        tokenInfo.permitVersion = permitVersion
     }
     tokenInfo.logoURI = logoURI
 

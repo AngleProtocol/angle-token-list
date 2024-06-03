@@ -12,6 +12,8 @@ interface TokenInfo {
         hasPermit: boolean;
         useInSwap: boolean;
         logoURI: string;
+        permitVersion?: string;
+
 }
 
 export async function getTokenInfo(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string , show : string) {

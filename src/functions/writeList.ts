@@ -19,7 +19,7 @@ export async function writeList(chainId : string, tokenAdress : string, permit: 
         newERC = await addTokenManually(chainId, tokenAdress , permit, inSwap, logoURI , "", tokenName, tokenDecimals, tokenSymbol);
     }
     const newERCString = JSON.stringify(newERC, null,2);
-    fs.writeFile("ERC20_LIST.json", newERCString, function(err) {
+    fs.writeFile("NEW_ERC20_LIST.json", newERCString, function(err) {
         if (err) throw err;
         console.log('Creation of the new ERC20_LIST completed');
         }

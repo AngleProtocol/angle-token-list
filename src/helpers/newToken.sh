@@ -8,8 +8,22 @@ INSWAP=false
 PERMIT=false
 GIT=false
 LOGOURI="toFill"
+UNDERLYINGTOKENS=()
 echo "Welcome to the ERC20 adding tool !"
 echo "Type of script:"
+
+add_to_array() {
+    while true; do
+        read -p "Enter underlying tokens (or type 'exit' to finish): " value
+        if [[ "$value" = "exit" ]] || [[ "$value" = "q" ]]; then
+            break
+        elif [ -z "$value" ]; then
+            echo "Input cannot be empty. Please enter a value."
+        else
+            UNDERLYINGTOKENS+=("$value")
+        fi
+    done
+}
 select SERVICE in "${services[@]}"; do
   if [[ -n "$SERVICE" ]]; then
     echo "You selected: $SERVICE"
@@ -43,6 +57,7 @@ done
 read -p "Has the token a permit ? (y/n) (false default) " HASPERMIT
 if [[ $HASPERMIT == "y" ]]; then
     PERMIT="true"
+    read -p "What's the permit version ? (ex: 1,2...) " PERMITVERSION
 fi
 
 read -p "Is it used in swap ? (y/n) (false default) " HASINSWAP
@@ -57,23 +72,28 @@ fi
 
 
 
-if [[ $SERVICE == "Manual" ]]; then
-
-read -p "what's the token name ? : " TOKENNAME
-
-while true; do
-
-read -p "what's the token decimals? : " TOKENDECIMALS
-if [[ ! $TOKENDECIMALS =~ ^[0-9]*$ ]]; then
-    echo "$TOKENDECIMALS must be numbers"
-    else 
-    break;
-fi 
-done
-
-read -p "what's the token symbol ? : " TOKENSYMBOL
+read -p "Has it underlying tokens ? (y/n) (false default) " HASUNDERLYINGTOKENS
+if [[ $HASUNDERLYINGTOKENS == "y" ]]; then
+    add_to_array
 fi
 
+echo "Underlying tokens : ${UNDERLYINGTOKENS[@]}"
+if [[ $SERVICE == "Manual" ]]; then
+
+    read -p "what's the token name ? : " TOKENNAME
+
+    while true; do
+
+    read -p "what's the token decimals? : " TOKENDECIMALS
+    if [[ ! $TOKENDECIMALS =~ ^[0-9]*$ ]]; then
+        echo "$TOKENDECIMALS must be numbers"
+        else 
+        break;
+    fi 
+    done
+
+    read -p "what's the token symbol ? : " TOKENSYMBOL
+fi
 
 echo "-----------"
 
