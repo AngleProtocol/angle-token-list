@@ -13,10 +13,12 @@ interface TokenInfo {
         useInSwap: boolean;
         logoURI: string;
         permitVersion?: string;
-
+        description?: string;
+        wrappingMethod?: string;
+        underlyingTokens?: string[];
 }
 
-export async function getTokenInfo(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string , show : string) {
+export async function getTokenAutomated(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string , show : string, permitVersion?:string, description?:string, wrapper?:string, underlyingTokens?: string[]) {
     
     let tokenInfo:TokenInfo ={
         address: "",
@@ -45,7 +47,6 @@ export async function getTokenInfo(chainId : string, tokenAdress : string, permi
             ];
         
             const contract = new ethers.Contract(tokenAdress, abi, provider);
-
             tokenInfo.address = tokenAdress;
             tokenInfo.name =  await contract.name();
             tokenInfo.decimals = await contract.decimals();
@@ -59,11 +60,27 @@ export async function getTokenInfo(chainId : string, tokenAdress : string, permi
                 tokenInfo.hasPermit = false
             } else {
                 tokenInfo.hasPermit = true
+                tokenInfo.permitVersion = permitVersion
             }
             tokenInfo.logoURI = logoURI
         } catch (error) {
             //console.error("Error:", error);
         }
+    }
+
+    if(description !== "toFill"){
+        tokenInfo.description = description
+    }
+    if(wrapper !== "toFill"){
+        tokenInfo.wrappingMethod = wrapper
+    }
+    if((underlyingTokens?.length !== 0) && underlyingTokens){
+        let temp :string[]= [];
+        for(let i =0; i<underlyingTokens.length; i++)
+            {
+                temp.push(underlyingTokens[i])
+        }
+        tokenInfo.underlyingTokens= temp;
     }
 
     if(tokenInfo.address == "" || tokenInfo.symbol == "" || tokenInfo.decimals == 0 || tokenInfo.address == ""){

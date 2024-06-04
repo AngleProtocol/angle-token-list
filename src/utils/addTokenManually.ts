@@ -1,20 +1,23 @@
 
-const { ethers } = require('ethers');
 import ERC20_LIST from "../../ERC20_LIST.json";
 import { TokenList } from "../types";
 
 interface TokenInfo {
-        address: string;
-        name: string;
-        decimals: number;
-        symbol: string;
-        hasPermit: boolean;
-        useInSwap: boolean;
-        logoURI: string;
-        permitVersion?: string;
+    address: string;
+    name: string;
+    decimals: number;
+    symbol: string;
+    hasPermit: boolean;
+    useInSwap: boolean;
+    logoURI: string;
+    permitVersion?: string;
+    description?: string;
+    wrappingMethod?: string;
+    underlyingTokens?: string[];
 }
 
-export async function addTokenManually(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string, show : string, tokenName: string, tokenDecimals : number, tokenSymbol :string, permitVersion?:string) {
+
+export async function addTokenManually(chainId : string, tokenAdress : string, permit: string, inSwap: string, logoURI : string, show : string, tokenName: string, tokenDecimals : number, tokenSymbol :string, permitVersion?:string, description?:string, wrapper?:string, underlyingTokens?: string[]) {
     
     let tokenInfo:TokenInfo ={
         address: "",
@@ -26,6 +29,7 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         logoURI: "",
     };
 
+    
 
     tokenInfo.address = tokenAdress;
     tokenInfo.name =  tokenName;
@@ -44,8 +48,20 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
     }
     tokenInfo.logoURI = logoURI
 
-    
-
+    if(description !== "toFill"){
+        tokenInfo.description = description
+    }
+    if(wrapper !== "toFill"){
+        tokenInfo.wrappingMethod = wrapper
+    }
+    if((underlyingTokens?.length !== 0) && underlyingTokens){
+        let temp :string[]= [];
+        for(let i =0; i<underlyingTokens.length; i++)
+            {
+                temp.push(underlyingTokens[i])
+        }
+        tokenInfo.underlyingTokens= temp;
+    }
     if(tokenInfo.address == "" || tokenInfo.symbol == "" || tokenInfo.decimals == 0 || tokenInfo.address == "" || tokenInfo.name == "" || tokenInfo.decimals == 0 || tokenSymbol ==""){
         console.error("The token fetch wasn't possible, please rerun the script and select manual to enter values manually")
         process.exit(1)
