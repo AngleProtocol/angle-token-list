@@ -29,8 +29,6 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         logoURI: "",
     };
 
-    
-
     tokenInfo.address = tokenAdress;
     tokenInfo.name =  tokenName;
     tokenInfo.decimals = tokenDecimals;
@@ -46,8 +44,11 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         tokenInfo.hasPermit = true
         tokenInfo.permitVersion = permitVersion
     }
-    tokenInfo.logoURI = logoURI
-
+    if(logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"){
+        tokenInfo.logoURI = `https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/${logoURI}`
+    }else{
+        tokenInfo.logoURI = logoURI
+    }
     if(description !== "toFill"){
         tokenInfo.description = description
     }

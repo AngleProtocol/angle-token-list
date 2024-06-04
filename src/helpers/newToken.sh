@@ -7,7 +7,6 @@ source src/helpers/common.sh
 INSWAP=false
 PERMIT=false
 GIT=false
-LOGOURI="toFill"
 TOKENNAME="toFill"
 TOKENSYMBOL="toFill"
 TOKENDECIMALS="toFill"
@@ -15,6 +14,7 @@ DESCRIPTION="toFill"
 PERMITVERSION="1"
 WRAPPER="toFill"
 UNDERLYINGTOKENS=()
+LOGOURI="https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
 
 echo "Welcome to the ERC20 adding tool !"
 echo "Type of script:"
@@ -86,7 +86,7 @@ if [[ $HASINSWAP == "y" ]]; then
 fi
 echo "-----------"
 
-read -p "Enter the logo URI : " HASLOGOURI
+read -p "Enter the logo URI (example ANGLE.svg) (angle icon as default): " HASLOGOURI
 if [[ ! -z $HASLOGOURI ]]; then
     LOGOURI=$HASLOGOURI
 fi
@@ -94,13 +94,22 @@ echo "-----------"
 
 if [[ $SERVICE == "Manual" ]]; then
 
+    while true; do
     read -p "what's the token name ? : " TOKENNAME
+    if [[ -z $TOKENNAME ]]; then
+        echo "$TOKENNAME isn't a valid address"
+        else 
+        break;
+        fi 
+    done 
+
     echo "-----------"
 
     while true; do
+    
 
     read -p "what's the token decimals? : " TOKENDECIMALS
-    if [[ ! $TOKENDECIMALS =~ ^[0-9]*$ ]]; then
+    if [[ ! $TOKENDECIMALS =~ ^[0-9]*$ ]] || [[ -z $TOKENDECIMALS ]]; then
         echo "$TOKENDECIMALS must be numbers"
         else 
         break;
@@ -108,7 +117,16 @@ if [[ $SERVICE == "Manual" ]]; then
     done
     echo "-----------"
 
+
+    while true; do
+
     read -p "what's the token symbol ? : " TOKENSYMBOL
+    if [[ -z $TOKENSYMBOL ]]; then
+        echo "$TOKENSYMBOL can't be null"
+        else 
+        break;
+    fi 
+    done
     echo "-----------"
 fi
 

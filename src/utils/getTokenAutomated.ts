@@ -62,12 +62,16 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
                 tokenInfo.hasPermit = true
                 tokenInfo.permitVersion = permitVersion
             }
-            tokenInfo.logoURI = logoURI
         } catch (error) {
             //console.error("Error:", error);
         }
     }
 
+    if(logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"){
+        tokenInfo.logoURI = `https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/${logoURI}`
+    }else{
+        tokenInfo.logoURI = logoURI
+    }
     if(description !== "toFill"){
         tokenInfo.description = description
     }
