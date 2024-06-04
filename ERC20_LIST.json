@@ -10,6 +10,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/iExec-RLC.svg"
       },
+      "0x5aFE3855358E112B5647B952709E6165e1c1eEEe": {
+        "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+        "name": "Safe Token",
+        "decimals": 18,
+        "symbol": "SAFE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SAFE.svg"
+      },
       "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6": {
         "address": "0x97D0CfEB4FdE54B430307c9482d6f79C761Fe9B6",
         "name": "Epoch",
