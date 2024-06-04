@@ -4100,6 +4100,42 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5": {
+        "address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
+        "name": "RIF",
+        "decimals": 18,
+        "symbol": "RIF",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RIF.png"
+      },
+      "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96": {
+        "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+        "name": "rUSDT",
+        "decimals": 18,
+        "symbol": "rUSDT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rUSDT.png"
+      },
+      "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f": {
+        "address": "0x1D931Bf8656d795E50eF6D639562C5bD8Ac2B78f",
+        "name": "ETHs",
+        "decimals": 18,
+        "symbol": "ETHs",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+      },
+      "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d": {
+        "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
+        "name": "Wrapped BTC",
+        "decimals": 18,
+        "symbol": "WRBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RBTC.svg"
       }
     }
   }
