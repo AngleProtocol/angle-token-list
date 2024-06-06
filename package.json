@@ -8,10 +8,12 @@
   "dependencies": {
     "ethers": "^5.7.1",
     "joi": "^17.6.0",
-    "prettier": "^2.8.2"
+    "prettier": "^2.8.2",
+    "@angleprotocol/sdk": "^2.7.0"
   },
   "scripts": {
-    "validate": "ts-node src/index.ts"
+    "validate": "ts-node src/index.ts",
+    "new":"bash ./src/helpers/newToken.sh"
   },
   "devDependencies": {
     "@types/node": "^17.0.38",
