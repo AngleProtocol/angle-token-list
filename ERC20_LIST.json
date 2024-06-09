@@ -1214,6 +1214,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
+      },
+      "0xba3335588d9403515223f109edc4eb7269a9ab5d": {
+        "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
+        "name": "Gearbox",
+        "decimals": 18,
+        "symbol": "GEAR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://etherscan.io/token/images/gearbox_32.jpg"
       }
     },
     "10": {
