@@ -86,11 +86,6 @@ if [[ $HASINSWAP == "y" ]]; then
 fi
 echo "-----------"
 
-read -p "Enter the logo URI (example ANGLE.svg) (angle icon as default): " HASLOGOURI
-if [[ ! -z $HASLOGOURI ]]; then
-    LOGOURI=$HASLOGOURI
-fi
-echo "-----------"
 
 if [[ $SERVICE == "Manual" ]]; then
 
@@ -129,6 +124,14 @@ if [[ $SERVICE == "Manual" ]]; then
     done
     echo "-----------"
 fi
+
+bun run ./src/utils/getPreviewURI.ts $CHAINID $TOKENADDRESS
+
+read -p "Enter the logo URI (example ANGLE.svg) (default is angle token logo): " HASLOGOURI
+if [[ ! -z $HASLOGOURI ]]; then
+    LOGOURI=$HASLOGOURI
+fi
+echo "-----------"
 
 read -p "Do you need to add a description, wrapping method or underlying tokens ? (y/n) (false default) " MORE
 if [[ $MORE == "y" ]]; then

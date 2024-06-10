@@ -3,6 +3,8 @@ const { ethers } = require('ethers');
 import ERC20_LIST from "../../ERC20_LIST.json";
 import { getRPC } from "./getRPC";
 import { TokenList } from "../types";
+import { getExistingLogoUri } from "./getExistingLogoUri";
+import { ChainId } from "@angleprotocol/sdk";
 
 interface TokenInfo {
         address: string;
@@ -30,14 +32,16 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
         logoURI: ""
     };
 
+    const TOKEN_LIST: TokenList = ERC20_LIST[0] as TokenList;
     const RPCList:any = await getRPC(Number(chainId));
-    if(show === "true"){
-        console.log("RPC list : ", RPCList)
-    }
-
+    
+    
     for(let i in RPCList){
         try {
             let currentRPC = RPCList[i]
+            if(show === "true"){
+                console.log("Current RPC : ", currentRPC)
+            }
             const provider = new ethers.providers.JsonRpcProvider(currentRPC);
         
             const abi = [
@@ -45,7 +49,6 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
                 'function symbol() view returns (string memory)',
                 'function decimals() view returns (uint8)',
             ];
-        
             const contract = new ethers.Contract(tokenAdress, abi, provider);
             tokenInfo.address = tokenAdress;
             tokenInfo.name =  await contract.name();
@@ -67,10 +70,18 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
         }
     }
 
-    if(logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"){
+    let ExistingLogoUri= "";
+
+    if (!!tokenInfo.symbol){
+        ExistingLogoUri = getExistingLogoUri(tokenInfo.symbol)
+    }
+    if (logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png" &&(logoURI as string)!== "default"){
         tokenInfo.logoURI = `https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/${logoURI}`
-    }else{
-        tokenInfo.logoURI = logoURI
+    }
+    else if(!!ExistingLogoUri && (logoURI as string)!== "default"){
+        tokenInfo.logoURI = ExistingLogoUri
+    }else {
+        tokenInfo.logoURI = "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
     }
     if(description !== "toFill"){
         tokenInfo.description = description
