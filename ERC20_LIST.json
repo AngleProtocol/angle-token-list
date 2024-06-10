@@ -1223,6 +1223,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://etherscan.io/token/images/gearbox_32.jpg"
+      },
+      "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E": {
+        "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+        "name": "Curve.Fi USD Stablecoin",
+        "decimals": 18,
+        "symbol": "crvUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.png"
       }
     },
     "10": {
@@ -2937,7 +2946,7 @@
         "symbol": "KAI",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KAI.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KAI.svg"
       }
     },
     "13371": {
