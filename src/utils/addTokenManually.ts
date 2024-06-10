@@ -1,7 +1,7 @@
 
 import ERC20_LIST from "../../ERC20_LIST.json";
 import { TokenList } from "../types";
-
+import { getExistingLogoUri } from "./getExistingLogoUri";
 interface TokenInfo {
     address: string;
     name: string;
@@ -29,10 +29,17 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         logoURI: "",
     };
 
+    
     tokenInfo.address = tokenAdress;
     tokenInfo.name =  tokenName;
     tokenInfo.decimals = tokenDecimals;
     tokenInfo.symbol = tokenSymbol;
+    const TOKEN_LIST: TokenList = ERC20_LIST[0] as TokenList;
+
+    if (TOKEN_LIST[chainId][tokenAdress] !== null){
+        console.error("The token you want to add  already exists, the modification is not automated yet");
+        process.exit(1)
+    }
     if (inSwap == "false"){
         tokenInfo.useInSwap = false
     } else {
@@ -44,9 +51,19 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
         tokenInfo.hasPermit = true
         tokenInfo.permitVersion = permitVersion
     }
-    if(logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"){
+    let ExistingLogoUri= "";
+
+    if (!!tokenInfo.symbol){
+        ExistingLogoUri = getExistingLogoUri(tokenInfo.symbol)
+    }
+    if (logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"){
         tokenInfo.logoURI = `https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/${logoURI}`
-    }else{
+    }
+    else if(!!ExistingLogoUri){
+        console.log("There is a token in the list with the same symbol !")
+        console.log(`The following logoUri will be used : ${ExistingLogoUri}`)
+        tokenInfo.logoURI = ExistingLogoUri
+    }else {
         tokenInfo.logoURI = logoURI
     }
     if(description !== "toFill"){

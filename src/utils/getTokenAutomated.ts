@@ -3,6 +3,8 @@ const { ethers } = require('ethers');
 import ERC20_LIST from "../../ERC20_LIST.json";
 import { getRPC } from "./getRPC";
 import { TokenList } from "../types";
+import { getExistingLogoUri } from "./getExistingLogoUri";
+import { ChainId } from "@angleprotocol/sdk";
 
 interface TokenInfo {
         address: string;
@@ -30,11 +32,15 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
         logoURI: ""
     };
 
+    const TOKEN_LIST: TokenList = ERC20_LIST[0] as TokenList;
     const RPCList:any = await getRPC(Number(chainId));
     if(show === "true"){
         console.log("RPC list : ", RPCList)
     }
-
+    if (TOKEN_LIST[chainId][tokenAdress] !== null){
+        console.error("The token you want to add  already exists, the modification is not automated yet");
+        process.exit(1)
+    }
     for(let i in RPCList){
         try {
             let currentRPC = RPCList[i]
@@ -67,10 +73,19 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
         }
     }
 
-    if(logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"){
+    let ExistingLogoUri= "";
+
+    if (!!tokenInfo.symbol){
+        ExistingLogoUri = getExistingLogoUri(tokenInfo.symbol)
+    }
+    console.log(logoURI)
+    if (logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png" &&(logoURI as string)!== "default"){
         tokenInfo.logoURI = `https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/${logoURI}`
-    }else{
-        tokenInfo.logoURI = logoURI
+    }
+    else if(!!ExistingLogoUri && (logoURI as string)!== "default"){
+        tokenInfo.logoURI = ExistingLogoUri
+    }else {
+        tokenInfo.logoURI = "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
     }
     if(description !== "toFill"){
         tokenInfo.description = description
