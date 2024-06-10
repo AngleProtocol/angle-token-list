@@ -2739,6 +2739,15 @@
       }
     },
     "8453": {
+      "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015": {
+        "address": "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015",
+        "name": "Angle Governance Token",
+        "decimals": 18,
+        "symbol": "ANGLE",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+      },
       "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D": {
         "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
         "name": "Epoch",
