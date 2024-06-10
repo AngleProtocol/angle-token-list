@@ -1215,8 +1215,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SKL.svg"
       },
-      "0xba3335588d9403515223f109edc4eb7269a9ab5d": {
-        "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
+      "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D": {
+        "address": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
         "name": "Gearbox",
         "decimals": 18,
         "symbol": "GEAR",
@@ -2929,6 +2929,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARIA20.svg"
+      },
+      "0x3c3860d89b81c91974Fc1f8A41aeEef604c17058": {
+        "address": "0x3c3860d89b81c91974Fc1f8A41aeEef604c17058",
+        "name": "Kinetix Finance",
+        "decimals": 18,
+        "symbol": "KAI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KAI.svg"
       }
     },
     "13371": {
