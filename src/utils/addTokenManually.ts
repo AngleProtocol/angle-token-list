@@ -35,11 +35,7 @@ export async function addTokenManually(chainId : string, tokenAdress : string, p
     tokenInfo.decimals = tokenDecimals;
     tokenInfo.symbol = tokenSymbol;
     const TOKEN_LIST: TokenList = ERC20_LIST[0] as TokenList;
-
-    if (TOKEN_LIST[chainId][tokenAdress] !== null){
-        console.error("The token you want to add  already exists, the modification is not automated yet");
-        process.exit(1)
-    }
+    
     if (inSwap == "false"){
         tokenInfo.useInSwap = false
     } else {

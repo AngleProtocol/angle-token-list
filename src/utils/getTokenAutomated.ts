@@ -34,16 +34,14 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
 
     const TOKEN_LIST: TokenList = ERC20_LIST[0] as TokenList;
     const RPCList:any = await getRPC(Number(chainId));
-    if(show === "true"){
-        console.log("RPC list : ", RPCList)
-    }
-    if (TOKEN_LIST[chainId][tokenAdress] !== null){
-        console.error("The token you want to add  already exists, the modification is not automated yet");
-        process.exit(1)
-    }
+    
+    
     for(let i in RPCList){
         try {
             let currentRPC = RPCList[i]
+            if(show === "true"){
+                console.log("Current RPC : ", currentRPC)
+            }
             const provider = new ethers.providers.JsonRpcProvider(currentRPC);
         
             const abi = [
@@ -51,7 +49,6 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
                 'function symbol() view returns (string memory)',
                 'function decimals() view returns (uint8)',
             ];
-        
             const contract = new ethers.Contract(tokenAdress, abi, provider);
             tokenInfo.address = tokenAdress;
             tokenInfo.name =  await contract.name();
@@ -78,7 +75,6 @@ export async function getTokenAutomated(chainId : string, tokenAdress : string, 
     if (!!tokenInfo.symbol){
         ExistingLogoUri = getExistingLogoUri(tokenInfo.symbol)
     }
-    console.log(logoURI)
     if (logoURI !== "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png" &&(logoURI as string)!== "default"){
         tokenInfo.logoURI = `https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/${logoURI}`
     }

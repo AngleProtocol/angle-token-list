@@ -32,8 +32,11 @@ export async function getPreviewURI(chainId : string, tokenAdress : string ) {
     }
     if (!!symbol){
             ExistingLogoUri = getExistingLogoUri(symbol)
-            console.log("There is a token in the list with the same symbol !")
-            console.log(`The following logoUri will be used : ${ExistingLogoUri} , if you don't want it to be used, write the right one in the next question or default to use angle icon`)
+            if (!!ExistingLogoUri){
+                console.log("There is a token in the list with the same symbol !")
+                console.log(`The following logoUri will be used : ${ExistingLogoUri} , if you don't want it to be used, write the right one in the next question or default to use angle icon`)
+            }
+          
     }
     return symbol;
 }
