@@ -2741,7 +2741,7 @@
     "8453": {
       "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015": {
         "address": "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015",
-        "name": "Angle Governance Token",
+        "name": "ANGLE",
         "decimals": 18,
         "symbol": "ANGLE",
         "useInSwap": false,
