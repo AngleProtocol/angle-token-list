@@ -21,7 +21,7 @@ echo "Type of script:"
 
 add_to_array() {
     while true; do
-        read -p "Enter underlying tokens (or type 'exit' or 'q' to finish): " value
+        read -r -p "Enter underlying tokens (or type 'exit' or 'q' to finish): " value
         if [[ "$value" = "exit" ]] || [[ "$value" = "q" ]]; then
             break
         elif [ -z "$value" ]; then
@@ -42,7 +42,7 @@ echo "-----------"
 
 
 while true; do
-read -p "Enter the chainId: " CHAINID
+read -r -p "Enter the chainId: " CHAINID
 
 if [[ ! $CHAINID =~ ^[0-9]*$ ]] || [[ -z $CHAINID ]]; then
     echo "$CHAINID must be numbers"
@@ -51,11 +51,11 @@ if [[ ! $CHAINID =~ ^[0-9]*$ ]] || [[ -z $CHAINID ]]; then
     fi 
 done 
 
-bun run ./src/functions/showName.ts $CHAINID
+bun run ./src/functions/showName.ts "$CHAINID"
 echo "-----------"
 
 while true; do
-read -p "Enter the Token address: " TOKENADDRESS
+read -r -p "Enter the Token address: " TOKENADDRESS
 if [[ ! $TOKENADDRESS =~ ^(0x)?[0-9a-fA-F]{40}$ ]]; then
     echo "$TOKENADDRESS isn't a valid address"
     else 
@@ -65,12 +65,12 @@ done
 
 echo "-----------"
 
-read -p "Has the token a permit ? (y/n) (false as default) " HASPERMIT
+read -r -p "Has the token a permit ? (y/n) (false as default) " HASPERMIT
 if [[ $HASPERMIT == "y" ]]; then
     PERMIT="true"
     
     while true; do
-    read -p "What's the permit version ? (ex: 1,2...) " PERMITVERSION
+    read -r -p "What's the permit version ? (ex: 1,2...) " PERMITVERSION
     if [[ ! $PERMITVERSION =~ ^[0-9]*$ ]]; then
         echo "$PERMITVERSION must be numbers"
         else 
@@ -80,7 +80,7 @@ if [[ $HASPERMIT == "y" ]]; then
 fi
 echo "-----------"
 
-read -p "Is it used in swap ? (y/n) (false as default) " HASINSWAP
+read -r -p "Is it used in swap ? (y/n) (false as default) " HASINSWAP
 if [[ $HASINSWAP == "y" ]]; then
     INSWAP="true"
 fi
@@ -90,7 +90,7 @@ echo "-----------"
 if [[ $SERVICE == "Manual" ]]; then
 
     while true; do
-    read -p "what's the token name ? : " TOKENNAME
+    read -r -p "what's the token name ? : " TOKENNAME
     if [[ -z $TOKENNAME ]]; then
         echo "$TOKENNAME isn't a valid address"
         else 
@@ -103,7 +103,7 @@ if [[ $SERVICE == "Manual" ]]; then
     while true; do
     
 
-    read -p "what's the token decimals? : " TOKENDECIMALS
+    read -r -p "what's the token decimals? : " TOKENDECIMALS
     if [[ ! $TOKENDECIMALS =~ ^[0-9]*$ ]] || [[ -z $TOKENDECIMALS ]]; then
         echo "$TOKENDECIMALS must be numbers"
         else 
@@ -115,7 +115,7 @@ if [[ $SERVICE == "Manual" ]]; then
 
     while true; do
 
-    read -p "what's the token symbol ? : " TOKENSYMBOL
+    read -r -p "what's the token symbol ? : " TOKENSYMBOL
     if [[ -z $TOKENSYMBOL ]]; then
         echo "$TOKENSYMBOL can't be null"
         else 
@@ -125,28 +125,33 @@ if [[ $SERVICE == "Manual" ]]; then
     echo "-----------"
 fi
 
-bun run ./src/utils/getPreviewURI.ts $CHAINID $TOKENADDRESS
+bun run ./src/utils/getPreviewURI.ts "$CHAINID" "$TOKENADDRESS" "$TOKENSYMBOL"
+if [[ $? == 1 ]]; then
+    exit
+fi
 
-read -p "Enter the logo URI (example ANGLE.svg) (default is angle token logo): " HASLOGOURI
-if [[ ! -z $HASLOGOURI ]]; then
+
+
+read -r -p "Enter the logo URI (example ANGLE.svg) (default is angle token logo if no logoURI has been found): " HASLOGOURI
+if [[ -n $HASLOGOURI ]]; then
     LOGOURI=$HASLOGOURI
 fi
 echo "-----------"
 
-read -p "Do you need to add a description, wrapping method or underlying tokens ? (y/n) (false default) " MORE
+read -r -p "Do you need to add a description, wrapping method or underlying tokens ? (y/n) (false default) " MORE
 if [[ $MORE == "y" ]]; then
     echo "-----------"
-    read -p "What's the token description ? (press enter if none) " HASDESCRIPTION
-    if [[ ! -z $HASDESCRIPTION ]]; then
+    read -r -p "What's the token description ? (press enter if none) " HASDESCRIPTION
+    if [[ -n $HASDESCRIPTION ]]; then
       DESCRIPTION=$HASDESCRIPTION
     fi
     echo "-----------"
-    read -p "What's the Wrapping method ? (press enter if none) " HASWRAPPER
-    if [[ ! -z $HASWRAPPER ]]; then
+    read -r -p "What's the Wrapping method ? (press enter if none) " HASWRAPPER
+    if [[ -n $HASWRAPPER ]]; then
       WRAPPER=$HASWRAPPER
     fi
     echo "-----------"
-    read -p "Has it underlying tokens ? (y/n) (press enter if none) " HASUNDERLYINGTOKENS
+    read -r -p "Has it underlying tokens ? (y/n) (press enter if none) " HASUNDERLYINGTOKENS
     if [[ $HASUNDERLYINGTOKENS == "y" ]]; then
         add_to_array
     fi
@@ -155,18 +160,18 @@ fi
 
 echo "-----------"
 
-bun run ./src/functions/getTokenInfo.ts $CHAINID $TOKENADDRESS $PERMIT $INSWAP $LOGOURI $SERVICE $TOKENNAME $TOKENDECIMALS $TOKENSYMBOL $PERMITVERSION $DESCRIPTION $WRAPPER ${UNDERLYINGTOKENS[0]} ${UNDERLYINGTOKENS[1]} ${UNDERLYINGTOKENS[2]}
+bun run ./src/functions/getTokenInfo.ts "$CHAINID" "$TOKENADDRESS" $PERMIT $INSWAP "$LOGOURI" "$SERVICE" "$TOKENNAME" "$TOKENDECIMALS" "$TOKENSYMBOL" "$PERMITVERSION" "$DESCRIPTION" "$WRAPPER" "${UNDERLYINGTOKENS[0]}" "${UNDERLYINGTOKENS[1]}" "${UNDERLYINGTOKENS[2]}"
 
 echo "-----------"
 
-read -p "Does this token info correspond to the wanted token ? (y/n) (true as default) " CONFIRMATION
+read -r -p "Does this token info correspond to the wanted token ? (y/n) (true as default) " CONFIRMATION
 if [[ $CONFIRMATION == "n" ]]; then
     echo "Please rerun the command in manual mode"
     exit 0
 fi
 echo "-----------"
 
-bun run ./src/functions/writeList.ts $CHAINID $TOKENADDRESS $PERMIT $INSWAP $LOGOURI $SERVICE $TOKENNAME $TOKENDECIMALS $TOKENSYMBOL $PERMITVERSION $DESCRIPTION $WRAPPER ${UNDERLYINGTOKENS[0]} ${UNDERLYINGTOKENS[1]} ${UNDERLYINGTOKENS[2]}
+bun run ./src/functions/writeList.ts "$CHAINID" "$TOKENADDRESS" $PERMIT $INSWAP "$LOGOURI" "$SERVICE" "$TOKENNAME" "$TOKENDECIMALS" "$TOKENSYMBOL" "$PERMITVERSION" "$DESCRIPTION" "$WRAPPER" "${UNDERLYINGTOKENS[0]}" "${UNDERLYINGTOKENS[1]}" "${UNDERLYINGTOKENS[2]}"
 
 yarn validate
 
