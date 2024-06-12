@@ -1432,6 +1432,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
+      },
+      "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85": {
+        "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "30": {
@@ -1719,6 +1728,15 @@
         "hasPermit": true,
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
+      },
+      "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": {
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "decimals": 6,
+        "hasPermit": false,
+        "logoURI": "https: //raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "useInSwap": true
       }
     },
     "108": {
@@ -2103,12 +2121,12 @@
       },
       "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359": {
         "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "name": "USD Coin",
         "decimals": 6,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
-        "name": "USD Coin (PoS)",
         "symbol": "USDC",
-        "useInSwap": true
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       },
       "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174": {
         "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
