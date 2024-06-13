@@ -1185,6 +1185,30 @@
         "wrappingMethod": "Pendle",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PTweETH.svg"
       },
+      "0x6ee2b5E19ECBa773a352E5B21415Dc419A700d1d": {
+        "address": "0x6ee2b5E19ECBa773a352E5B21415Dc419A700d1d",
+        "underlyingTokens": [
+          "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee"
+        ],
+        "name": "PT ether.fi weETH 26DEC2024",
+        "decimals": 18,
+        "symbol": "PT-weETH-26DEC2024",
+        "hasPermit": false,
+        "wrappingMethod": "Pendle",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PTweETH.svg"
+      },
+      "0xf7906F274c174A52d444175729E3fa98f9bde285": {
+        "address": "0xf7906F274c174A52d444175729E3fa98f9bde285",
+        "underlyingTokens": [
+          "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110"
+        ],
+        "name": "PT ether.fi ezETH 26DEC2024",
+        "decimals": 18,
+        "symbol": "PT-ezETH-26DEC2024",
+        "hasPermit": false,
+        "wrappingMethod": "Pendle",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PTweETH.svg"
+      },
       "0xa0021EF8970104c2d008F38D92f115ad56a9B8e1": {
         "address": "0xa0021EF8970104c2d008F38D92f115ad56a9B8e1",
         "underlyingTokens": [
