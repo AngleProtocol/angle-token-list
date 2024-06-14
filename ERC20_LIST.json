@@ -3860,6 +3860,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0x4186BFC76E2E237523CBC30FD220FE055156b41F": {
+        "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+        "name": "KelpDao Restaked ETH",
+        "decimals": 18,
+        "symbol": "rsETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
       }
     },
     "42220": {
