@@ -2705,6 +2705,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x0000000000000000000000000000000000000802": {
+        "address": "0x0000000000000000000000000000000000000802",
+        "name": "GLMR token",
+        "decimals": 18,
+        "symbol": "GLMR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GLMR.png"
       }
     },
     "1329": {
@@ -3923,6 +3932,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
+      },
+      "0x47c031236e19d024b42f8AE6780E44A573170703": {
+        "address": "0x47c031236e19d024b42f8AE6780E44A573170703",
+        "name": "gmBTC",
+        "decimals": 18,
+        "symbol": "gmBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+      },
+      "0x70d95587d40A2caf56bd97485aB3Eec10Bee6336": {
+        "address": "0x70d95587d40A2caf56bd97485aB3Eec10Bee6336",
+        "name": "gmETH",
+        "decimals": 18,
+        "symbol": "gmETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
       }
     },
     "42220": {
