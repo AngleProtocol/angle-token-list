@@ -3045,7 +3045,7 @@
     "34443": {
       "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c": {
         "address": "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c",
-        "name": "EURA (previously agEUR)",
+        "name": "EURA",
         "decimals": 18,
         "symbol": "EURA",
         "hasPermit": true,
@@ -3063,7 +3063,7 @@
       },
       "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
         "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-        "name": "USDA (previously agUSD)",
+        "name": "USDA",
         "decimals": 18,
         "symbol": "USDA",
         "hasPermit": true,
