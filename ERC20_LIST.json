@@ -3106,15 +3106,6 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
-      "0x49D05c1D089098AfE9BBaeE7712a8817614911fA": {
-        "address": "0x49D05c1D089098AfE9BBaeE7712a8817614911fA",
-        "name": "Uniswap Token",
-        "decimals": 18,
-        "symbol": "UNI",
-        "useInSwap": false,
-        "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
-      },
       "0xf0F161fDA2712DB8b566946122a5af183995e2eD": {
         "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
         "name": "Tether USD",
@@ -4222,6 +4213,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GLORY.png"
+      },
+      "0x49D05c1D089098AfE9BBaeE7712a8817614911fA": {
+        "address": "0x49D05c1D089098AfE9BBaeE7712a8817614911fA",
+        "name": "Uniswap Token",
+        "decimals": 18,
+        "symbol": "UNI",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
       },
       "0x4300000000000000000000000000000000000004": {
         "address": "0x4300000000000000000000000000000000000004",
