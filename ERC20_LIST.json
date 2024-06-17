@@ -1256,6 +1256,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CRV.png"
+      },
+      "0x82967568A57625675b260Ebab1294038C9ACcC6e": {
+        "address": "0x82967568A57625675b260Ebab1294038C9ACcC6e",
+        "name": "Nova DAO",
+        "decimals": 18,
+        "symbol": "NOVA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NOVA.svg"
       }
     },
     "10": {
@@ -2451,6 +2460,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AMBO.svg"
+      },
+      "0x119fd89E56e3845B520644dCEDf4A86Cd0B66aA6": {
+        "address": "0x119fd89E56e3845B520644dCEDf4A86Cd0B66aA6",
+        "name": "Nova DAO",
+        "decimals": 18,
+        "symbol": "NOVA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NOVA.svg"
       }
     },
     "169": {
