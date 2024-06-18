@@ -4451,6 +4451,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xb56C29413AF8778977093B9B4947efEeA7136C36": {
+        "address": "0xb56C29413AF8778977093B9B4947efEeA7136C36",
+        "name": "Torque",
+        "decimals": 18,
+        "symbol": "TORQ",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TORQ.svg"
       }
     }
   }
