@@ -3250,6 +3250,24 @@
         "symbol": "MOCHAD",
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MOCHAD.png"
+      },
+      "0xFb68BBfaEF679C1E653b5cE271a0A383c0df6B45": {
+        "address": "0xFb68BBfaEF679C1E653b5cE271a0A383c0df6B45",
+        "name": "Swap Mode Escrowed Token",
+        "decimals": 18,
+        "symbol": "xSMD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SMD.png"
+      },
+      "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB": {
+        "address": "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB",
+        "name": "Swap Mode",
+        "decimals": 18,
+        "symbol": "SMD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SMD.png"
       }
     },
     "42161": {
