@@ -4304,6 +4304,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDB.png"
+      },
+      "0xe6A062fba3918376500A602c800b1E0307420457": {
+        "address": "0xe6A062fba3918376500A602c800b1E0307420457",
+        "name": "GREED",
+        "decimals": 18,
+        "symbol": "GREED",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GREED.png"
       }
     },
     "167000": {
