@@ -1268,6 +1268,15 @@
       }
     },
     "10": {
+      "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": {
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "name": "Tether USD",
+        "decimals": 18,
+        "symbol": "USDT",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
         "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
         "name": "EURA (previously agEUR)",
