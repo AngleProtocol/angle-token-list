@@ -2875,6 +2875,24 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
       },
+      "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E": {
+        "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
+        "name": "Staked FRAX",
+        "decimals": 18,
+        "symbol": "sFRAX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sFRAX.svg"
+      },
+      "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A": {
+        "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+        "name": "Staked Frax Ether",
+        "decimals": 18,
+        "symbol": "sfrxETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sfrxETH.png"
+      },
       "0x42069d11A2CC72388a2e06210921E839Cfbd3280": {
         "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
         "name": "GnomeLand",
