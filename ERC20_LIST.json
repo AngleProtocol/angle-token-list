@@ -2839,6 +2839,15 @@
       }
     },
     "8453": {
+      "0xaBc44F1711C94CB72b96bf7dC24b567886359d71": {
+        "address": "0xaBc44F1711C94CB72b96bf7dC24b567886359d71",
+        "name": "Radiant MTW",
+        "decimals": 18,
+        "symbol": "mtwRDNT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+      },
       "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015": {
         "address": "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015",
         "name": "ANGLE",
