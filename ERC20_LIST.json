@@ -2836,6 +2836,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oCRST.png"
+      },
+      "0x6965A4F636Bb07dd8bED9174E885A0F7E7879308": {
+        "address": "0x6965A4F636Bb07dd8bED9174E885A0F7E7879308",
+        "name": "Pre Launch Crust Token",
+        "decimals": 18,
+        "symbol": "preCRST",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oCRST.png"
       }
     },
     "8453": {
