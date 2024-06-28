@@ -2839,6 +2839,15 @@
       }
     },
     "8453": {
+      "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4": {
+        "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
+        "name": "Radiant Token",
+        "decimals": 18,
+        "symbol": "RDNT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+      },
       "0xaBc44F1711C94CB72b96bf7dC24b567886359d71": {
         "address": "0xaBc44F1711C94CB72b96bf7dC24b567886359d71",
         "name": "Radiant MTW",
