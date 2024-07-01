@@ -4004,6 +4004,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+      },
+      "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704": {
+        "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+        "name": "VelaToken",
+        "decimals": 18,
+        "symbol": "VELA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/VELA.png"
       }
     },
     "42220": {
