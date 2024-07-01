@@ -3083,6 +3083,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KAI.svg"
+      },
+      "0xDDf7d080C82b8048BAAe54e376a3406572429b4e": {
+        "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+        "name": "GODDOG",
+        "decimals": 18,
+        "symbol": "oooOOO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oooOOO.png"
       }
     },
     "13371": {
@@ -4544,6 +4553,15 @@
         "useInSwap": true,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+      },
+      "0xDDf7d080C82b8048BAAe54e376a3406572429b4e": {
+        "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+        "name": "GODDOG",
+        "decimals": 18,
+        "symbol": "oooOOO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oooOOO.png"
       }
     },
     "1482601649": {
