@@ -185,7 +185,7 @@
         "name": "Aave Ethereum USDC",
         "decimals": 6,
         "symbol": "aUSDC",
-        "useInSwap": true,
+        "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
