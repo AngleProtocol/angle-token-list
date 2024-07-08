@@ -2005,6 +2005,7 @@
       "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1": {
         "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
         "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MAI.png",
         "hasPermit": false,
         "name": "miMATIC",
         "symbol": "MAI",
