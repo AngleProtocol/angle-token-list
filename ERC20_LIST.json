@@ -2554,6 +2554,33 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xFC00000000000000000000000000000000000005": {
+        "address": "0xFC00000000000000000000000000000000000005",
+        "name": "Staked Frax Ether",
+        "decimals": 18,
+        "symbol": "sfrxETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
+      },
+      "0xFC00000000000000000000000000000000000006": {
+        "address": "0xFC00000000000000000000000000000000000006",
+        "name": "Wrapped Frax Ether",
+        "decimals": 18,
+        "symbol": "wfrxETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
+      },
+      "0xfc00000000000000000000000000000000000008": {
+        "address": "0xfc00000000000000000000000000000000000008",
+        "name": "Staked Frax",
+        "decimals": 18,
+        "symbol": "sFRAX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
       }
     },
     "324": {
@@ -3325,6 +3352,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SMD.png"
+      },
+      "0x80137510979822322193FC997d400D5A6C747bf7": {
+        "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+        "name": "StakeStone Ether",
+        "decimals": 18,
+        "symbol": "STONE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STONE.png"
       }
     },
     "42161": {
