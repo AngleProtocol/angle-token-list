@@ -2581,6 +2581,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
+      },
+      "0x09eAdcBAa812A4C076c3a6cDe765DC4a22E0d775": {
+        "address": "0x09eAdcBAa812A4C076c3a6cDe765DC4a22E0d775",
+        "name": "Savings Dai",
+        "decimals": 18,
+        "symbol": "sDAI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sDAI.png"
       }
     },
     "324": {
