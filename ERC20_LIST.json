@@ -4108,6 +4108,51 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x471EcE3750Da237f93B8E339c536989b8978a438": {
+        "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+        "name": "Celo native asset",
+        "decimals": 18,
+        "symbol": "CELO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CELO.png"
+      },
+      "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e": {
+        "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USD₮",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73": {
+        "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+        "name": "Celo Euro",
+        "decimals": 18,
+        "symbol": "cEUR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CEUR.png"
+      },
+      "0x765DE816845861e75A25fCA122bb6898B8B1282a": {
+        "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+        "name": "Celo Dollar",
+        "decimals": 18,
+        "symbol": "cUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CUSD.png"
+      },
+      "0xcebA9300f2b948710d2653dD7B07f33A8B32118C": {
+        "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+        "name": "USDC",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "43114": {
