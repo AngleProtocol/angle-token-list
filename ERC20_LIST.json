@@ -1265,6 +1265,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NOVA.svg"
+      },
+      "0x99F6539Df9840592a862ab916dDc3258a1D7a773": {
+        "address": "0x99F6539Df9840592a862ab916dDc3258a1D7a773",
+        "name": "High Yield ETH Index PRT",
+        "decimals": 18,
+        "symbol": "prtHyETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "10": {
