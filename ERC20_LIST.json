@@ -4106,6 +4106,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
+      "0xD8f3e2001152B3614C532260aBF5522c4e762d8B": {
+        "address": "0xD8f3e2001152B3614C532260aBF5522c4e762d8B",
+        "name": "A51 Call Option Token",
+        "decimals": 18,
+        "symbol": "oA51",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oA51.svg"
       }
     },
     "42220": {
