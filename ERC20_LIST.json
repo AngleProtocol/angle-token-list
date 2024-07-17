@@ -3149,6 +3149,37 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oooOOO.png"
+      },
+      "0x2416092f143378750bb29b79eD961ab195CcEea5": {
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "name": "Renzo Restaked ETH",
+        "decimals": 18,
+        "symbol": "ezETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ezETH.png"
+      },
+      "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A": {
+        "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+        "name": "Wrapped eETH",
+        "decimals": 18,
+        "symbol": "weETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca": {
+        "address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
+        "name": "Moonwell Flagship USDC",
+        "decimals": 18,
+        "symbol": "mwUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
+        "wrappingMethod": "ERC4626",
+        "underlyingTokens": [
+          "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+        ]
       }
     },
     "13371": {
