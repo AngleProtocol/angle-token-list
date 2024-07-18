@@ -4599,6 +4599,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
+      "0x26F470E4b777ea4cD09f550D3E904D707df6763D": {
+        "address": "0x26F470E4b777ea4cD09f550D3E904D707df6763D",
+        "name": "Super",
+        "decimals": 18,
+        "symbol": "SUPER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "167000": {
