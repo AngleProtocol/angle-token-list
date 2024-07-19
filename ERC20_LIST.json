@@ -4608,6 +4608,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x8976CECfa31714a546c2179fDb0457a86b37a3E6": {
+        "address": "0x8976CECfa31714a546c2179fDb0457a86b37a3E6",
+        "name": "TestToken",
+        "decimals": 18,
+        "symbol": "TEST",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "167000": {
