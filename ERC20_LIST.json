@@ -1283,6 +1283,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x9f18B4BE19919755Bb86bCAF6DE9F735BF13754b": {
+        "address": "0x9f18B4BE19919755Bb86bCAF6DE9F735BF13754b",
+        "name": "$ERA token",
+        "decimals": 18,
+        "symbol": "$ERA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/era.svg"
       }
     },
     "10": {
@@ -2507,14 +2516,23 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NOVA.svg"
       },
-      "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105": {
-        "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
-        "name": "Landshare Token",
+      "0xA8bF0B92BE0338794d2e3b180b9643A1f0eB2914": {
+        "address": "0xA8bF0B92BE0338794d2e3b180b9643A1f0eB2914",
+        "name": "$ERA token",
         "decimals": 18,
-        "symbol": "LAND",
+        "symbol": "$ERA",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LAND.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/era.svg"
+      },
+      "0xFf76c0B48363A7C7307868a81548d340049b0023": {
+        "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
+        "name": "DerbyStarsRUN",
+        "decimals": 18,
+        "symbol": "DSRUN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DSRUN.svg"
       }
     },
     "169": {
@@ -3437,6 +3455,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STONE.png"
+      },
+      "0x3B6eA0fA8A487c90007ce120a83920fd52b06f6D": {
+        "address": "0x3B6eA0fA8A487c90007ce120a83920fd52b06f6D",
+        "name": "ICL Call Option Token",
+        "decimals": 18,
+        "symbol": "oICL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ICL.png"
+      },
+      "0x95177295A394f2b9B04545FFf58f4aF0673E839d": {
+        "address": "0x95177295A394f2b9B04545FFf58f4aF0673E839d",
+        "name": "Ironclad Token",
+        "decimals": 18,
+        "symbol": "ICL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ICL.png"
       }
     },
     "42161": {
