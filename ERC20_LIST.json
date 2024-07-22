@@ -2506,6 +2506,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NOVA.svg"
+      },
+      "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105": {
+        "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
+        "name": "Landshare Token",
+        "decimals": 18,
+        "symbol": "LAND",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LAND.png"
       }
     },
     "169": {
