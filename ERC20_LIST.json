@@ -4209,6 +4209,69 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oA51.svg"
+      },
+      "0x9737C658272e66Faad39D7AD337789Ee6D54F500": {
+        "address": "0x9737C658272e66Faad39D7AD337789Ee6D54F500",
+        "name": "DefiPulse Index",
+        "decimals": 18,
+        "symbol": "DPI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DPI.svg"
+      },
+      "0x0104a6FA30540DC1d9F45D2797F05eEa79304525": {
+        "address": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525",
+        "name": "Metaverse Index",
+        "decimals": 18,
+        "symbol": "MVI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MVI.svg"
+      },
+      "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142": {
+        "address": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142",
+        "name": "High Yield ETH Index",
+        "decimals": 18,
+        "symbol": "hyETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/hyETH.svg"
+      },
+      "0xA0A17b2a015c14BE846C5d309D076379cCDfa543": {
+        "address": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543",
+        "name": "Index Coop Ethereum 3x Index",
+        "decimals": 18,
+        "symbol": "ETH3X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/eth3x.svg"
+      },
+      "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C": {
+        "address": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C",
+        "name": "Index Coop Ethereum 2x Index",
+        "decimals": 18,
+        "symbol": "ETH2X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/eth2x.svg"
+      },
+      "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6": {
+        "address": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6",
+        "name": "Index Coop Bitcoin 3x Index",
+        "decimals": 18,
+        "symbol": "BTC3X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/btc3x.svg"
+      },
+      "0xeb5bE62e6770137beaA0cC712741165C594F59D7": {
+        "address": "0xeb5bE62e6770137beaA0cC712741165C594F59D7",
+        "name": "Index Coop Bitcoin 2x Index",
+        "decimals": 18,
+        "symbol": "BTC2X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/btc2x.svg"
       }
     },
     "42220": {
