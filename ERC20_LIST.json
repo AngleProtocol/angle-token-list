@@ -3463,7 +3463,7 @@
         "symbol": "oICL",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ICL.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oICL.svg"
       },
       "0x95177295A394f2b9B04545FFf58f4aF0673E839d": {
         "address": "0x95177295A394f2b9B04545FFf58f4aF0673E839d",
