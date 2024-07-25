@@ -4281,6 +4281,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/btc2x.svg"
+      },
+      "0x5575552988A3A80504bBaeB1311674fCFd40aD4B": {
+        "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+        "name": "Sperax",
+        "decimals": 18,
+        "symbol": "SPA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SPA.png"
+      },
+      "0x0966E72256d6055145902F72F9D3B6a194B9cCc3": {
+        "address": "0x0966E72256d6055145902F72F9D3B6a194B9cCc3",
+        "name": "XSPA",
+        "decimals": 18,
+        "symbol": "xSPA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xSPA.png"
       }
     },
     "42220": {
