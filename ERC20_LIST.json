@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0x90DE74265a416e1393A450752175AED98fe11517": {
+        "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+        "name": "Unlock Discount Token",
+        "decimals": 18,
+        "symbol": "UDT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UDT.png"
+      },
       "0x607F4C5BB672230e8672085532f7e901544a7375": {
         "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
         "name": "iExec RLC",
@@ -185,7 +194,7 @@
         "name": "Aave Ethereum USDC",
         "decimals": 6,
         "symbol": "aUSDC",
-        "useInSwap": true,
+        "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
@@ -1274,6 +1283,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x9f18B4BE19919755Bb86bCAF6DE9F735BF13754b": {
+        "address": "0x9f18B4BE19919755Bb86bCAF6DE9F735BF13754b",
+        "name": "$ERA token",
+        "decimals": 18,
+        "symbol": "$ERA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/era.svg"
       }
     },
     "10": {
@@ -1867,6 +1885,15 @@
       }
     },
     "137": {
+      "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105": {
+        "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
+        "name": "Landshare Token",
+        "decimals": 18,
+        "symbol": "LAND",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LAND.png"
+      },
       "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472": {
         "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
         "name": "PolyDoge",
@@ -2488,6 +2515,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/NOVA.svg"
+      },
+      "0xA8bF0B92BE0338794d2e3b180b9643A1f0eB2914": {
+        "address": "0xA8bF0B92BE0338794d2e3b180b9643A1f0eB2914",
+        "name": "$ERA token",
+        "decimals": 18,
+        "symbol": "$ERA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/era.svg"
+      },
+      "0xFf76c0B48363A7C7307868a81548d340049b0023": {
+        "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
+        "name": "DerbyStarsRUN",
+        "decimals": 18,
+        "symbol": "DSRUN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DSRUN.svg"
       }
     },
     "169": {
@@ -3149,6 +3194,37 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oooOOO.png"
+      },
+      "0x2416092f143378750bb29b79eD961ab195CcEea5": {
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "name": "Renzo Restaked ETH",
+        "decimals": 18,
+        "symbol": "ezETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ezETH.png"
+      },
+      "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A": {
+        "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+        "name": "Wrapped eETH",
+        "decimals": 18,
+        "symbol": "weETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca": {
+        "address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
+        "name": "Moonwell Flagship USDC",
+        "decimals": 18,
+        "symbol": "mwUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg",
+        "wrappingMethod": "ERC4626",
+        "underlyingTokens": [
+          "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+        ]
       }
     },
     "13371": {
@@ -3379,6 +3455,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/STONE.png"
+      },
+      "0x3B6eA0fA8A487c90007ce120a83920fd52b06f6D": {
+        "address": "0x3B6eA0fA8A487c90007ce120a83920fd52b06f6D",
+        "name": "ICL Call Option Token",
+        "decimals": 18,
+        "symbol": "oICL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oICL.svg"
+      },
+      "0x95177295A394f2b9B04545FFf58f4aF0673E839d": {
+        "address": "0x95177295A394f2b9B04545FFf58f4aF0673E839d",
+        "name": "Ironclad Token",
+        "decimals": 18,
+        "symbol": "ICL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ICL.png"
       }
     },
     "42161": {
@@ -4115,6 +4209,78 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
+      "0xD8f3e2001152B3614C532260aBF5522c4e762d8B": {
+        "address": "0xD8f3e2001152B3614C532260aBF5522c4e762d8B",
+        "name": "A51 Call Option Token",
+        "decimals": 18,
+        "symbol": "oA51",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oA51.svg"
+      },
+      "0x9737C658272e66Faad39D7AD337789Ee6D54F500": {
+        "address": "0x9737C658272e66Faad39D7AD337789Ee6D54F500",
+        "name": "DefiPulse Index",
+        "decimals": 18,
+        "symbol": "DPI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DPI.svg"
+      },
+      "0x0104a6FA30540DC1d9F45D2797F05eEa79304525": {
+        "address": "0x0104a6FA30540DC1d9F45D2797F05eEa79304525",
+        "name": "Metaverse Index",
+        "decimals": 18,
+        "symbol": "MVI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MVI.svg"
+      },
+      "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142": {
+        "address": "0x8b5D1d8B3466eC21f8eE33cE63F319642c026142",
+        "name": "High Yield ETH Index",
+        "decimals": 18,
+        "symbol": "hyETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/hyETH.svg"
+      },
+      "0xA0A17b2a015c14BE846C5d309D076379cCDfa543": {
+        "address": "0xA0A17b2a015c14BE846C5d309D076379cCDfa543",
+        "name": "Index Coop Ethereum 3x Index",
+        "decimals": 18,
+        "symbol": "ETH3X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/eth3x.svg"
+      },
+      "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C": {
+        "address": "0x26d7D3728C6bb762a5043a1d0CeF660988Bca43C",
+        "name": "Index Coop Ethereum 2x Index",
+        "decimals": 18,
+        "symbol": "ETH2X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/eth2x.svg"
+      },
+      "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6": {
+        "address": "0x3bDd0d5c0C795b2Bf076F5C8F177c58e42beC0E6",
+        "name": "Index Coop Bitcoin 3x Index",
+        "decimals": 18,
+        "symbol": "BTC3X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/btc3x.svg"
+      },
+      "0xeb5bE62e6770137beaA0cC712741165C594F59D7": {
+        "address": "0xeb5bE62e6770137beaA0cC712741165C594F59D7",
+        "name": "Index Coop Bitcoin 2x Index",
+        "decimals": 18,
+        "symbol": "BTC2X",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/btc2x.svg"
       }
     },
     "42220": {
@@ -4568,6 +4734,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FXS.svg"
+      },
+      "0x26F470E4b777ea4cD09f550D3E904D707df6763D": {
+        "address": "0x26F470E4b777ea4cD09f550D3E904D707df6763D",
+        "name": "Super",
+        "decimals": 18,
+        "symbol": "SUPER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x8976CECfa31714a546c2179fDb0457a86b37a3E6": {
+        "address": "0x8976CECfa31714a546c2179fDb0457a86b37a3E6",
+        "name": "TestToken",
+        "decimals": 18,
+        "symbol": "TEST",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "167000": {
