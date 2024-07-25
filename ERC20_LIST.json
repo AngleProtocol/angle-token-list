@@ -194,7 +194,7 @@
         "name": "Aave Ethereum USDC",
         "decimals": 6,
         "symbol": "aUSDC",
-        "useInSwap": true,
+        "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
@@ -4147,6 +4147,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0x33C88D4caC6aC34F77020915a2a88cd0417dC069": {
+        "address": "0x33C88D4caC6aC34F77020915a2a88cd0417dC069",
+        "name": "USSD",
+        "decimals": 6,
+        "symbol": "USSD",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USSD.svg"
       },
       "0x4186BFC76E2E237523CBC30FD220FE055156b41F": {
         "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
