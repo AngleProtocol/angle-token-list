@@ -49,7 +49,21 @@ interface TokenInfo {
 
 ## Images guidelines
 
-- 400px wide maximum
-- If the file is vectorial, you can use SVG which is the most lightweight format. But sometimes, files are so complex than SVG can be heavier than JPG or PNG (if needs to manage transparency).
-So please take care of having a visual which is no more than 70Ko (which is already a lot).
-- Throw the images in ImageOptim to get the best compression/quality ratio
+- A token SVG file should be around 1ko or 2ko.
+- But sometimes it has to be converted into JPG/PNG, so let's fix a **limit of 70Ko per file** (which is a lot).
+- Reduce dimensions (in Figma) so that it fits a 400px square wide maximum (in 1x resolution, or 200px in 2x resolution).
+- Throw the images in [ImageOptim](https://imageoptim.com/mac) to get the best compression/quality ratio.
+
+
+### A few words about SVGs
+SVG is a vectorial format and is the most lightweight format, except in two situations:
+
+1. Some SVG files can contains so many vectors (such as Curve logo) that SVG can be heavier than JPG or PNG.
+2. If you open the SVG file with a code editor, you might sometimes notice a data:image base64 tag with thousands of code lines, it means that a JPG/PNG is encapsulated inside the SVG. So the SVG is not actually vectorial.
+
+In these two situations, you should convert the file into JPG or into PNG if it needs to support transparency.
+
+### How to convert images?
+
+1. Use Figma, and export the file in the good format.
+2. Sometimes, the SVG doesn't show in Figma. In this case, use an online converter such as [SVGtoPNG](https://svgtopng.com/), and pay attention to the output so that the file isn't cropped.
