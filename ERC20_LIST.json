@@ -2533,6 +2533,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DSRUN.svg"
+      },
+      "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D": {
+        "address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+        "name": "Forest Knight",
+        "decimals": 18,
+        "symbol": "KNIGHT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KNIGHT.png"
+      },
+      "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05": {
+        "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+        "name": "Sunflower Land",
+        "decimals": 18,
+        "symbol": "SFL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SFL.svg"
       }
     },
     "169": {
