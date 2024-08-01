@@ -165,6 +165,7 @@
         "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
         "name": "Mountain Protocol USD",
         "decimals": 18,
+        "description": "<p class=\"text-sm\">USDM is a yield-bearing regulated stablecoin issued by the Mountain Protocol and fully backed by US T-Bills.</p>",
         "symbol": "USDM",
         "useInSwap": true,
         "hasPermit": false,
