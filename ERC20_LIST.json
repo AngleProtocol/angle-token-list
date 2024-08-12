@@ -4336,6 +4336,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xSPA.png"
+      },
+      "0x7bEec60eF40fc2e8833cc88cc3050c7f577D76d8": {
+        "address": "0x7bEec60eF40fc2e8833cc88cc3050c7f577D76d8",
+        "name": "Akron Point Token",
+        "decimals": 18,
+        "symbol": "AKRONp",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/akron.svg"
       }
     },
     "42220": {
