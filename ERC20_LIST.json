@@ -2570,6 +2570,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SFL.png"
+      },
+      "0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220": {
+        "address": "0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
+        "name": "Wisdomise",
+        "decimals": 6,
+        "symbol": "WSDM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wsdm.svg"
       }
     },
     "169": {
