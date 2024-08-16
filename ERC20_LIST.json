@@ -3271,6 +3271,24 @@
         "underlyingTokens": [
           "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
         ]
+      },
+      "0x5dC25aA049837B696d1dc0F966aC8DF1491f819B": {
+        "address": "0x5dC25aA049837B696d1dc0F966aC8DF1491f819B",
+        "name": "KIM",
+        "decimals": 18,
+        "symbol": "KIM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kim.svg"
+      },
+      "0x7B8C5d97c25B65f89817E8046851A32e963fc9cD": {
+        "address": "0x7B8C5d97c25B65f89817E8046851A32e963fc9cD",
+        "name": "KIM Escrowed Token",
+        "decimals": 18,
+        "symbol": "xKIM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xKim.svg"
       }
     },
     "13371": {
