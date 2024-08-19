@@ -2710,6 +2710,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
+      "0x5f7CBcb391d33988DAD74D6Fd683AadDA1123E4D": {
+        "address": "0x5f7CBcb391d33988DAD74D6Fd683AadDA1123E4D",
+        "name": "ReactorFusion",
+        "decimals": 18,
+        "symbol": "RF",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RF.svg"
       }
     },
     "592": {
