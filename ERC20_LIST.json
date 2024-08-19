@@ -4919,6 +4919,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xA9d23408b9bA935c230493c40C73824Df71A0975": {
+        "address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
+        "name": "Taiko Token",
+        "decimals": 18,
+        "symbol": "TAIKO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TAIKO.svg"
       }
     },
     "534352": {
