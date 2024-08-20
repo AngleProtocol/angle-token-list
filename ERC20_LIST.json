@@ -3298,6 +3298,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xKim.svg"
+      },
+      "0x8C9037D1Ef5c6D1f6816278C7AAF5491d24CD527": {
+        "address": "0x8C9037D1Ef5c6D1f6816278C7AAF5491d24CD527",
+        "name": "Moxie",
+        "decimals": 18,
+        "symbol": "MOXIE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MOXIE.svg"
       }
     },
     "13371": {
