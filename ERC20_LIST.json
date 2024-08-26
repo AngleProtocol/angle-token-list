@@ -1637,9 +1637,9 @@
         "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "name": "Wrapped BNB",
         "decimals": 18,
-        "symbol": "wBNB",
-        "useInSwap": false,
+        "symbol": "WBNB",
         "hasPermit": false,
+        "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BNB.svg"
       },
       "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
