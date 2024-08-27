@@ -1704,7 +1704,7 @@
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
       "0x1C6F6e2b226D99af2C34d875a03E055492914442": {
         "address": "0x1C6F6e2b226D99af2C34d875a03E055492914442",
