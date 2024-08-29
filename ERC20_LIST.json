@@ -2891,6 +2891,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7": {
+        "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+        "name": "Wrapped SEI",
+        "decimals": 18,
+        "symbol": "WSEI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SEI.png"
       }
     },
     "3776": {
