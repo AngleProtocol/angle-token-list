@@ -2627,6 +2627,51 @@
       }
     },
     "196": {
+      "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c": {
+        "address": "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c",
+        "name": "EURA",
+        "decimals": 18,
+        "symbol": "EURA",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+      },
+      "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
+        "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+        "name": "Staked EURA",
+        "decimals": 18,
+        "symbol": "stEUR",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg"
+      },
+      "0x0000206329b97DB379d5E1Bf586BbDB969C63274": {
+        "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+        "name": "USDA",
+        "decimals": 18,
+        "symbol": "USDA",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+      },
+      "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776": {
+        "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+        "name": "Staked USDA",
+        "decimals": 18,
+        "symbol": "stUSD",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg"
+      },
+      "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015": {
+        "address": "0xAaaaAA19ddd491648Db2a31C32f2B2792DeC5015",
+        "name": "ANGLE",
+        "decimals": 18,
+        "symbol": "ANGLE",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+      },
       "0x22b0aC22D5d58F05873E470bCa5DB7Ceb5C47f5E": {
         "address": "0x22b0aC22D5d58F05873E470bCa5DB7Ceb5C47f5E",
         "name": "aglaMerkl",
