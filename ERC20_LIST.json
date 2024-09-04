@@ -3361,6 +3361,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MOXIE.svg"
+      },
+      "0x231e79e9d8742a53C5328a1CCbBB19308F7Ae59c": {
+        "address": "0x231e79e9d8742a53C5328a1CCbBB19308F7Ae59c",
+        "name": "Lambda",
+        "decimals": 18,
+        "symbol": "LMDA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LMDA.svg"
       }
     },
     "13371": {
