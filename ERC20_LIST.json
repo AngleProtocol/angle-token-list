@@ -3621,6 +3621,16 @@
       }
     },
     "42161": {
+      "0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6": {
+        "address": "0xB6093B61544572Ab42A0E43AF08aBaFD41bf25A6",
+        "name": "WeatherXM",
+        "decimals": 18,
+        "symbol": "WXM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "description": "<p class=\"text-sm\">WXM is the token used by the WeatherXM Network to reward weather stations and sell commerical usage rights for the Network's data</p>",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WXM.png"
+      },
       "0x10393c20975cF177a3513071bC110f7962CD67da": {
         "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
         "name": "Jones DAO",
