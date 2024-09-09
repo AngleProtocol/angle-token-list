@@ -1714,6 +1714,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+      },
+      "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf": {
+        "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+        "name": "Bitcoin Cash Token",
+        "decimals": 18,
+        "symbol": "BCH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bch.png"
       }
     },
     "100": {
