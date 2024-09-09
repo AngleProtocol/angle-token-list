@@ -1,0 +1,26 @@
+<svg width="640" height="640" viewBox="120 120 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M320 120L493.205 220V420L320 520L146.795 420V220L320 120Z" fill="black"></path>
+    <path opacity="0.6" d="M240.455 320L263.182 359.365H217.728L240.455 320Z" fill="white"></path>
+    <path opacity="0.4" d="M240.455 320L217.728 280.635H263.182L240.455 320Z" fill="white"></path>
+    <path opacity="0.65" d="M240.455 320H285.91L263.182 359.365L240.455 320Z" fill="white"></path>
+    <path opacity="0.7" d="M240.455 320L263.182 280.635L285.91 320H240.455Z" fill="white"></path>
+    <path opacity="0.55" d="M376.818 320H331.364L354.091 280.635L376.818 320Z" fill="white"></path>
+    <path opacity="0.65" d="M376.818 320L354.091 359.365L331.364 320H376.818Z" fill="white"></path>
+    <path opacity="0.9" d="M445 280.635H399.545L422.272 241.27L445 280.635Z" fill="white"></path>
+    <path opacity="0.75" d="M445 280.635L422.273 320L399.545 280.635H445Z" fill="white"></path>
+    <path opacity="0.45" d="M308.636 280.635H354.091L331.363 320L308.636 280.635Z" fill="white"></path>
+    <path opacity="0.9" d="M308.636 280.635H263.182L285.909 241.27L308.636 280.635Z" fill="white"></path>
+    <path opacity="0.3" d="M308.636 280.635L331.364 241.271L354.091 280.635H308.636Z" fill="white"></path>
+    <path opacity="0.75" d="M308.636 280.635L285.909 320L263.182 280.635H308.636Z" fill="white"></path>
+    <path opacity="0.5" d="M240.455 241.27L263.182 280.635H217.727L240.455 241.27Z" fill="white"></path>
+    <path opacity="0.6" d="M240.455 241.27L217.727 280.635L195 241.27L240.455 241.27Z" fill="white"></path>
+    <path opacity="0.3" d="M376.818 241.27L399.545 280.635H354.091L376.818 241.27Z" fill="white"></path>
+    <path opacity="0.95" d="M376.818 241.27L422.273 241.27L399.545 280.635L376.818 241.27Z" fill="white"></path>
+    <path opacity="0.45" d="M354.091 280.635L399.545 280.635L376.818 320L354.091 280.635Z" fill="white"></path>
+    <path opacity="0.55" d="M308.637 359.365L331.364 398.73H285.909L308.637 359.365Z" fill="white"></path>
+    <path opacity="0.3" d="M308.637 359.365H263.182L285.909 320L308.637 359.365Z" fill="white"></path>
+    <path opacity="0.45" d="M308.637 359.365L285.909 398.73L263.182 359.365H308.637Z" fill="white"></path>
+    <path opacity="0.55" d="M240.455 398.73L217.728 359.365H263.182L240.455 398.73Z" fill="white"></path>
+    <path opacity="0.5" d="M240.455 398.73H195L217.727 359.365L240.455 398.73Z" fill="white"></path>
+    <path opacity="0.95" d="M285.909 241.271L331.364 241.271L308.636 280.636L285.909 241.271Z" fill="white"></path>
+</svg>
