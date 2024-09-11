@@ -3388,6 +3388,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Mavia.png"
+      },
+      "0x7dBd14115bAf4240AAb8C4Ef31BF71F76c708420": {
+        "address": "0x7dBd14115bAf4240AAb8C4Ef31BF71F76c708420",
+        "name": "Wrapped UKRE",
+        "decimals": 18,
+        "symbol": "wUKRE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ukre.png"
       }
     },
     "13371": {
