@@ -4824,6 +4824,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2": {
+        "address": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
+        "name": "tBTC v2",
+        "decimals": 18,
+        "symbol": "tBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
       }
     },
     "81457": {
