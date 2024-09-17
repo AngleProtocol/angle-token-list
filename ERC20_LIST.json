@@ -4831,6 +4831,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/2_protocol-icon-only/4-colorback/PNG/angle-icon-colorback-black500.png"
+      },
+      "0x43E8809ea748EFf3204ee01F08872F063e44065f": {
+        "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+        "name": "Mendi Finance Token",
+        "decimals": 18,
+        "symbol": "MENDI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MENDI.svg"
       }
     },
     "60808": {
