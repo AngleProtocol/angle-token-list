@@ -1732,6 +1732,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bch.png"
+      },
+      "0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27": {
+        "address": "0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27",
+        "name": "why",
+        "decimals": 18,
+        "symbol": "WHY",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WHY.png"
       }
     },
     "100": {
