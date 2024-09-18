@@ -2972,6 +2972,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SEI.png"
+      },
+      "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1": {
+        "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+        "name": "USDC",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "3776": {
