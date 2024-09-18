@@ -27,11 +27,3 @@ jobs:
           rm -f ~/.npmrc
       - name: Validate JSON file
         run: yarn validate
-
-      - name: Discord notification (failure)
-        if: failure()
-        uses: Ilshidur/action-discord@master
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        with:
-          args: "Error token list format"
