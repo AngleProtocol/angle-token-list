@@ -4525,6 +4525,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wxm.svg"
+      },
+      "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8": {
+        "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+        "name": "Orderly Network",
+        "decimals": 18,
+        "symbol": "ORDER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/order.png"
       }
     },
     "42220": {
