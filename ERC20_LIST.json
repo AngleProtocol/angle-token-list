@@ -2990,6 +2990,51 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1": {
+        "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+        "name": "USDT",
+        "decimals": 6,
+        "symbol": "USDT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8": {
+        "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+        "name": "WETH",
+        "decimals": 18,
+        "symbol": "WETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0x80Eede496655FB9047dd39d9f418d5483ED600df": {
+        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+        "name": "Frax",
+        "decimals": 18,
+        "symbol": "FRAX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
+      },
+      "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0": {
+        "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+        "name": "Staked Frax",
+        "decimals": 18,
+        "symbol": "sFRAX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FRAX.svg"
+      },
+      "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050": {
+        "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+        "name": "Frax Ether",
+        "decimals": 18,
+        "symbol": "frxETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
       }
     },
     "3776": {
