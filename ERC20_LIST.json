@@ -3478,6 +3478,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ukre.png"
+      },
+      "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396": {
+        "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+        "name": "OVN",
+        "decimals": 18,
+        "symbol": "OVN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OVN.svg"
       }
     },
     "13371": {
