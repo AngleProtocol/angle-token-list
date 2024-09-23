@@ -4409,6 +4409,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USSD.svg"
       },
+      "0x0E8125Ffd845941EB5DB0B698B9C966C65623E80": {
+        "address": "0x0E8125Ffd845941EB5DB0B698B9C966C65623E80",
+        "name": "yUSSD",
+        "decimals": 6,
+        "symbol": "yUSSD",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USSD.svg"
+      },
       "0x4186BFC76E2E237523CBC30FD220FE055156b41F": {
         "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
         "name": "KelpDao Restaked ETH",
