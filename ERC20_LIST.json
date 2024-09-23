@@ -5079,6 +5079,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x992C2B67928C303E26ff2BD748521Df26DbDc57f": {
+        "address": "0x992C2B67928C303E26ff2BD748521Df26DbDc57f",
+        "name": "Super",
+        "decimals": 18,
+        "symbol": "SUPER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x9155442005A3D52fDAA28e9021A4444e040738C0": {
+        "address": "0x9155442005A3D52fDAA28e9021A4444e040738C0",
+        "name": "mockToken",
+        "decimals": 18,
+        "symbol": "mockToken",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "167000": {
