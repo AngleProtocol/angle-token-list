@@ -4606,6 +4606,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/order.png"
+      },
+      "0xF2EB32c64b97E38eF16a934840b5bB04fB3C7E25": {
+        "address": "0xF2EB32c64b97E38eF16a934840b5bB04fB3C7E25",
+        "name": "Arbinaut 🧑‍🚀",
+        "decimals": 18,
+        "symbol": "🧑‍🚀",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "42220": {
