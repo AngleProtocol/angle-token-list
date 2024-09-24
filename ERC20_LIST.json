@@ -3487,6 +3487,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OVN.svg"
+      },
+      "0xF734eFdE0C424BA2B547b186586dE417b0954802": {
+        "address": "0xF734eFdE0C424BA2B547b186586dE417b0954802",
+        "name": "Silo Governance Token",
+        "decimals": 18,
+        "symbol": "Silo",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SILO.png"
       }
     },
     "13371": {
