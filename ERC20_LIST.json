@@ -1320,6 +1320,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/dinero.svg"
+      },
+      "0xC477D038d5420C6A9e0b031712f61c5120090de9": {
+        "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+        "name": "Boson Token",
+        "decimals": 18,
+        "symbol": "BOSON",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/boson.svg"
       }
     },
     "10": {
@@ -2615,6 +2624,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/IXT.svg"
+      },
+      "0x9B3B0703D392321AD24338Ff1f846650437A43C9": {
+        "address": "0x9B3B0703D392321AD24338Ff1f846650437A43C9",
+        "name": "Boson Token (PoS)",
+        "decimals": 18,
+        "symbol": "BOSON",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/boson.svg"
       }
     },
     "169": {
