@@ -4633,6 +4633,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x3212dc0F8c834e4DE893532d27CC9B6001684DB0": {
+        "address": "0x3212dc0F8c834e4DE893532d27CC9B6001684DB0",
+        "name": "Pear",
+        "decimals": 18,
+        "symbol": "PEAR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pear.svg"
       }
     },
     "42220": {
