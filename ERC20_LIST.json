@@ -3119,6 +3119,15 @@
       }
     },
     "8453": {
+      "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB": {
+        "address": "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB",
+        "name": "Aave Base USDC",
+        "decimals": 6,
+        "symbol": "aBasUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
+      },
       "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4": {
         "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
         "name": "Radiant Token",
