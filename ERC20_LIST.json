@@ -2804,7 +2804,7 @@
       "0xCe59e272946458dA50C36Ca1E731ED6C5752669F": {
         "address": "0xCe59e272946458dA50C36Ca1E731ED6C5752669F",
         "name": "aglaMerkl",
-        "decimals": 18,
+        "decimals": 6,
         "symbol": "aglaMerkl",
         "hasPermit": false,
         "useInSwap": false,
