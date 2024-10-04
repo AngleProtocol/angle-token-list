@@ -137,7 +137,7 @@
         "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
         "name": "Euro Coin",
         "decimals": 6,
-        "symbol": "EUROC",
+        "symbol": "EURC",
         "useInSwap": true,
         "hasPermit": true,
         "permitVersion": "2",
