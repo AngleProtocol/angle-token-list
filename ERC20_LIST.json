@@ -1289,6 +1289,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/boson.svg"
+      },
+      "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8": {
+        "address": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+        "name": "Aave Ethereum WETH",
+        "decimals": 18,
+        "symbol": "aEthWETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aWETH.png"
       }
     },
     "10": {
@@ -2585,6 +2594,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/boson.svg"
+      },
+      "0x09cAD96Bc28f55e9253cfB9a84a3A1Ab79061E54": {
+        "address": "0x09cAD96Bc28f55e9253cfB9a84a3A1Ab79061E54",
+        "name": "Oshi Token",
+        "decimals": 18,
+        "symbol": "OSHI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OSHI.svg"
       }
     },
     "169": {
