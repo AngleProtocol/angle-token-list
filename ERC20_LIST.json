@@ -2845,6 +2845,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RF.svg"
+      },
+      "0xa995ad25Ce5eB76972ab356168f5e1D9257E4d05": {
+        "address": "0xa995ad25Ce5eB76972ab356168f5e1D9257E4d05",
+        "name": "Koi",
+        "decimals": 18,
+        "symbol": "KOI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/Koi.png"
+      },
+      "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E": {
+        "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+        "name": "ZKsync",
+        "decimals": 18,
+        "symbol": "ZK",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ZK.png"
       }
     },
     "592": {
