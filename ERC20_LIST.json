@@ -5250,6 +5250,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/THRUSTER.png"
+      },
+      "0xEC73284E4EC9bcea1A7DDDf489eAA324C3F7dd31": {
+        "address": "0xEC73284E4EC9bcea1A7DDDf489eAA324C3F7dd31",
+        "name": "Hyper",
+        "decimals": 18,
+        "symbol": "HYPER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/HYPER.svg"
       }
     },
     "167000": {
