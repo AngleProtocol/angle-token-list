@@ -4714,6 +4714,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pear.svg"
+      },
+      "0x2bA64EFB7A4Ec8983E22A49c81fa216AC33f383A": {
+        "address": "0x2bA64EFB7A4Ec8983E22A49c81fa216AC33f383A",
+        "name": "Wrapped BGL",
+        "decimals": 18,
+        "symbol": "WBGL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BGL.svg"
       }
     },
     "42220": {
