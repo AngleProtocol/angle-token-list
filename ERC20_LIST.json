@@ -1759,6 +1759,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WHY.png"
+      },
+      "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF": {
+        "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+        "name": "Radiant",
+        "decimals": 18,
+        "symbol": "RDNT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
       }
     },
     "100": {
