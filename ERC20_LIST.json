@@ -2153,9 +2153,9 @@
         "decimals": 18,
         "hasPermit": false,
         "logoURI": "https://polygonscan.com/token/images/wMatic_32.png",
-        "name": "Wrapped Matic",
+        "name": "Wrapped Polygon Ecosystem Token",
         "wrappingMethod": "Wrap Native",
-        "symbol": "wMATIC",
+        "symbol": "wPOL",
         "useInSwap": true
       },
       "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171": {
