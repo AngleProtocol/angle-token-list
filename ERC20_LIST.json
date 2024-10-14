@@ -1338,6 +1338,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aWETH.png"
+      },
+      "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110": {
+        "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+        "name": "Resolv USD",
+        "decimals": 18,
+        "symbol": "USR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/usr.svg"
       }
     },
     "10": {
