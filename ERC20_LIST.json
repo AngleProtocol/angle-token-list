@@ -1347,6 +1347,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/usr.svg"
+      },
+      "0xFd03723a9A3AbE0562451496a9a394D2C4bad4ab": {
+        "address": "0xFd03723a9A3AbE0562451496a9a394D2C4bad4ab",
+        "name": "DYAD Stable",
+        "decimals": 18,
+        "symbol": "DYAD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/dyad.png"
       }
     },
     "10": {
@@ -1777,6 +1786,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png"
+      },
+      "0x5029f49585D57ed770D2194841B5A0bE06BFc2ED": {
+        "address": "0x5029f49585D57ed770D2194841B5A0bE06BFc2ED",
+        "name": "Locked TWT",
+        "decimals": 18,
+        "symbol": "LTWT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/twt.png"
+      },
+      "0x0E7Dd56f7D2CAdc066B992cec58253190f002c25": {
+        "address": "0x0E7Dd56f7D2CAdc066B992cec58253190f002c25",
+        "name": "Locked slisBNB",
+        "decimals": 18,
+        "symbol": "LslisBNB",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/slisBNB.png"
       }
     },
     "100": {
