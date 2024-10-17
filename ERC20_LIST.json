@@ -1804,6 +1804,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/slisBNB.png"
+      },
+      "0xdC419cfe5454bF58001f131E98CF2065E11936A7": {
+        "address": "0xdC419cfe5454bF58001f131E98CF2065E11936A7",
+        "name": "bscSUNDOG",
+        "decimals": 18,
+        "symbol": "bscSUNDOG",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sundog.png"
       }
     },
     "100": {
