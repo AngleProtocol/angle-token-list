@@ -2917,6 +2917,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ZK.png"
+      },
+      "0x83387406a0b1C2Fcc92901Ca9BB4395Ff4b36B63": {
+        "address": "0x83387406a0b1C2Fcc92901Ca9BB4395Ff4b36B63",
+        "name": "eBeggar",
+        "decimals": 18,
+        "symbol": "BEG",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BEG.svg"
       }
     },
     "480": {
