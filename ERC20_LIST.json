@@ -1356,6 +1356,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/dyad.png"
+      },
+      "0x5241e34A1eA2BF6F297bAf158e668e23244464a7": {
+        "address": "0x5241e34A1eA2BF6F297bAf158e668e23244464a7",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "10": {
