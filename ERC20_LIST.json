@@ -2714,6 +2714,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/OSHI.svg"
+      },
+      "0x61bf130d973D59c69d3227f1668d534d83119860": {
+        "address": "0x61bf130d973D59c69d3227f1668d534d83119860",
+        "name": "Trakx Token",
+        "decimals": 18,
+        "symbol": "TRKX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/trkx.png"
       }
     },
     "169": {
