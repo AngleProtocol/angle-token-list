@@ -3322,6 +3322,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
+      "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187": {
+        "address": "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187",
+        "name": "UnlockProtocolToken",
+        "decimals": 18,
+        "symbol": "UP",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UP.svg"
+      },
       "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4": {
         "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
         "name": "Radiant Token",
