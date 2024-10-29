@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         shell: bash
         run: |
-          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GH_REGISTRY_ACCESS_TOKEN }}" >> ~/.npmrc 
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets.SDK_READ_ACCESS_TOKEN }}" >> ~/.npmrc 
           yarn install --frozen-lockfile
           rm -f ~/.npmrc
       - name: Validate JSON file
