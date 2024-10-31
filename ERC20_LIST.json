@@ -1317,8 +1317,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/dyad.png"
       },
-      "0x5241e34A1eA2BF6F297bAf158e668e23244464a7": {
-        "address": "0x5241e34A1eA2BF6F297bAf158e668e23244464a7",
+      "0xf3e621395fc714B90dA337AA9108771597b4E696": {
+        "address": "0xf3e621395fc714B90dA337AA9108771597b4E696",
         "name": "Reward EUL",
         "decimals": 18,
         "symbol": "rEUL",
