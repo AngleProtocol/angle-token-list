@@ -5350,6 +5350,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/HYPER.svg"
+      },
+      "0x52f847356b38720B55ee18Cb3e094ca11C85A192": {
+        "address": "0x52f847356b38720B55ee18Cb3e094ca11C85A192",
+        "name": "Fenix",
+        "decimals": 18,
+        "symbol": "FNX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FNX.svg"
       }
     },
     "167000": {
