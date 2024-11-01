@@ -1366,6 +1366,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       },
+      "0x5241e34A1eA2BF6F297bAf158e668e23244464a7": {
+        "address": "0x5241e34A1eA2BF6F297bAf158e668e23244464a7",
+        "name": "Deprecated Reward EUL",
+        "decimals": 18,
+        "symbol": "OLD rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      },
       "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F": {
         "address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
         "name": "Electronic Dollar",
