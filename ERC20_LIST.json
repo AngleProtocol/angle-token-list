@@ -3754,6 +3754,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+        "0xb4e1b230dd0476238fc64c99ff9d6ccdfdb2258d": {
+        "address": "0xb4e1b230dd0476238fc64c99ff9d6ccdfdb2258d",
+        "name": "Florence Finance Medici",
+        "decimals": 18,
+        "symbol": "FFM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FFM.png"
       }
     },
     "34443": {
