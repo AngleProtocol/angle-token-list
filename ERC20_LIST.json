@@ -1410,6 +1410,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aave_usdt.png"
+      },
+      "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF": {
+        "address": "0x75e88B8c2d34a52a6d36deAda664D7dc9116e4EF",
+        "name": "Zaros Finance",
+        "decimals": 18,
+        "symbol": "ZRS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/zrs.png"
       }
     },
     "10": {
