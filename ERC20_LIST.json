@@ -3009,6 +3009,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BEG.svg"
+      },
+      "0x05b6390dDbC329EA30E22eF223A57C1bCF1A069b": {
+        "address": "0x05b6390dDbC329EA30E22eF223A57C1bCF1A069b",
+        "name": "GogAndMagog",
+        "decimals": 18,
+        "symbol": "MAGOG",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/magog.jpg"
       }
     },
     "480": {
@@ -4970,6 +4979,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARX.png"
+      },
+      "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e": {
+        "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
+        "name": "Standard Token",
+        "decimals": 18,
+        "symbol": "TST",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TST.png"
       }
     },
     "42220": {
