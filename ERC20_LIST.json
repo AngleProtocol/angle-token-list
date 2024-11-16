@@ -5716,6 +5716,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xE5bb09bBc41e4644Ee384F2435F169aCbD07D60E": {
+        "address": "0xE5bb09bBc41e4644Ee384F2435F169aCbD07D60E",
+        "name": "Safe Andromeda",
+        "decimals": 6,
+        "symbol": "SFA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SFA.svg"
       }
     }
   }
