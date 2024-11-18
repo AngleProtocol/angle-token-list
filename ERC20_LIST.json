@@ -1419,6 +1419,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ZRS.png"
+      },
+      "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d": {
+        "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+        "name": "Fuse Token",
+        "decimals": 18,
+        "symbol": "FUSE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FUSE.svg"
       }
     },
     "10": {
