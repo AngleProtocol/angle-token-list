@@ -1428,6 +1428,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FUSE.svg"
+      },
+      "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf": {
+        "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+        "name": "Coinbase Wrapped BTC",
+        "decimals": 8,
+        "symbol": "cbBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cbBTC.png"
+      },
+      "0x8236a87084f8B84306f72007F36F2618A5634494": {
+        "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+        "name": "Lombard Staked Bitcoin",
+        "decimals": 8,
+        "symbol": "LBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/lbBTC.png"
       }
     },
     "10": {
