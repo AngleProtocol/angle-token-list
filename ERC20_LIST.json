@@ -4987,7 +4987,7 @@
         "symbol": "stataArbUSDCn",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stataUSDC.svg"
       },
       "0x352F3475716261dCC991Bd5F2aF973eB3D0F5878": {
         "address": "0x352F3475716261dCC991Bd5F2aF973eB3D0F5878",
