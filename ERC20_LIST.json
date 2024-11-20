@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0x2Da17fAf782ae884faf7dB2208BBC66b6E085C22": {
+        "address": "0x2Da17fAf782ae884faf7dB2208BBC66b6E085C22",
+        "name": "ZeroLend",
+        "decimals": 18,
+        "symbol": "ZERO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/zero.svg"
+      }
       "0x90DE74265a416e1393A450752175AED98fe11517": {
         "address": "0x90DE74265a416e1393A450752175AED98fe11517",
         "name": "Unlock Discount Token",
