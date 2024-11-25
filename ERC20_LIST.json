@@ -1692,6 +1692,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
       },
+      "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8": {
+        "address": "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8",
+        "name": "World of Dypians",
+        "decimals": 18,
+        "symbol": "WoD",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WoD.png"
+      },
       "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
         "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
         "name": "EURA (previously agEUR)",
