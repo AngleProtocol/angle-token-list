@@ -5714,6 +5714,28 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
+    },
+    "1195": {
+      "0x999BAcD74539e19e3371E51839707b59A682B258": {
+        "address": "0x999BAcD74539e19e3371E51839707b59A682B258",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
+    "42973": {
+      "0x25C91C795803DB39C191cA4f04E41EdA85740E71": {
+        "address": "0x25C91C795803DB39C191cA4f04E41EdA85740E71",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
     }
   }
 ]
