@@ -5607,6 +5607,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AI.svg"
       },
+      "0x0026dFbd8DBb6f8D0c88303CC1B1596409Fda542": {
+        "address": "0x0026dFbd8DBb6f8D0c88303CC1B1596409Fda542",
+        "name": "SANSHU!",
+        "decimals": 18    ,
+        "symbol": "SANSHU!",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sanshu.svg"
+      },
       "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df": {
         "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
         "name": "Tether USD",
