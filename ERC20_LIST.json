@@ -10,6 +10,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/zero.svg"
       },
+      "0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E": {
+        "address": "0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E",
+        "name": "Aave Ethereum PYUSD",
+        "decimals": 6,
+        "symbol": "aEthPYUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pyusd.png"
+      },
       "0x90DE74265a416e1393A450752175AED98fe11517": {
         "address": "0x90DE74265a416e1393A450752175AED98fe11517",
         "name": "Unlock Discount Token",
