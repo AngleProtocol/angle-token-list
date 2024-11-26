@@ -10,6 +10,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/zero.svg"
       },
+      "0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E": {
+        "address": "0x0C0d01AbF3e6aDfcA0989eBbA9d6e85dD58EaB1E",
+        "name": "Aave Ethereum PYUSD",
+        "decimals": 6,
+        "symbol": "aEthPYUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pyusd.png"
+      },
       "0x90DE74265a416e1393A450752175AED98fe11517": {
         "address": "0x90DE74265a416e1393A450752175AED98fe11517",
         "name": "Unlock Discount Token",
@@ -1691,6 +1700,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
+      "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8": {
+        "address": "0xb994882a1b9bd98A71Dd6ea5F61577c42848B0E8",
+        "name": "World of Dypians",
+        "decimals": 18,
+        "symbol": "WoD",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WoD.png"
       },
       "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89": {
         "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
