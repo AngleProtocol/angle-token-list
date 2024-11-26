@@ -3402,6 +3402,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
+      "0xFD1013c72CBB0FFB920D347C5836bF88965D0D5e": {
+        "address": "0xFD1013c72CBB0FFB920D347C5836bF88965D0D5e",
+        "name": "STIX Token",
+        "decimals": 18,
+        "symbol": "STIX",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stix.svg"
+      },
       "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187": {
         "address": "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187",
         "name": "UnlockProtocolToken",
