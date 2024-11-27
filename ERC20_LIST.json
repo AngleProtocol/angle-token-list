@@ -3402,6 +3402,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
+      "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": {
+        "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "name": "Degen",
+        "decimals": 18,
+        "symbol": "DEGEN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/degen.png"
+      },
       "0xFD1013c72CBB0FFB920D347C5836bF88965D0D5e": {
         "address": "0xFD1013c72CBB0FFB920D347C5836bF88965D0D5e",
         "name": "STIX Token",
