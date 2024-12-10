@@ -2980,6 +2980,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       },
+      "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD": {
+        "address": "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD",
+        "name": "PancakeSwap Token",
+        "decimals": 18,
+        "symbol": "Cake",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/cake.svg"
+      },
       "0x1C6f53185061D7cC387E481c350aD00C2C876f3E": {
         "address": "0x1C6f53185061D7cC387E481c350aD00C2C876f3E",
         "name": "Uniswap Token",
