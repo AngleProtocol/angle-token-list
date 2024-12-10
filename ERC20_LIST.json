@@ -5063,6 +5063,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TST.png"
+      },
+      "0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab": {
+        "address": "0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab",
+        "name": "KIMA",
+        "decimals": 18,
+        "symbol": "KIMA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KIMA.svg"
       }
     },
     "42220": {
