@@ -4121,6 +4121,15 @@
       }
     },
     "42161": {
+      "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c": {
+        "address": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c",
+        "name": "Open Dollar Governance",
+        "decimals": 18,
+        "symbol": "ODG",
+        "hasPermit": true,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/odg.svg"
+      },
       "0x10393c20975cF177a3513071bC110f7962CD67da": {
         "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
         "name": "Jones DAO",
