@@ -3442,6 +3442,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aUSDC.svg"
       },
+      "0x2C24497D4086490e7EaD87CC12597fb50c2E6eD6": {
+        "address": "0x2C24497D4086490e7EaD87CC12597fb50c2E6eD6",
+        "name": "SynFutures",
+        "decimals": 18,
+        "symbol": "F",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/synfutures.png"
+      },
       "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": {
         "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
         "name": "Degen",
