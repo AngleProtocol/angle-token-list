@@ -3311,8 +3311,8 @@
       }
     },
     "1923": {
-      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
-        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
+      "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5": {
+        "address": "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5",
         "name": "wSWELL",
         "decimals": 18,
         "symbol": "wSWELL",
@@ -3320,8 +3320,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg"
       },
-      "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5": {
-        "address": "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5",
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
         "name": "aglaMerkl",
         "decimals": 6,
         "symbol": "aglaMerkl",
