@@ -1445,6 +1445,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
       },
+      "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404": {
+        "address": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
+        "name": "Protocol Token",
+        "decimals": 18,
+        "symbol": "KITE",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kite.svg"
+      },
       "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED": {
         "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
         "name": "EURA (previously agEUR)",
