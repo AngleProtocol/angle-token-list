@@ -5099,6 +5099,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KIMA.svg"
+      },
+      "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d": {
+        "address": "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d",
+        "name": "The Standard USD",
+        "decimals": 18,
+        "symbol": "USDs",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDs.svg"
       }
     },
     "42220": {
