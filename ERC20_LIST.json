@@ -1818,6 +1818,15 @@
         "symbol": "SUSHI",
         "useInSwap": false
       },
+      "0xB53cc8303943582949b9a23f0556b0f0C41Fec98": {
+        "address": "0xB53cc8303943582949b9a23f0556b0f0C41Fec98",
+        "name": "OMNIA Protocol",
+        "decimals": 18,
+        "symbol": "OMNIA",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/omnia.png"
+      },
       "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4": {
         "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
         "description": "<p class=\"text-sm\">Neptune Mutual follows a parametric insurance model, meaning it provides payout on the basis of parameters instead of individual claim assessments. Upon the resolution of an incident, all the policyholders of the affected protocol will receive the payouts. Neptune Mutual eliminates individual claim assessments which makes policy easy to claim, faster, and much more reliable.</p>",
