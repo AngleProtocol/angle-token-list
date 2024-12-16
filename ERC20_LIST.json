@@ -10,6 +10,33 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/zero.svg"
       },
+      "0xe7Cf38728DB67e5D78A7855000fbEC177B20B649": {
+        "address": "0xe7Cf38728DB67e5D78A7855000fbEC177B20B649",
+        "name": "Puffer Points",
+        "decimals": 18,
+        "symbol": "SOON",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/soon.png"
+      },
+      "0xf58C9E2eCA285bD84690126BB7cEe5bee4f45820": {
+        "address": "0xf58C9E2eCA285bD84690126BB7cEe5bee4f45820",
+        "name": "Merkl Token Wrapper - Puffer Points",
+        "decimals": 18,
+        "symbol": "mtwSOON",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/soon.png"
+      },
+      "0x6a9F585e990e72Fc1eD1C938d2674F02b5937385": {
+        "address": "0x6a9F585e990e72Fc1eD1C938d2674F02b5937385",
+        "name": "Merkl Token Wrapper - Angle Merkl",
+        "decimals": 18,
+        "symbol": "mtwaglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
       "0xF944e35f95E819E752f3cCB5Faf40957d311e8c5": {
         "address": "0xF944e35f95E819E752f3cCB5Faf40957d311e8c5",
         "name": "Moca",
