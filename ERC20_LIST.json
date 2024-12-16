@@ -3349,6 +3349,15 @@
     "1923": {
       "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5": {
         "address": "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5",
+        "name": "wSWELL_OLD",
+        "decimals": 18,
+        "symbol": "wSWELL_OLD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1": {
+        "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
         "name": "wSWELL",
         "decimals": 18,
         "symbol": "wSWELL",
