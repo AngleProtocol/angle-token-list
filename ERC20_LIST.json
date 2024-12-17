@@ -233,6 +233,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sDAI.png"
       },
+      "0x58D97B57BB95320F9a05dC918Aef65434969c2B2": {
+        "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+        "name": "Morpho Token",
+        "decimals": 18,
+        "symbol": "MORPHO",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/morpho.png"
+      },
       "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C": {
         "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
         "name": "Mountain Protocol USD",
