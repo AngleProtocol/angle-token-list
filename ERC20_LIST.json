@@ -4465,6 +4465,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sliz.png"
       },
+      "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230": {
+        "address": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
+        "name": "Foxify",
+        "decimals": 18,
+        "symbol": "FOX",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FOX.png"
+      },
       "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418": {
         "address": "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418",
         "name": "Ramses",
