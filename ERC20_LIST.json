@@ -1486,7 +1486,7 @@
         "symbol": "rSWELL",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rSWELL.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rSWELL.svg"
       },
       "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0": {
         "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
@@ -1495,7 +1495,7 @@
         "symbol": "rswETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rswETH.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rswETH.svg"
       },
       "0xf951E335afb289353dc249e82926178EaC7DEd78": {
         "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
@@ -1504,7 +1504,7 @@
         "symbol": "swETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swETH.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swETH.svg"
       },
       "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE": {
         "address": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
@@ -1513,7 +1513,7 @@
         "symbol": "swBTC",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swBTC.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swBTC.svg"
       }
     },
     "10": {
@@ -3453,7 +3453,7 @@
         "symbol": "rSWELL",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rSWELL.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rSWELL.svg"
       },
       "0x18d33689AE5d02649a859A1CF16c9f0563975258": {
         "address": "0x18d33689AE5d02649a859A1CF16c9f0563975258",
@@ -3462,7 +3462,7 @@
         "symbol": "rswETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rswETH.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rswETH.svg"
       },
       "0x09341022ea237a4DB1644DE7CCf8FA0e489D85B7": {
         "address": "0x09341022ea237a4DB1644DE7CCf8FA0e489D85B7",
@@ -3471,7 +3471,7 @@
         "symbol": "swETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swETH.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swETH.svg"
       },
       "0x9cb41CD74D01ae4b4f640EC40f7A60cA1bCF83E7": {
         "address": "0x9cb41CD74D01ae4b4f640EC40f7A60cA1bCF83E7",
@@ -3480,7 +3480,7 @@
         "symbol": "pzETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pzETH.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pzETH.svg"
       },
       "0x1cf7b5f266A0F39d6f9408B90340E3E71dF8BF7B": {
         "address": "0x1cf7b5f266A0F39d6f9408B90340E3E71dF8BF7B",
@@ -3489,7 +3489,7 @@
         "symbol": "swBTC",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swBTC.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swBTC.svg"
       },
       "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
         "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
