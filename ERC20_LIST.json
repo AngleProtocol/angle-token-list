@@ -4473,6 +4473,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GRAIL.svg"
       },
+      "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7": {
+        "address": "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7",
+        "name": "EYWA",
+        "decimals": 18,
+        "symbol": "EYWA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/eywa.png"
+      },
       "0x656B80B667a46869144047E6e6C0000C81610253": {
         "address": "0x656B80B667a46869144047E6e6C0000C81610253",
         "name": "Angle Governance Token",
