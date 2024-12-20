@@ -3088,6 +3088,113 @@
       }
     },
     "324": {
+      "0xd5428B08b604727c43ba5a37EeD25a289978d081": {
+        "address": "0xd5428B08b604727c43ba5a37EeD25a289978d081",
+        "name": "Arbitrum",
+        "decimals": 18,
+        "symbol": "ARB",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARB.svg"
+      },
+      "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656": {
+        "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+        "name": "Dai Stablecoin",
+        "decimals": 18,
+        "symbol": "DAI",
+        "hasPermit": false,
+        "useInSwap": true,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DAI.svg"
+      },
+      "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011": {
+        "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+        "name": "Wrapped Bitcoin",
+        "decimals": 8,
+        "symbol": "WBTC",
+        "useInSwap": true,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WBTC.svg"
+      },
+      "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4": {
+        "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+        "name": "Bridged USDC (zkSync)",
+        "decimals": 6,
+        "symbol": "USDC.e",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x0e6d09D44F3A929d3030B84bFbCc9AE43F42ac8F": {
+        "address": "0x0e6d09D44F3A929d3030B84bFbCc9AE43F42ac8F",
+        "name": "Aave Token",
+        "decimals": 18,
+        "symbol": "AAVE",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/AAVE.svg"
+      },
+      "0xCa85055dc7f28a89EEB388eB50A65c1fe21B97d3": {
+        "address": "0xCa85055dc7f28a89EEB388eB50A65c1fe21B97d3",
+        "decimals": 18,
+        "hasPermit": false,
+        "name": "USDe",
+        "symbol": "sUSDe",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDe.svg"
+      },
+      "0xe862bF1176a99E5aC9b693C1F966f266143BD8f5": {
+        "address": "0xe862bF1176a99E5aC9b693C1F966f266143BD8f5",
+        "name": "Wrapped eETH",
+        "decimals": 18,
+        "symbol": "weETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/weETH.svg"
+      },
+      "0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813": {
+        "address": "0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+      },
+      "0xCafB42a2654C20cb3739F04243E925aa47302bec": {
+        "address": "0xCafB42a2654C20cb3739F04243E925aa47302bec",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "decimals": 18,
+        "symbol": "wstETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg"
+      },
+      "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4": {
+        "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
+        "name": "USDC",
+        "decimals": 6,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x000000000000000000000000000000000000800A": {
+        "address": "0x000000000000000000000000000000000000800A",
+        "name": "Ether",
+        "decimals": 18,
+        "symbol": "ETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
+      },
+      "0x96e4069B746bD88Db76eE126acfDA537DdcEe6FF": {
+        "address": "0x96e4069B746bD88Db76eE126acfDA537DdcEe6FF",
+        "name": "BNB",
+        "decimals": 18,
+        "symbol": "BNB",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BNB.svg"
+      },
       "0xCe59e272946458dA50C36Ca1E731ED6C5752669F": {
         "address": "0xCe59e272946458dA50C36Ca1E731ED6C5752669F",
         "name": "aglaMerkl",
