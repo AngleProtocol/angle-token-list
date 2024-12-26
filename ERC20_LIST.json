@@ -5470,6 +5470,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDs.svg"
+      },
+      "0x6579758e9E85434450D638cFBEA0F2fe79856ddA": {
+        "address": "0x6579758e9E85434450D638cFBEA0F2fe79856ddA",
+        "name": "EYWA/USDT",
+        "decimals": 18,
+        "symbol": "EYWAUSDT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/eywausdt.png"
       }
     },
     "42220": {
