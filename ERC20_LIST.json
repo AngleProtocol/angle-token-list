@@ -3086,6 +3086,51 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x3f833Ed02629545DD78AFc3D585f7F3918a3De62": {
+        "address": "0x3f833Ed02629545DD78AFc3D585f7F3918a3De62",
+        "name": "CrossCurve Stable",
+        "decimals": 18,
+        "symbol": "xSTABLE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xstable.png"
+      },
+      "0x3C2fCf53f742345c5c1b3dcb2612a1949BC1F18d": {
+        "address": "0x3C2fCf53f742345c5c1b3dcb2612a1949BC1F18d",
+        "name": "CrossCurve ETH",
+        "decimals": 18,
+        "symbol": "xWETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xweth.png"
+      },
+      "0xA3a63276b8668583E1B47b979d1093D9Aaf431ee": {
+        "address": "0xA3a63276b8668583E1B47b979d1093D9Aaf431ee",
+        "name": "CrossCurve Stable 2",
+        "decimals": 18,
+        "symbol": "xSTABLE2",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xstable2.png"
+      },
+      "0xaBBA40f628F055149f1C7415C4388363392279C3": {
+        "address": "0xaBBA40f628F055149f1C7415C4388363392279C3",
+        "name": "CrossCurve ETH 2",
+        "decimals": 18,
+        "symbol": "xWETH2",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xweth2.png"
+      },
+      "0x37F5dae6039C8eC4c32ad7D3e2a07aCaa55C08f9": {
+        "address": "0x37F5dae6039C8eC4c32ad7D3e2a07aCaa55C08f9",
+        "name": "CrossCurve BTC",
+        "decimals": 18,
+        "symbol": "xBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xbtc.png"
       }
     },
     "252": {
@@ -4574,6 +4619,15 @@
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+      },
+      "0xdCa5d16ac3708658ECc971d3AeE5d5CD6e5E1faD": {
+        "address": "0xdCa5d16ac3708658ECc971d3AeE5d5CD6e5E1faD",
+        "name": "EYWA DAO NFT",
+        "decimals": 1,
+        "symbol": "veEYWA",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/veeywa.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
