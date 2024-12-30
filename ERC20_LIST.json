@@ -2902,7 +2902,7 @@
         "symbol": "$ERA",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/era.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/era.png"
       },
       "0xFf76c0B48363A7C7307868a81548d340049b0023": {
         "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
