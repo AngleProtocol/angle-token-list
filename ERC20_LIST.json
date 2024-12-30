@@ -1554,6 +1554,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swBTC.svg"
+      },
+      "0x18eFE565A5373f430e2F809b97De30335B3ad96A": {
+        "address": "0x18eFE565A5373f430e2F809b97De30335B3ad96A",
+        "name": "Aave Ethereum Lido GHO",
+        "decimals": 18,
+        "symbol": "aEthLidoGHO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GHO.svg"
+      },
+      "0x3ce38A9e2403415c50661a3f78acf4d392320e7E": {
+        "address": "0x3ce38A9e2403415c50661a3f78acf4d392320e7E",
+        "name": "RWA ZeroLend USDC",
+        "decimals": 6,
+        "symbol": "z0RWAUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "10": {
