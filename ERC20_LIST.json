@@ -3377,6 +3377,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/magog.jpg"
+      },
+      "0xd4169E045bcF9a86cC00101225d9ED61D2F51af2": {
+        "address": "0xd4169E045bcF9a86cC00101225d9ED61D2F51af2",
+        "name": "rsETHWrapper",
+        "decimals": 18,
+        "symbol": "wrsETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
       }
     },
     "480": {
