@@ -4277,6 +4277,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stataUSDC.svg"
+      },
+      "0xa153Ad732F831a79b5575Fa02e793EC4E99181b0": {
+        "address": "0xa153Ad732F831a79b5575Fa02e793EC4E99181b0",
+        "name": "Euler",
+        "decimals": 18,
+        "symbol": "EUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      },
+      "0xE08e1f00D388E201e48842E53fA96195568e6813": {
+        "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "10242": {
