@@ -2975,6 +2975,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/trkx.png"
+      },
+      "0x8D60FB5886497851AaC8c5195006ecf07647ba0D": {
+        "address": "0x8D60FB5886497851AaC8c5195006ecf07647ba0D",
+        "name": "W3GG Token",
+        "decimals": 18,
+        "symbol": "W3GG",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/w3gg.svg"
       }
     },
     "169": {
