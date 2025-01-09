@@ -1572,6 +1572,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0": {
+        "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+        "name": "USD0 Liquid Bond",
+        "decimals": 18,
+        "symbol": "USD0++",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/usd0.png"
       }
     },
     "10": {
