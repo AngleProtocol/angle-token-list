@@ -3022,6 +3022,17 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/w3gg.svg"
       }
     },
+    "146": {
+      "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
+        "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "169": {
       "0xA7c167f58833c5e25848837f45A1372491A535eD": {
         "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
@@ -4358,6 +4369,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ILOCK.png"
+      },
+      "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579": {
+        "address": "0x895e15020C3f52ddD4D8e9514eB83C39F53B1579",
+        "name": "YieldFi yToken",
+        "decimals": 18,
+        "symbol": "yUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/yUSD.png"
       }
     },
     "10242": {
@@ -6419,17 +6439,6 @@
       },
       "0xA7c167f58833c5e25848837f45A1372491A535eD": {
         "address": "0xA7c167f58833c5e25848837f45A1372491A535eD",
-        "name": "aglaMerkl",
-        "decimals": 6,
-        "symbol": "aglaMerkl",
-        "hasPermit": false,
-        "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
-      }
-    },
-    "146": {
-      "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
-        "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
         "name": "aglaMerkl",
         "decimals": 6,
         "symbol": "aglaMerkl",
