@@ -28,6 +28,60 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/soon.png"
       },
+      "0xD9A442856C234a39a81a089C06451EBAa4306a72": {
+        "address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
+        "name": "pufETH",
+        "decimals": 18,
+        "symbol": "pufETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pufETH.svg"
+      },
+      "0x4d1C297d39C5c1277964D0E3f8Aa901493664530": {
+        "address": "0x4d1C297d39C5c1277964D0E3f8Aa901493664530",
+        "name": "PUFFER",
+        "decimals": 18,
+        "symbol": "PUFFER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/PUFFER.svg"
+      },
+      "0x196ead472583Bc1e9aF7A05F860D9857e1Bd3dCc": {
+        "address": "0x196ead472583Bc1e9aF7A05F860D9857e1Bd3dCc",
+        "name": "UniFi ETH",
+        "decimals": 18,
+        "symbol": "unifiETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/unifiETH.svg"
+      },
+      "0xdD7Afc0f014A1E1716307Ff040704fA12E8D33A3": {
+        "address": "0xdD7Afc0f014A1E1716307Ff040704fA12E8D33A3",
+        "name": "ZeroLend Puffer ETH",
+        "decimals": 18,
+        "symbol": "z0pufETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pufETH.svg"
+      },
+      "0x3a8099D8FE5C072bB035381003993393072D3ec7": {
+        "address": "0x3a8099D8FE5C072bB035381003993393072D3ec7",
+        "name": "Puffer ETH Restaking Fund I (3x Points)",
+        "decimals": 18,
+        "symbol": "dpufETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/dpufeth.png"
+      },
+      "0x0124183e894aED6558c445Ff125801753e834216": {
+        "address": "0x0124183e894aED6558c445Ff125801753e834216",
+        "name": "mpufETH",
+        "decimals": 18,
+        "symbol": "mpufETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pufETH.png"
+      },
       "0xe7Cf38728DB67e5D78A7855000fbEC177B20B649": {
         "address": "0xe7Cf38728DB67e5D78A7855000fbEC177B20B649",
         "name": "Puffer Points",
@@ -1871,6 +1925,24 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SQR.svg"
+      },
+      "0x64274835D88F5c0215da8AADd9A5f2D2A2569381": {
+        "address": "0x64274835D88F5c0215da8AADd9A5f2D2A2569381",
+        "name": "xPufETH",
+        "decimals": 18,
+        "symbol": "xPufETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/pufETH.svg"
+      },
+      "0x2170Ed0880ac9A755fd29B2688956BD959F933F8": {
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "name": "Ethereum Token",
+        "decimals": 18,
+        "symbol": "ETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ETH.svg"
       },
       "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1": {
         "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
