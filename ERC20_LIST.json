@@ -3656,6 +3656,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24": {
+        "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
+        "name": "Lisk",
+        "decimals": 18,
+        "symbol": "LSK",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/lisk.svg"
       }
     },
     "1284": {
