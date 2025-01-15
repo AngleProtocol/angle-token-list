@@ -1,6 +1,15 @@
 [
   {
     "1": {
+      "0x745407c86DF8DB893011912d3aB28e68B62E49B0": {
+        "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
+        "name": "MahaDAO",
+        "decimals": 18,
+        "symbol": "MAHA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MAHA.svg"
+      },
       "0x2Da17fAf782ae884faf7dB2208BBC66b6E085C22": {
         "address": "0x2Da17fAf782ae884faf7dB2208BBC66b6E085C22",
         "name": "ZeroLend",
@@ -3956,6 +3965,15 @@
       }
     },
     "8453": {
+      "0x554bba833518793056CF105E66aBEA330672c0dE": {
+        "address": "0x554bba833518793056CF105E66aBEA330672c0dE",
+        "name": "MahaDAO",
+        "decimals": 18,
+        "symbol": "MAHA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/MAHA.svg"
+      },
       "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB": {
         "address": "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB",
         "name": "Aave Base USDC",
