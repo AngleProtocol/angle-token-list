@@ -1926,6 +1926,15 @@
       }
     },
     "56": {
+      "0x56fA5F7BF457454Be33D8B978C86A5f5B9DD84C2": {
+        "address": "0x2B72867c32CF673F7b02d208B26889fEd353B1f8",
+        "name": "Listapie",
+        "decimals": 18,
+        "symbol": "LTP",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LTP.png"
+      },
       "0x2B72867c32CF673F7b02d208B26889fEd353B1f8": {
         "address": "0x2B72867c32CF673F7b02d208B26889fEd353B1f8",
         "name": "Magic Square",
@@ -5854,6 +5863,24 @@
       }
     },
     "43114": {
+      "0x47c3118Ad183712Acd42648e9E522e13690f29a0": {
+        "address": "0x47c3118Ad183712Acd42648e9E522e13690f29a0",
+        "name": "Meat",
+        "decimals": 6,
+        "symbol": "MEAT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/meat.png"
+      },
+      "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7": {
+        "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+        "name": "yellow ket",
+        "decimals": 18,
+        "symbol": "KET",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ket.png"
+      },
       "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57": {
         "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
         "name": "EURA (previously agEUR)",
