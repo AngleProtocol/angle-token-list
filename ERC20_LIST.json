@@ -1649,6 +1649,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USUALx.svg"
+      },
+      "0x9Ed15383940CC380fAEF0a75edacE507cC775f22": {
+        "address": "0x9Ed15383940CC380fAEF0a75edacE507cC775f22",
+        "name": "earnETH",
+        "decimals": 18,
+        "symbol": "earnETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/earnETH.svg"
+      },
+      "0x66E47E6957B85Cf62564610B76dD206BB04d831a": {
+        "address": "0x66E47E6957B85Cf62564610B76dD206BB04d831a",
+        "name": "earnBTC",
+        "decimals": 8,
+        "symbol": "earnBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/earnBTC.svg"
       }
     },
     "10": {
