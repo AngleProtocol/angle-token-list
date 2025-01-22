@@ -1707,6 +1707,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/earnBTC.svg"
+      },
+      "0x69000dFD5025E82f48Eb28325A2B88a241182CEd": {
+        "address": "0x69000dFD5025E82f48Eb28325A2B88a241182CEd",
+        "name": "ZAI Stablecoin",
+        "decimals": 18,
+        "symbol": "ZAI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ZAI.png"
       }
     },
     "10": {
