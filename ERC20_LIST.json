@@ -3586,6 +3586,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
+      },
+      "0x941Fc398d9FAebdd9f311011541045A1d66c748E": {
+        "address": "0x941Fc398d9FAebdd9f311011541045A1d66c748E",
+        "name": "NOP App",
+        "decimals": 18,
+        "symbol": "NOP",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
       }
     },
     "480": {
