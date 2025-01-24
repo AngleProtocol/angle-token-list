@@ -2245,6 +2245,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sundog.png"
+      },
+      "0x4B0F1812e5Df2A09796481Ff14017e6005508003": {
+        "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+        "name": "Trust Wallet",
+        "decimals": 18,
+        "symbol": "TWT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/twt.png"
       }
     },
     "100": {
@@ -4550,7 +4559,7 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/yUSD.png"
       },
-      "0x6379219890843c0b9E3160044de072ced66baab2":{
+      "0x6379219890843c0b9E3160044de072ced66baab2": {
         "address": "0x6379219890843c0b9E3160044de072ced66baab2",
         "name": "ThreatSlayerAI by Virtuals",
         "decimals": 18,
