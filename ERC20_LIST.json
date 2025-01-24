@@ -4549,6 +4549,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/yUSD.png"
+      },
+      "0x6379219890843c0b9E3160044de072ced66baab2":{
+        "address": "0x6379219890843c0b9E3160044de072ced66baab2",
+        "name": "ThreatSlayerAI by Virtuals",
+        "decimals": 18,
+        "symbol": "SLAYER",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://storage.tally.so/private/Slayer-Twitter-Profile-Pic-1-.png?id=EQ70qo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVRNzBxbyIsImZvcm1JZCI6IjN5MmJxeCIsImlhdCI6MTczNzY2NDY2OX0.HZhhUNlKq18PN6K5_LOqRLqLdI-xS16JGdgzSTtRPxM&signature=b7ba7151c6b3c35a70b64c17c4dca9c09a155ac70794cdb8674197ac07d9ef12"
       }
     },
     "10242": {
