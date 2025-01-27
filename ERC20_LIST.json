@@ -6630,6 +6630,17 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oooOOO.png"
       }
     },
+    "21000000": {
+      "0x25C91C795803DB39C191cA4f04E41EdA85740E71": {
+        "address": "0x25C91C795803DB39C191cA4f04E41EdA85740E71",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "1482601649": {
       "0x7F73B66d4e6e67bCdeaF277b9962addcDabBFC4d": {
         "address": "0x7F73B66d4e6e67bCdeaF277b9962addcDabBFC4d",
