@@ -1716,6 +1716,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ZAI.png"
+      },
+      "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d": {
+        "address": "0x193f4A4a6ea24102F49b931DEeeb931f6E32405d",
+        "name": "TLOS",
+        "decimals": 18,
+        "symbol": "TLOS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TLOS.png"
       }
     },
     "10": {
