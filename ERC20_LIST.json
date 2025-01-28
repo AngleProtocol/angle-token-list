@@ -4085,6 +4085,15 @@
       }
     },
     "8453": {
+      "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D": {
+        "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
+        "name": "Aave Base wstETH",
+        "decimals": 18,
+        "symbol": "aBaswstETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/awsteth.svg"
+      },
       "0x554bba833518793056CF105E66aBEA330672c0dE": {
         "address": "0x554bba833518793056CF105E66aBEA330672c0dE",
         "name": "MahaDAO",
@@ -4847,6 +4856,15 @@
       }
     },
     "42161": {
+      "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf": {
+        "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+        "name": "Aave Arbitrum wstETH",
+        "decimals": 18,
+        "symbol": "aArbwstETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/awsteth.svg"
+      },
       "0x0f11c6143d4Ab0d9860e984ab2dCA516E1BeCd03": {
         "address": "0x0f11c6143d4Ab0d9860e984ab2dCA516E1BeCd03",
         "name": "Merkl Token Wrapper - Angle Merkl",
