@@ -3176,6 +3176,15 @@
       }
     },
     "146": {
+      "0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1": {
+        "address": "0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1",
+        "name": "Uniswap",
+        "decimals": "18",
+        "symbol": "UNI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
       "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
         "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
         "name": "aglaMerkl",
