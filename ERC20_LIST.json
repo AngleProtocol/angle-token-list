@@ -6708,6 +6708,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5": {
+        "address": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+        "name": "Threshold Network Token",
+        "decimals": 18,
+        "symbol": "T",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/threshold-icon.svg"
       }
     }
   }
