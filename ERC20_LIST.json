@@ -3908,6 +3908,17 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/frxETH.svg"
       }
     },
+    "1868": {
+      "0x999BAcD74539e19e3371E51839707b59A682B258": {
+        "address": "0x999BAcD74539e19e3371E51839707b59A682B258",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "1923": {
       "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5": {
         "address": "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5",
