@@ -3188,7 +3188,7 @@
       "0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1": {
         "address": "0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1",
         "name": "Uniswap",
-        "decimals": "18",
+        "decimals": 18,
         "symbol": "UNI",
         "hasPermit": false,
         "useInSwap": false,
