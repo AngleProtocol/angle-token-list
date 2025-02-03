@@ -3211,6 +3211,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/S.png"
+      },
+      "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE": {
+        "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+        "name": "Sonic USD",
+        "decimals": 6,
+        "symbol": "scUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/scUSD.svg"
       }
     },
     "169": {
@@ -4614,6 +4623,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://storage.tally.so/private/Slayer-Twitter-Profile-Pic-1-.png?id=EQ70qo&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkVRNzBxbyIsImZvcm1JZCI6IjN5MmJxeCIsImlhdCI6MTczNzY2NDY2OX0.HZhhUNlKq18PN6K5_LOqRLqLdI-xS16JGdgzSTtRPxM&signature=b7ba7151c6b3c35a70b64c17c4dca9c09a155ac70794cdb8674197ac07d9ef12"
+      },
+      "0x49d803d2DF2295185610f44961F2Dcd40326F25C": {
+        "address": "0x49d803d2DF2295185610f44961F2Dcd40326F25C",
+        "name": "Shark Cat",
+        "decimals": 18,
+        "symbol": "SC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SC.svg"
       }
     },
     "10242": {
