@@ -4156,6 +4156,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/oCRST.png"
+      },
+      "0x25356aeca4210eF7553140edb9b8026089E49396": {
+        "address": "0x25356aeca4210eF7553140edb9b8026089E49396",
+        "name": "Lendle Protocol Token",
+        "decimals": 18,
+        "symbol": "LEND",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LENDLE.svg"
       }
     },
     "8453": {
