@@ -2272,6 +2272,33 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/twt.png"
+      },
+      "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63": {
+        "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+        "name": "Venus",
+        "decimals": 18,
+        "symbol": "XVS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/XVS.png"
+      },
+      "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d": {
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "name": "USD Coin",
+        "decimals": 18,
+        "symbol": "USDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409": {
+        "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+        "name": "First Digital USD",
+        "decimals": 18,
+        "symbol": "FDUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FDUSD.png"
       }
     },
     "100": {
