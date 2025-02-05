@@ -2299,6 +2299,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/FDUSD.png"
+      },
+      "0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11": {
+        "address": "0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11",
+        "name": "THENA",
+        "decimals": 18,
+        "symbol": "THE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/THE.png"
       }
     },
     "100": {
