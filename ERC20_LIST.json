@@ -3676,6 +3676,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rsETH.png"
+      },
+      "0x0469d9d1dE0ee58fA1153ef00836B9BbCb84c0B6": {
+        "address": "0x0469d9d1dE0ee58fA1153ef00836B9BbCb84c0B6",
+        "name": "USN Token",
+        "decimals": 18,
+        "symbol": "USN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USN.svg"
+      },
+      "0xB6a09d426861c63722Aa0b333a9cE5d5a9B04c4f": {
+        "address": "0xB6a09d426861c63722Aa0b333a9cE5d5a9B04c4f",
+        "name": "Staked USN",
+        "decimals": 18,
+        "symbol": "sUSN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/sUSN.svg"
       }
     },
     "480": {
