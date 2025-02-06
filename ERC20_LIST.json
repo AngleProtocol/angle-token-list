@@ -6293,6 +6293,17 @@
         "logoURI": "https://app.aave.com/icons/tokens/usdc.svg"
       }
     },
+    "57073": {
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "59144": {
       "0xA219439258ca9da29E9Cc4cE5596924745e12B93": {
         "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
