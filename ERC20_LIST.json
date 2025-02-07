@@ -35,7 +35,7 @@
         "symbol": "CARROT",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CARROT.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CARROT.svg"
       },
       "0x8A5A5DE9db5770123Ff2145F59e9F20047f0A8EC": {
         "address": "0x8A5A5DE9db5770123Ff2145F59e9F20047f0A8EC",
@@ -44,7 +44,7 @@
         "symbol": "mtwCARROT",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CARROT.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CARROT.svg"
       },
       "0xD9A442856C234a39a81a089C06451EBAa4306a72": {
         "address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
