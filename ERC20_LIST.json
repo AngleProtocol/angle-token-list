@@ -4063,6 +4063,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDe.svg"
+      },
+      "0x58538e6A46E07434d7E7375Bc268D3cb839C0133": {
+        "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "name": "ENA",
+        "decimals": 18,
+        "symbol": "ENA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ENA.svg"
       }
     },
     "3776": {
