@@ -4195,6 +4195,15 @@
       }
     },
     "8453": {
+      "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc": {
+        "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+        "name": "USDS Stablecoin",
+        "decimals": 18,
+        "symbol": "USDS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDS_sky.svg"
+      },
       "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D": {
         "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
         "name": "Aave Base wstETH",
