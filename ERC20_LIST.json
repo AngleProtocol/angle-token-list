@@ -4222,6 +4222,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDS_sky.svg"
       },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
+      },
       "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D": {
         "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
         "name": "Aave Base wstETH",
