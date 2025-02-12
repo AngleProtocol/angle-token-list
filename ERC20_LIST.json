@@ -2411,6 +2411,15 @@
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
       },
+      "0x4d18815D14fe5c3304e87B3FA18318baa5c23820": {
+        "address": "0x4d18815D14fe5c3304e87B3FA18318baa5c23820",
+        "name": "Safe Token",
+        "decimals": 18,
+        "symbol": "SAFE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SAFE.svg"
+      },
       "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": {
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "decimals": 6,
@@ -3267,6 +3276,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/scUSD.svg"
+      },
+      "0x29219dd400f2Bf60E5a23d13Be72B486D4038894": {
+        "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "name": "Bridged USDC (Sonic Labs)",
+        "decimals": 6,
+        "symbol": "USDC.e",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
       }
     },
     "169": {
