@@ -1734,6 +1734,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TLOS.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       }
     },
     "10": {
@@ -1745,6 +1754,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404": {
         "address": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
@@ -2307,7 +2325,7 @@
         "symbol": "THE",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/THE.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/THE.svg"
       }
     },
     "100": {
@@ -2319,6 +2337,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x4b1E2c2762667331Bc91648052F646d1b0d35984": {
         "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
@@ -2526,6 +2553,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LAND.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472": {
         "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
@@ -3775,6 +3811,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
       },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
+      },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
         "name": "Staked EURA",
@@ -4322,6 +4367,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D": {
         "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
@@ -6043,6 +6097,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ILOCK.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       }
     },
     "42220": {
@@ -6175,6 +6238,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/meat.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7": {
         "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
