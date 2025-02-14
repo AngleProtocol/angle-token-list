@@ -284,7 +284,7 @@
         "useInSwap": true,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c": {
         "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
@@ -920,7 +920,7 @@
         "address": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png",
         "name": "Gauntlet WETH Prime",
         "symbol": "gtWETH",
         "underlyingTokens": [
@@ -944,7 +944,7 @@
         "address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png",
         "name": "Re7 WETH",
         "symbol": "Re7WETH",
         "underlyingTokens": [
@@ -1734,6 +1734,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TLOS.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       }
     },
     "10": {
@@ -1745,6 +1754,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDT.svg"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404": {
         "address": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
@@ -1808,7 +1826,7 @@
         "wrappingMethod": "Wrap Native",
         "hasPermit": false,
         "useInSwap": true,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x7F5c764cBc14f9669B88837ca1490cCa17c31607": {
         "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
@@ -2307,7 +2325,7 @@
         "symbol": "THE",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/THE.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/THE.svg"
       }
     },
     "100": {
@@ -2319,6 +2337,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x4b1E2c2762667331Bc91648052F646d1b0d35984": {
         "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
@@ -2411,6 +2438,15 @@
         "permitVersion": "1",
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/aBTC.svg"
       },
+      "0x4d18815D14fe5c3304e87B3FA18318baa5c23820": {
+        "address": "0x4d18815D14fe5c3304e87B3FA18318baa5c23820",
+        "name": "Safe Token",
+        "decimals": 18,
+        "symbol": "SAFE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SAFE.svg"
+      },
       "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83": {
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "decimals": 6,
@@ -2467,7 +2503,7 @@
         "symbol": "WETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A": {
         "address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
@@ -2497,6 +2533,17 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/fdm.jpeg"
       }
     },
+    "130": {
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "137": {
       "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105": {
         "address": "0xC03E6ad83dE7C58c9166fF08D66B960d78e64105",
@@ -2506,6 +2553,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/LAND.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472": {
         "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
@@ -2646,7 +2702,7 @@
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png",
         "name": "Wrapped Ether",
         "symbol": "wETH",
         "useInSwap": true
@@ -3256,6 +3312,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/scUSD.svg"
+      },
+      "0x29219dd400f2Bf60E5a23d13Be72B486D4038894": {
+        "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "name": "Bridged USDC (Sonic Labs)",
+        "decimals": 6,
+        "symbol": "USDC.e",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDC.svg"
+      },
+      "0xdBde38013d44aE23baDC4cd8081271B8028eCaF4": {
+        "address": "0xdBde38013d44aE23baDC4cd8081271B8028eCaF4",
+        "name": "Equalizer Diamonds",
+        "decimals": 9,
+        "symbol": "DIAMONDS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/diamond.png"
       }
     },
     "169": {
@@ -3549,7 +3623,7 @@
         "symbol": "WETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0xCafB42a2654C20cb3739F04243E925aa47302bec": {
         "address": "0xCafB42a2654C20cb3739F04243E925aa47302bec",
@@ -3713,7 +3787,7 @@
         "symbol": "WETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       }
     },
     "592": {
@@ -3745,6 +3819,15 @@
         "hasPermit": true,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x004626A008B1aCdC4c74ab51644093b155e59A23": {
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
@@ -3799,7 +3882,7 @@
         "useInSwap": true,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0xCA68ad4EE5c96871EC6C6dac2F714a8437A3Fe66": {
         "address": "0xCA68ad4EE5c96871EC6C6dac2F714a8437A3Fe66",
@@ -3941,7 +4024,7 @@
         "symbol": "WETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x80Eede496655FB9047dd39d9f418d5483ED600df": {
         "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
@@ -4063,6 +4146,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDe.svg"
+      },
+      "0x58538e6A46E07434d7E7375Bc268D3cb839C0133": {
+        "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "name": "ENA",
+        "decimals": 18,
+        "symbol": "ENA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ENA.svg"
       }
     },
     "3776": {
@@ -4186,6 +4278,15 @@
       }
     },
     "8453": {
+      "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc": {
+        "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+        "name": "USDS Stablecoin",
+        "decimals": 18,
+        "symbol": "USDS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDS_sky.svg"
+      },
       "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D": {
         "address": "0x99CBC45ea5bb7eF3a5BC08FB1B7E56bB2442Ef0D",
         "name": "Aave Base wstETH",
@@ -4275,6 +4376,15 @@
         "useInSwap": false,
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ANGLE.svg"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       },
       "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D": {
         "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
@@ -4474,7 +4584,7 @@
         "useInSwap": true,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188": {
         "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
@@ -4828,7 +4938,7 @@
         "useInSwap": true,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF": {
         "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
@@ -5173,7 +5283,7 @@
         "hasPermit": false,
         "useInSwap": true,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": {
         "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
@@ -5996,6 +6106,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ILOCK.png"
+      },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
       }
     },
     "42220": {
@@ -6129,6 +6248,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/meat.png"
       },
+      "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
+        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+        "name": "Gyro Dollar",
+        "decimals": 18,
+        "symbol": "GYD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
+      },
       "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7": {
         "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
         "name": "yellow ket",
@@ -6224,7 +6352,7 @@
         "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
         "decimals": 18,
         "hasPermit": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg",
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png",
         "name": "Wrapped Ether",
         "symbol": "wETH.e",
         "useInSwap": true
@@ -6332,7 +6460,7 @@
         "useInSwap": true,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4": {
         "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
@@ -6436,6 +6564,17 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
       }
     },
+    "80094": {
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "81457": {
       "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c": {
         "address": "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c",
@@ -6535,7 +6674,7 @@
         "useInSwap": false,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x4300000000000000000000000000000000000003": {
         "address": "0x4300000000000000000000000000000000000003",
@@ -6663,7 +6802,7 @@
         "symbol": "WETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704": {
         "address": "0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704",
@@ -6748,7 +6887,7 @@
         "useInSwap": true,
         "hasPermit": false,
         "wrappingMethod": "Wrap Native",
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WETH.png"
       },
       "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1": {
         "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
