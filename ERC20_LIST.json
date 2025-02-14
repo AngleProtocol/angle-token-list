@@ -4155,6 +4155,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ENA.svg"
+      },
+      "0xc2606AADe4bdd978a4fa5a6edb3b66657acEe6F8": {
+        "address": "0xc2606AADe4bdd978a4fa5a6edb3b66657acEe6F8",
+        "name": "KING",
+        "decimals": 18,
+        "symbol": "KING",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KING.svg"
       }
     },
     "3776": {
