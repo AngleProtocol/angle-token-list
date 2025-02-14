@@ -1743,6 +1743,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
+      },
+      "0x3B50805453023a91a8bf641e279401a0b23FA6F9": {
+        "address": "0x3B50805453023a91a8bf641e279401a0b23FA6F9",
+        "name": "Renzo",
+        "decimals": 18,
+        "symbol": "REZ",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RENZO.png"
       }
     },
     "10": {
