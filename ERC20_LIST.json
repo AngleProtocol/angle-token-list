@@ -3283,6 +3283,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/w3gg.svg"
+      },
+      "0xbfB6318123dA1682B8bD963846C1e9608F5F3Cda": {
+        "address": "0xbfB6318123dA1682B8bD963846C1e9608F5F3Cda",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "146": {
@@ -3339,6 +3348,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/diamond.png"
+      },
+      "0x09E6cab47B7199b9d3839A2C40654f246d518a80": {
+        "address": "0x09E6cab47B7199b9d3839A2C40654f246d518a80",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "169": {
@@ -4173,6 +4191,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/KING.svg"
+      },
+      "0x021694af083d67950Ac994E63e0a70C30D913836": {
+        "address": "0x021694af083d67950Ac994E63e0a70C30D913836",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "3776": {
@@ -6133,6 +6160,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/GYD.svg"
+      },
+      "0xFA31599a4928c2d57C0dd77DFCA5DA1E94E6D2D2": {
+        "address": "0xFA31599a4928c2d57C0dd77DFCA5DA1E94E6D2D2",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "42220": {
@@ -6448,6 +6484,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x47296EC1Ec5143640653169D1a6c8C2C387E41A6": {
+        "address": "0x47296EC1Ec5143640653169D1a6c8C2C387E41A6",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "59144": {
@@ -6580,6 +6625,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/tBTC.svg"
+      },
+      "0x9f395F610Af9ffC98693A0769190446180dc7192": {
+        "address": "0x9f395F610Af9ffC98693A0769190446180dc7192",
+        "name": "Reward EUL",
+        "decimals": 18,
+        "symbol": "rEUL",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
       }
     },
     "80094": {
