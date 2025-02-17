@@ -4841,6 +4841,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SC.svg"
+      },
+      "0x37d3D61a304695619433bc05EF841E889F69Debf": {
+        "address": "0x37d3D61a304695619433bc05EF841E889F69Debf",
+        "name": "DONNIE",
+        "decimals": 18,
+        "symbol": "DONNIE",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONNIE.svg"
       }
     },
     "10242": {
