@@ -3283,6 +3283,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/w3gg.svg"
+      },
+      "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c": {
+        "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+        "name": "Compound",
+        "decimals": 18,
+        "symbol": "COMP",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/COMP.svg"
       }
     },
     "146": {
