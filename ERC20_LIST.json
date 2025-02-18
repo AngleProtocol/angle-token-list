@@ -1752,6 +1752,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RENZO.png"
+      },
+      "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb": {
+        "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+        "name": "ynETH MAX",
+        "decimals": 18,
+        "symbol": "ynETHx",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ynETHx.svg"
       }
     },
     "10": {
