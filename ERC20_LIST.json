@@ -3366,6 +3366,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      },
+      "0x25B0a02C8050943483aE5d68165Ebcb47EB01148": {
+        "address": "0x25B0a02C8050943483aE5d68165Ebcb47EB01148",
+        "name": "Vicuna Gem Fragments - Season 1",
+        "decimals": 18,
+        "symbol": "VicunaFragmentsS1",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/vicuna.svg"
       }
     },
     "169": {
