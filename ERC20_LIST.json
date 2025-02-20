@@ -17,7 +17,7 @@
         "symbol": "rstETH",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/T.svg"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rstETH.png"
       },
       "0x745407c86DF8DB893011912d3aB28e68B62E49B0": {
         "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
