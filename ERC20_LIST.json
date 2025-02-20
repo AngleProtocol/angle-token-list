@@ -10,6 +10,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/T.svg"
       },
+      "0x7a4EffD87C2f3C55CA251080b1343b605f327E3a": {
+        "address": "0x7a4EffD87C2f3C55CA251080b1343b605f327E3a",
+        "name": "Restaking Vault ETH",
+        "decimals": 18,
+        "symbol": "rstETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rstETH.png"
+      },
       "0x745407c86DF8DB893011912d3aB28e68B62E49B0": {
         "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
         "name": "MahaDAO",
