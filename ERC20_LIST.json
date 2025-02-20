@@ -12,7 +12,7 @@
       },
       "0x7a4EffD87C2f3C55CA251080b1343b605f327E3a": {
         "address": "0x7a4EffD87C2f3C55CA251080b1343b605f327E3a",
-        "name": "rstETH",
+        "name": "Restaking Vault ETH",
         "decimals": 18,
         "symbol": "rstETH",
         "hasPermit": false,
