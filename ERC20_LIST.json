@@ -3384,6 +3384,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/vicuna.svg"
+      },
+      "0x3bEd0daF59a0A6FC8D2aEfff015600641C4eD952": {
+        "address": "0x3bEd0daF59a0A6FC8D2aEfff015600641C4eD952",
+        "name": "Sonic Market Gem",
+        "decimals": 18,
+        "symbol": "SGEM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SGEM.png"
       }
     },
     "169": {
