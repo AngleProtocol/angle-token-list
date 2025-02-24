@@ -1771,7 +1771,7 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ynETHx.svg"
       },
-      "0x3EB42981A1E4A55dC7cEB3369F1E19AC39D4F310" : {
+      "0x3EB42981A1E4A55dC7cEB3369F1E19AC39D4F310": {
         "address": "0x3EB42981A1E4A55dC7cEB3369F1E19AC39D4F310",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1779,8 +1779,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0x38bA3D4EEF949Ee4Ea86d795a303f5921BeD312F" : {
+      },
+      "0x38bA3D4EEF949Ee4Ea86d795a303f5921BeD312F": {
         "address": "0x38bA3D4EEF949Ee4Ea86d795a303f5921BeD312F",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1788,8 +1788,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0xF5ecCAB805354613D60bbEdFD611f34F5915d2b1" : {
+      },
+      "0xF5ecCAB805354613D60bbEdFD611f34F5915d2b1": {
         "address": "0xF5ecCAB805354613D60bbEdFD611f34F5915d2b1",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1797,8 +1797,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0xf42594E0ccF8899e5537aFe1Cb8cF71732010F10" : {
+      },
+      "0xf42594E0ccF8899e5537aFe1Cb8cF71732010F10": {
         "address": "0xf42594E0ccF8899e5537aFe1Cb8cF71732010F10",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1806,8 +1806,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0xd85a8ebA3E974Ea39d760ac5AFf9546FcCDBee00" : {
+      },
+      "0xd85a8ebA3E974Ea39d760ac5AFf9546FcCDBee00": {
         "address": "0xd85a8ebA3E974Ea39d760ac5AFf9546FcCDBee00",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1815,8 +1815,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0x4C36614a40d1C3cE848dF5106F8bc8f5CBCcF3Dc" : {
+      },
+      "0x4C36614a40d1C3cE848dF5106F8bc8f5CBCcF3Dc": {
         "address": "0x4C36614a40d1C3cE848dF5106F8bc8f5CBCcF3Dc",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1824,8 +1824,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0xe324F602B548f2fcf0300e0d0070f64693e15ca4" : {
+      },
+      "0xe324F602B548f2fcf0300e0d0070f64693e15ca4": {
         "address": "0xe324F602B548f2fcf0300e0d0070f64693e15ca4",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1833,8 +1833,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0x406Cdb28615cfb44774819a43681e113565c247f" : {
+      },
+      "0x406Cdb28615cfb44774819a43681e113565c247f": {
         "address": "0x406Cdb28615cfb44774819a43681e113565c247f",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1842,8 +1842,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0xBA498152F448129F854bb9599Eab44C38270C6d8" : {
+      },
+      "0xBA498152F448129F854bb9599Eab44C38270C6d8": {
         "address": "0xBA498152F448129F854bb9599Eab44C38270C6d8",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1851,8 +1851,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0x3bf4Df6b8DDac3937d263e8c7D936F3F0C6F157a" : {
+      },
+      "0x3bf4Df6b8DDac3937d263e8c7D936F3F0C6F157a": {
         "address": "0x3bf4Df6b8DDac3937d263e8c7D936F3F0C6F157a",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1860,8 +1860,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0x2fB2186172Eb03e71B217900Aeb29701E2EF0Dfe" : {
+      },
+      "0x2fB2186172Eb03e71B217900Aeb29701E2EF0Dfe": {
         "address": "0x2fB2186172Eb03e71B217900Aeb29701E2EF0Dfe",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1869,8 +1869,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0xe53C27eEFb0DE293Abd02d1De51710fF398602c6" : {
+      },
+      "0xe53C27eEFb0DE293Abd02d1De51710fF398602c6": {
         "address": "0xe53C27eEFb0DE293Abd02d1De51710fF398602c6",
         "name": "karak rswETH",
         "decimals": 18,
@@ -1878,8 +1878,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/krswETH.png"
-      },	
-      "0x655CeB4b4fB4425bE6BF978C0e415e81289643a0" : {
+      },
+      "0x655CeB4b4fB4425bE6BF978C0e415e81289643a0": {
         "address": "0x655CeB4b4fB4425bE6BF978C0e415e81289643a0",
         "name": "karak swETH",
         "decimals": 18,
@@ -1887,8 +1887,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x082aC1b7510d48dE7C1b7C4bfD6F03987eE9e793" : {
+      },
+      "0x082aC1b7510d48dE7C1b7C4bfD6F03987eE9e793": {
         "address": "0x082aC1b7510d48dE7C1b7C4bfD6F03987eE9e793",
         "name": "karak swETH",
         "decimals": 18,
@@ -1896,8 +1896,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x7Ce1DE4E1Ff2B70A710933D550ad4675cF03D5F3" : {
+      },
+      "0x7Ce1DE4E1Ff2B70A710933D550ad4675cF03D5F3": {
         "address": "0x7Ce1DE4E1Ff2B70A710933D550ad4675cF03D5F3",
         "name": "karak swETH",
         "decimals": 18,
@@ -1905,8 +1905,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0xD91fffdE7589E30205649200251a4b684Bd7b40D" : {
+      },
+      "0xD91fffdE7589E30205649200251a4b684Bd7b40D": {
         "address": "0xD91fffdE7589E30205649200251a4b684Bd7b40D",
         "name": "karak swETH",
         "decimals": 18,
@@ -1914,8 +1914,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0xcB5699657ba02b606b3C8E37bA807b2ab8D3702A" : {
+      },
+      "0xcB5699657ba02b606b3C8E37bA807b2ab8D3702A": {
         "address": "0xcB5699657ba02b606b3C8E37bA807b2ab8D3702A",
         "name": "karak swETH",
         "decimals": 18,
@@ -1923,8 +1923,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x5a26892fcF4817A2389C34d39B3bfd93Bec162BC" : {
+      },
+      "0x5a26892fcF4817A2389C34d39B3bfd93Bec162BC": {
         "address": "0x5a26892fcF4817A2389C34d39B3bfd93Bec162BC",
         "name": "karak swETH",
         "decimals": 18,
@@ -1932,8 +1932,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0xD2Db0e583b4aF817b5dE3538d656aAc60473e846" : {
+      },
+      "0xD2Db0e583b4aF817b5dE3538d656aAc60473e846": {
         "address": "0xD2Db0e583b4aF817b5dE3538d656aAc60473e846",
         "name": "karak swETH",
         "decimals": 18,
@@ -1941,8 +1941,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0xC9784B499b842D7A7A8e7057798b8e1Da1875D31" : {
+      },
+      "0xC9784B499b842D7A7A8e7057798b8e1Da1875D31": {
         "address": "0xC9784B499b842D7A7A8e7057798b8e1Da1875D31",
         "name": "karak swETH",
         "decimals": 18,
@@ -1950,8 +1950,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x235f97a71514ab5E3C73a6B6Fe5F3EAbe8711551" : {
+      },
+      "0x235f97a71514ab5E3C73a6B6Fe5F3EAbe8711551": {
         "address": "0x235f97a71514ab5E3C73a6B6Fe5F3EAbe8711551",
         "name": "karak swETH",
         "decimals": 18,
@@ -1959,8 +1959,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x4b904f19a417D184Ad330fC1202CD47b368CA5e2" : {
+      },
+      "0x4b904f19a417D184Ad330fC1202CD47b368CA5e2": {
         "address": "0x4b904f19a417D184Ad330fC1202CD47b368CA5e2",
         "name": "karak swETH",
         "decimals": 18,
@@ -1968,8 +1968,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x8fBF6A3ba808C826acc0D35e17fD83fa460F6b03" : {
+      },
+      "0x8fBF6A3ba808C826acc0D35e17fD83fa460F6b03": {
         "address": "0x8fBF6A3ba808C826acc0D35e17fD83fa460F6b03",
         "name": "karak swETH",
         "decimals": 18,
@@ -1977,8 +1977,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0x515BBAD87f0A2E3fF11481Dad9f07E24996b2b9C" : {
+      },
+      "0x515BBAD87f0A2E3fF11481Dad9f07E24996b2b9C": {
         "address": "0x515BBAD87f0A2E3fF11481Dad9f07E24996b2b9C",
         "name": "karak swETH",
         "decimals": 18,
@@ -1986,8 +1986,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kswETH.png"
-      },	
-      "0xfbf0Dc4519D0F1ccC1130e73307087A522dAa641" : {
+      },
+      "0xfbf0Dc4519D0F1ccC1130e73307087A522dAa641": {
         "address": "0xfbf0Dc4519D0F1ccC1130e73307087A522dAa641",
         "name": "karak mswETH",
         "decimals": 18,
@@ -1995,8 +1995,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0xf6c8F5CD27D7ad3A91401f6Dfa49E581614F8409" : {
+      },
+      "0xf6c8F5CD27D7ad3A91401f6Dfa49E581614F8409": {
         "address": "0xf6c8F5CD27D7ad3A91401f6Dfa49E581614F8409",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2004,8 +2004,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0x502CD7f46929Ea8c9E644F7d89A74c0f08B183e0" : {
+      },
+      "0x502CD7f46929Ea8c9E644F7d89A74c0f08B183e0": {
         "address": "0x502CD7f46929Ea8c9E644F7d89A74c0f08B183e0",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2013,8 +2013,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0x062c095F25CC228d860759166383544115a87B24" : {
+      },
+      "0x062c095F25CC228d860759166383544115a87B24": {
         "address": "0x062c095F25CC228d860759166383544115a87B24",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2022,8 +2022,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0x6751cD89c19C1c9353a452875da80412B8137d3E" : {
+      },
+      "0x6751cD89c19C1c9353a452875da80412B8137d3E": {
         "address": "0x6751cD89c19C1c9353a452875da80412B8137d3E",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2031,8 +2031,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0x9D70BA101E7203Ce10a84EDee89CC27b8288A16D" : {
+      },
+      "0x9D70BA101E7203Ce10a84EDee89CC27b8288A16D": {
         "address": "0x9D70BA101E7203Ce10a84EDee89CC27b8288A16D",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2040,8 +2040,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0xA87906c0481AcaF8b40E8A8088f6cb3397C72D2e" : {
+      },
+      "0xA87906c0481AcaF8b40E8A8088f6cb3397C72D2e": {
         "address": "0xA87906c0481AcaF8b40E8A8088f6cb3397C72D2e",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2049,8 +2049,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0x3b257C4fd921f3C647a159F34606d04F2a911e60" : {
+      },
+      "0x3b257C4fd921f3C647a159F34606d04F2a911e60": {
         "address": "0x3b257C4fd921f3C647a159F34606d04F2a911e60",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2058,8 +2058,8 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      },	
-      "0x73E2Ab6b63f153b6437ff4D05f070eB09cbC495a" : {
+      },
+      "0x73E2Ab6b63f153b6437ff4D05f070eB09cbC495a": {
         "address": "0x73E2Ab6b63f153b6437ff4D05f070eB09cbC495a",
         "name": "karak mswETH",
         "decimals": 18,
@@ -2067,7 +2067,7 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/kmswETH.png"
-      }	
+      },
       "0xb45fFB51984d626Ee758b336C61Cf20990c6bF13": {
         "address": "0xb45fFB51984d626Ee758b336C61Cf20990c6bF13",
         "name": "Wrapped RBNT",
@@ -3699,6 +3699,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SGEM.png"
+      },
+      "0x3419966bC74fa8f951108d15b053bEd233974d3D": {
+        "address": "0x3419966bC74fa8f951108d15b053bEd233974d3D",
+        "name": "Beets Gem Fragments - Season 1",
+        "decimals": 18,
+        "symbol": "BeetsFragmentsS1",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/beetsgems.svg"
       }
     },
     "169": {
