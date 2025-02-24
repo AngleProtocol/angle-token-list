@@ -4912,6 +4912,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONNIE.svg"
+      },
+      "0xF18414c2F5082E6be067A7645cC50a78a59f574F": {
+        "address": "0xF18414c2F5082E6be067A7645cC50a78a59f574F",
+        "name": "BetMe",
+        "decimals": 18,
+        "symbol": "BetMe",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/betme.png"
       }
     },
     "10242": {
