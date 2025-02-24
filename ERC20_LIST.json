@@ -1770,6 +1770,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ynETHx.svg"
+      },
+      "0xb45fFB51984d626Ee758b336C61Cf20990c6bF13": {
+        "address": "0xb45fFB51984d626Ee758b336C61Cf20990c6bF13",
+        "name": "Wrapped RBNT",
+        "decimals": 18,
+        "symbol": "WRBNT",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rbnb.svg"
       }
     },
     "10": {
@@ -4903,6 +4912,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONNIE.svg"
+      },
+      "0xF18414c2F5082E6be067A7645cC50a78a59f574F": {
+        "address": "0xF18414c2F5082E6be067A7645cC50a78a59f574F",
+        "name": "BetMe",
+        "decimals": 18,
+        "symbol": "BetMe",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/betme.png"
       }
     },
     "10242": {
