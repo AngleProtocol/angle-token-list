@@ -7020,6 +7020,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      },
+      "0x9998e05030Aee3Af9AD3df35A34F5C51e1628779": {
+        "address": "0x9998e05030Aee3Af9AD3df35A34F5C51e1628779",
+        "name": "Hybrid Bitcoin",
+        "decimals": 8,
+        "symbol": "HybridBTC.pendle",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/hybridbtc.png"
       }
     },
     "80094": {
