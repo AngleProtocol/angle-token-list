@@ -4573,8 +4573,8 @@
       }
     },
     "2020": {
-      "0x05225a6416edaeec7227027e86f7a47d18a06b91": {
-        "address": "0x05225a6416edaeec7227027e86f7a47d18a06b91",
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
         "name": "aglaMerkl",
         "decimals": 6,
         "symbol": "aglaMerkl",
