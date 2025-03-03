@@ -2076,6 +2076,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WRBNT.svg"
+      },
+      "0x320623b8E4fF03373931769A31Fc52A4E78B5d70": {
+        "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+        "name": "Reserve Rights",
+        "decimals": 18,
+        "symbol": "RSR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RSR.png"
       }
     },
     "10": {
@@ -5227,6 +5236,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/betme.png"
+      },
+      "0xab36452dbac151be02b16ca17d8919826072f64a": {
+        "address": "0xab36452dbac151be02b16ca17d8919826072f64a",
+        "name": "Reserve Rights",
+        "decimals": 18,
+        "symbol": "RSR",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RSR.png"
       }
     },
     "10242": {
