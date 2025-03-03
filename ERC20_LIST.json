@@ -5237,8 +5237,8 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/betme.png"
       },
-      "0xab36452dbac151be02b16ca17d8919826072f64a": {
-        "address": "0xab36452dbac151be02b16ca17d8919826072f64a",
+      "0xaB36452DbAC151bE02b16Ca17d8919826072f64a": {
+        "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
         "name": "Reserve Rights",
         "decimals": 18,
         "symbol": "RSR",
