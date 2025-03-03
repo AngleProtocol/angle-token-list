@@ -4590,6 +4590,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xe514d9DEB7966c8BE0ca922de8a064264eA6bcd4": {
+        "address": "0xe514d9DEB7966c8BE0ca922de8a064264eA6bcd4",
+        "name": "Wrapped Ronin",
+        "decimals": 18,
+        "symbol": "WRON",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wRON.png"
       }
     },
     "3776": {
