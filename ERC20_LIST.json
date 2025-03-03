@@ -4197,6 +4197,17 @@
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ARSW.svg"
       }
     },
+    "747": {
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      }
+    },
     "1101": {
       "0xA61BeB4A3d02decb01039e378237032B351125B4": {
         "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
@@ -4568,6 +4579,17 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      }
+    },
+    "2020": {
+      "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
+        "address": "0x05225a6416EDaeeC7227027E86F7A47D18A06b91",
+        "name": "aglaMerkl",
+        "decimals": 6,
+        "symbol": "aglaMerkl",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
     },
     "3776": {
