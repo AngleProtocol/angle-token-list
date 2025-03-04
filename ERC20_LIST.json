@@ -2094,6 +2094,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wM.png"
+      },
+      "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8": {
+        "address": "0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8",
+        "name": "ETHPlus",
+        "decimals": 18,
+        "symbol": "ETH+",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ethplus.svg"
       }
     },
     "10": {
@@ -5285,6 +5294,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/RSR.png"
+      },
+      "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff": {
+        "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+        "name": "Based ETH",
+        "decimals": 18,
+        "symbol": "bsdETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bsdeth.svg"
       }
     },
     "10242": {
