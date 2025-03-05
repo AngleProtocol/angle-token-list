@@ -3664,6 +3664,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stS.png"
       },
+      "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1": {
+        "address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+        "name": "wOS",
+        "decimals": 18,
+        "symbol": "wOS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wOS.svg"
+      },
       "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
         "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
         "name": "aglaMerkl",
