@@ -3682,6 +3682,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/scETH.png"
       },
+      "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd": {
+        "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
+        "name": "scBTC",
+        "decimals": 8,
+        "symbol": "scBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/scBTC.png"
+      },
       "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
         "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
         "name": "aglaMerkl",
