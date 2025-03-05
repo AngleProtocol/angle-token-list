@@ -3655,6 +3655,15 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
       },
+      "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955": {
+        "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+        "name": "stS",
+        "decimals": 18,
+        "symbol": "stS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stS.png"
+      },
       "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
         "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
         "name": "aglaMerkl",
