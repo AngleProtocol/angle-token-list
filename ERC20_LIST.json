@@ -82,6 +82,33 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/unifiETH.svg"
       },
+      "0x784A0bb8208C70290cac6bcBC3650cEb9227813E": {
+        "address": "0x784A0bb8208C70290cac6bcBC3650cEb9227813E",
+        "name": "YT Puffer ETH",
+        "decimals": 18,
+        "symbol": "YT-pufETH",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/ytpufETH.svg"
+      },
+      "0x82c40e07277eBb92935f79cE92268F80dDc7caB4": {
+        "address": "0x82c40e07277eBb92935f79cE92268F80dDc7caB4",
+        "name": "UniFi USD",
+        "decimals": 18,
+        "symbol": "unifiUSD",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/unifiUSD.svg"
+      },
+      "0x170D847A8320F3B6A77eE15B0CAE430e3eC933a0": {
+        "address": "0x170D847A8320F3B6A77eE15B0CAE430e3eC933a0",
+        "name": "UniFi BTC",
+        "decimals": 18,
+        "symbol": "unifiBTC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/unifiBTC.svg"
+      },
       "0xdD7Afc0f014A1E1716307Ff040704fA12E8D33A3": {
         "address": "0xdD7Afc0f014A1E1716307Ff040704fA12E8D33A3",
         "name": "ZeroLend Puffer ETH",
