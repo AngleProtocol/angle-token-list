@@ -6815,6 +6815,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb": {
+        "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+        "name": "Wrapped XTZ",
+        "decimals": 18,
+        "symbol": "WXTZ",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/XTZ.svg"
+      },
+      "0x79052Ab3C166D4899a1e0DD033aC3b379AF0B1fD": {
+        "address": "0x79052Ab3C166D4899a1e0DD033aC3b379AF0B1fD",
+        "name": "xU3O8",
+        "decimals": 18,
+        "symbol": "xU3O8",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/xU.svg"
       }
     },
     "43114": {
