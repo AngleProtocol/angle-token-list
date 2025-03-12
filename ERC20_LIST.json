@@ -2725,6 +2725,15 @@
         "hasPermit": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/DONUT.png"
       },
+      "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb": {
+        "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+        "name": "Gnosis Token on xDai",
+        "decimals": 18,
+        "symbol": "GNO",
+        "useInSwap": false,
+        "hasPermit": false,
+        "logoURI": "https://storage.tally.so/private/logo_square_simple_300px.webp?id=Mb41Yl&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1iNDFZbCIsImZvcm1JZCI6IjN5MmJxeCIsImlhdCI6MTc0MTc5Mjc0OH0.9axZzA4EC6QnODVTf6gQXx3h_0qja_FgaD4o4Wviywc&signature=9c4e87b0f955a41750f35fe9ab73db7d73c307d8e4191d04ec610719bbad19bb"
+      },
       "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8": {
         "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
         "name": "Gyro Dollar",
@@ -3681,6 +3690,33 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
+      },
+      "0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70": {
+        "address": "0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70",
+        "name": "Wrapped anS",
+        "decimals": 18,
+        "symbol": "wanS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wanS.png"
+      },
+      "0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987": {
+        "address": "0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987",
+        "name": "Angles Staked Sonic",
+        "decimals": 18,
+        "symbol": "anS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/anS.png"
+      },
+      "0x15E96CDecA34B9DE1B31586c1206206aDb92E69D": {
+        "address": "0x15E96CDecA34B9DE1B31586c1206206aDb92E69D",
+        "name": "Angles Liquid",
+        "decimals": 18,
+        "symbol": "lanS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/anS.png"
       },
       "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955": {
         "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
