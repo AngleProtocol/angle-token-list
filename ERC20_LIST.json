@@ -3691,6 +3691,33 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/UNI.svg"
       },
+      "0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70": {
+        "address": "0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70",
+        "name": "Wrapped anS",
+        "decimals": 18,
+        "symbol": "wanS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/wanS.png"
+      },
+      "0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987": {
+        "address": "0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987",
+        "name": "Angles Staked Sonic",
+        "decimals": 18,
+        "symbol": "anS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/anS.png"
+      },
+      "0x15E96CDecA34B9DE1B31586c1206206aDb92E69D": {
+        "address": "0x15E96CDecA34B9DE1B31586c1206206aDb92E69D",
+        "name": "Angles Liquid",
+        "decimals": 18,
+        "symbol": "lanS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/anS.png"
+      },
       "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955": {
         "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
         "name": "stS",
