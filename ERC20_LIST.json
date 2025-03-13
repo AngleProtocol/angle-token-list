@@ -3762,7 +3762,7 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SONIC.svg"
-    },
+      },
       "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2": {
         "address": "0xc5aD1F0C585e56fF924Ad2Eb6Bff7B8d36e61DC2",
         "name": "aglaMerkl",
@@ -3843,6 +3843,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/beetsgems.png"
+      },
+      "0x6C5E14A212c1C3e4Baf6f871ac9B1a969918c131": {
+        "address": "0x6C5E14A212c1C3e4Baf6f871ac9B1a969918c131",
+        "name": "Aave Sonic wS",
+        "decimals": 18,
+        "symbol": "aSonwS",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/S.png"
       }
     },
     "169": {
