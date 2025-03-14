@@ -5429,6 +5429,24 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/bsdeth.svg"
+      },
+      "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85": {
+        "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+        "name": "Seamless",
+        "decimals": 18,
+        "symbol": "SEAM",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SEAM.png"
+      },
+      "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842": {
+        "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+        "name": "Morpho Token",
+        "decimals": 18,
+        "symbol": "MORPHO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/morpho.png"
       }
     },
     "10242": {
