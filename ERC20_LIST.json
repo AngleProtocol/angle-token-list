@@ -7278,6 +7278,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
+      },
+      "0x6969696969696969696969696969696969696969": {
+        "address": "0x6969696969696969696969696969696969696969",
+        "name": "Wrapped Bera",
+        "decimals": 18,
+        "symbol": "WBERA",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/BERA.svg"
       }
     },
     "81457": {
