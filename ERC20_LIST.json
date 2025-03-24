@@ -7097,7 +7097,16 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
-      }
+      },
+      "0x42cF42e55c89C6389FbbBA27dAeD4E6d2908ECF9": {
+        "address": "0x42cF42e55c89C6389FbbBA27dAeD4E6d2908ECF9",
+        "name": "Pollen Points",
+        "decimals": 18,
+        "symbol": "cPOLLEN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://assets.beraborrow.com/icons/pollen.png"
+      },
     },
     "57073": {
       "0x05225a6416EDaeeC7227027E86F7A47D18A06b91": {
