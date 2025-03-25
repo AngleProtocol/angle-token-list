@@ -5447,6 +5447,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/morpho.png"
+      },
+      "0xc63529297dE076eB15fcbE873AE9136E446cFbB9": {
+        "address": "0xc63529297dE076eB15fcbE873AE9136E446cFbB9",
+        "name": "Gyroscope",
+        "decimals": 18,
+        "symbol": "GYFI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/gyfi.svg"
       }
     },
     "10242": {
