@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 344.76001 344.75"
+   xml:space="preserve"
+   sodipodi:docname="logo.svg"
+   width="344.76001"
+   height="344.75"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.0387597"
+   inkscape:cx="173.26148"
+   inkscape:cy="172.43878"
+   inkscape:window-width="2490"
+   inkscape:window-height="1376"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	
+		.st0{clip-path:url(#SVGID_00000098911101653101457890000008259814287740265099_);fill:url(#SVGID_00000166643596381822175280000001743291888960027008_);}
+	.st1{clip-path:url(#SVGID_00000059999988864385268390000000875128571798722692_);fill:#FFFFFF;}
+</style>
+<g
+   id="g3"
+   transform="translate(-25.28,-21.22)">
+	<defs
+   id="defs1">
+		<path
+   id="SVGID_1_"
+   d="m 25.28,193.59 c 0,95.05 77.33,172.38 172.38,172.38 95.05,0 172.38,-77.33 172.38,-172.38 0,-95.05 -77.33,-172.37 -172.38,-172.37 -95.05,0 -172.38,77.32 -172.38,172.37" />
+	</defs>
+	<clipPath
+   id="SVGID_00000059286493294856411500000011588046309768363164_">
+		<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible"
+   id="use1" />
+	</clipPath>
+	
+		<linearGradient
+   id="SVGID_00000176001327021345708610000001868965450748901803_"
+   gradientUnits="userSpaceOnUse"
+   x1="-761.90387"
+   y1="737.10571"
+   x2="-760.90387"
+   y2="737.10571"
+   gradientTransform="matrix(252.6042,252.6042,252.6042,-252.6042,6336.3657,378724.22)">
+		<stop
+   offset="0"
+   style="stop-color:#1DC0CC"
+   id="stop1" />
+		<stop
+   offset="0.5"
+   style="stop-color:#8E15F8"
+   id="stop2" />
+		<stop
+   offset="1"
+   style="stop-color:#E20000"
+   id="stop3" />
+	</linearGradient>
+	
+		<polygon
+   style="fill:url(#SVGID_00000176001327021345708610000001868965450748901803_)"
+   points="197.66,538.34 -147.09,193.59 197.66,-151.16 542.41,193.59 "
+   clip-path="url(#SVGID_00000059286493294856411500000011588046309768363164_)"
+   id="polygon3" />
+</g>
+<g
+   id="g4"
+   transform="translate(-25.28,-21.22)">
+	<defs
+   id="defs3">
+		<rect
+   id="SVGID_00000122709530154060510220000016775563932512718014_"
+   x="-206.84"
+   y="-346.41"
+   width="1920"
+   height="1080" />
+	</defs>
+	<clipPath
+   id="SVGID_00000129195594574759787450000009704644775612706699_">
+		<use
+   xlink:href="#SVGID_00000122709530154060510220000016775563932512718014_"
+   style="overflow:visible"
+   id="use3" />
+	</clipPath>
+	<path
+   style="fill:#ffffff"
+   d="M 287.25,161.32 V 261.6 h -33.8 V 161.32 c 0,-14.97 -12.18,-27.16 -27.16,-27.16 v -33.8 c 33.61,0 60.96,27.34 60.96,60.96"
+   clip-path="url(#SVGID_00000129195594574759787450000009704644775612706699_)"
+   id="path3" />
+	<path
+   style="fill:#ffffff"
+   d="m 169.03,168.95 v 33.8 c -14.98,0 -27.16,12.18 -27.16,27.16 v 31.69 h -33.8 v -31.69 c 0,-33.62 27.35,-60.96 60.96,-60.96"
+   clip-path="url(#SVGID_00000129195594574759787450000009704644775612706699_)"
+   id="path4" />
+	
+		<rect
+   x="180.75999"
+   y="134.03999"
+   style="fill:#ffffff"
+   width="33.799999"
+   height="127.56"
+   clip-path="url(#SVGID_00000129195594574759787450000009704644775612706699_)"
+   id="rect4" />
+</g>
+</svg>
