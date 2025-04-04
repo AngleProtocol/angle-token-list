@@ -6848,7 +6848,16 @@
         "symbol": "CELO",
         "hasPermit": false,
         "useInSwap": false,
-        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CELO.png"
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CELO.svg"
+      },
+      "0xC3e77dC389537Db1EEc7C33B95Cf3beECA71A209": {
+        "address": "0xC3e77dC389537Db1EEc7C33B95Cf3beECA71A209",
+        "name": "Aave Celo CELO",
+        "decimals": 18,
+        "symbol": "aCelCELO",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/CELO.svg"
       },
       "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e": {
         "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
