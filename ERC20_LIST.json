@@ -4723,6 +4723,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      },
+      "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D": {
+        "address": "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D",
+        "name": "rUSDC",
+        "decimals": 6,
+        "symbol": "rUSDC",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rusdc.png"
       }
     },
     "2020": {
