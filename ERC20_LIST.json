@@ -4723,6 +4723,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EUL.svg"
+      },
+      "0x0000bAa0b1678229863c0A941C1056b83a1955F5": {
+        "address": "0x0000bAa0b1678229863c0A941C1056b83a1955F5",
+        "name": "Orki USD",
+        "decimals": 18,
+        "symbol": "USDK",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/orki.svg"
       }
     },
     "2020": {
