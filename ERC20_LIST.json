@@ -5474,6 +5474,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/gyfi.svg"
+      },
+      "0xca4569949699d56e1834efe9f58747ca0f151b01": {
+        "address": "0xca4569949699d56e1834efe9f58747ca0f151b01",
+        "name": "Token Metrics AI",
+        "decimals": 18,
+        "symbol": "TMAI",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/TMAI.svg"
       }
     },
     "10242": {
