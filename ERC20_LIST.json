@@ -7332,6 +7332,15 @@
         "hasPermit": false,
         "useInSwap": false,
         "logoURI": "https://assets.beraborrow.com/icons/pollen.png"
+      },
+      "0xC99e948E9D183848a6c4F5E6C1d225F02f171d79": {
+        "address": "0xC99e948E9D183848a6c4F5E6C1d225F02f171d79",
+        "name": "POLLEN",
+        "decimals": 18,
+        "symbol": "POLLEN",
+        "hasPermit": false,
+        "useInSwap": false,
+        "logoURI": "https://assets.beraborrow.com/icons/pollen.png"
       }
     },
     "81457": {
